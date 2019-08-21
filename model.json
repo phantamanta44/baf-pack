@@ -1075,19 +1075,6 @@
     "dependencies": []
   }, {
     "mod": {
-      "slug": "spice-of-life-carrot-edition",
-      "name": "Spice of Life: Carrot Edition",
-      "project_id": 277616,
-      "author": "lordcazsius",
-      "license": "LGPL_V3"
-    },
-    "version": "solcarrot-1.12.2-1.8.3.jar",
-    "file_id": 2731062,
-    "game_version": "V1_12_2",
-    "timestamp": 1561592485,
-    "dependencies": ["applecore"]
-  }, {
-    "mod": {
       "slug": "pams-get-all-the-seeds",
       "name": "Pam's Get All the Seeds!",
       "project_id": 221914,
