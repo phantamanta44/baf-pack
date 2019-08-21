@@ -7,3 +7,5 @@
 * replace oregen
 * remove inscription stamping recipe
 * fix mekores sometimes marking various ores as invalid
+* comprehensive alchemistry recipes
+* recipe for ic2 iridium
