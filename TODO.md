@@ -1,8 +1,10 @@
 # config
 * add all ores to laser drill
+* add all ores to astral sorcery thingies
 * add all ores to void ore miner
 * add all resources to void resource miner
 * add all flora to void botanical miner
+* more blood magic meteors
 * add glowing items to librarianlib config
 * replace oregen
 * remove inscription stamping recipe
@@ -10,3 +12,4 @@
 * comprehensive alchemistry recipes
 * recipe for ic2 iridium
 * more advgen turbine materials
+* add all shears to bonsai tree cutting tools
