@@ -5,3 +5,4 @@
 * add all flora to void botanical miner
 * add glowing items to librarianlib config
 * replace oregen
+* remove inscription stamping recipe

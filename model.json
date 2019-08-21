@@ -2035,5 +2035,44 @@
     "game_version": "V1_12_2",
     "timestamp": 1562877288,
     "dependencies": []
+  }, {
+    "mod": {
+      "slug": "crafttweaker",
+      "name": "CraftTweaker",
+      "project_id": 239197,
+      "author": "Jaredlll08",
+      "license": "MIT"
+    },
+    "version": "CraftTweaker2-1.12-4.1.19",
+    "file_id": 2724129,
+    "game_version": "V1_12_2",
+    "timestamp": 1560423046,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "modtweaker",
+      "name": "ModTweaker",
+      "project_id": 220954,
+      "author": "Jaredlll08",
+      "license": "MIT"
+    },
+    "version": "modtweaker-4.0.17",
+    "file_id": 2693544,
+    "game_version": "V1_12_2",
+    "timestamp": 1553992608,
+    "dependencies": ["mtlib"]
+  }, {
+    "mod": {
+      "slug": "mtlib",
+      "name": "MTLib",
+      "project_id": 253211,
+      "author": "Jaredlll08",
+      "license": "MIT"
+    },
+    "version": "MTLib-3.0.6",
+    "file_id": 2684561,
+    "game_version": "V1_12_2",
+    "timestamp": 1551999748,
+    "dependencies": ["crafttweaker"]
   }]
 }

@@ -155,3 +155,6 @@ mystic-world
 mekanism-tools
 mekanism-generators
 useful-nullifiers
+crafttweaker
+modtweaker
+mtlib
