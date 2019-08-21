@@ -2074,5 +2074,18 @@
     "game_version": "V1_12_2",
     "timestamp": 1551999748,
     "dependencies": ["crafttweaker"]
+  }, {
+    "mod": {
+      "slug": "controlling",
+      "name": "Controlling",
+      "project_id": 250398,
+      "author": "Jaredlll08",
+      "license": "MIT"
+    },
+    "version": "Controlling-3.0.7",
+    "file_id": 2731319,
+    "game_version": "V1_12_2",
+    "timestamp": 1561627529,
+    "dependencies": []
   }]
 }
