@@ -158,3 +158,4 @@ useful-nullifiers
 crafttweaker
 modtweaker
 mtlib
+stuff-a-sock-in-it

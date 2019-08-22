@@ -2087,5 +2087,18 @@
     "game_version": "V1_12_2",
     "timestamp": 1561627529,
     "dependencies": []
+  }, {
+    "mod": {
+      "slug": "stuff-a-sock-in-it",
+      "name": "Stuff A Sock In It",
+      "project_id": 262137,
+      "author": "DarkhaxDev",
+      "license": "LGPL_V3"
+    },
+    "version": "StuffASockInIt-1.12.2-1.1.30.jar",
+    "file_id": 2751155,
+    "game_version": "V1_12_2",
+    "timestamp": 1564442561,
+    "dependencies": []
   }]
 }
