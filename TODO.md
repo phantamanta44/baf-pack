@@ -13,3 +13,6 @@
 * recipe for ic2 iridium
 * more advgen turbine materials
 * add all shears to bonsai tree cutting tools
+* unify recipes for common components
+* nerf phosphorus lantern recipe
+* work out semantics for TAIGA basalt
