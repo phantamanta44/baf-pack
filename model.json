@@ -2100,5 +2100,18 @@
     "game_version": "V1_12_2",
     "timestamp": 1564442561,
     "dependencies": []
+  }, {
+    "mod": {
+      "slug": "shut-up-model-loader",
+      "name": "Shut Up, Model Loader!",
+      "project_id": 337001,
+      "author": "phantamanta44",
+      "license": "UNKNOWN"
+    },
+    "version": "1.12.2-1.0.0",
+    "file_id": 2768009,
+    "game_version": "V1_12_2",
+    "timestamp": 1566535829,
+    "dependencies": []
   }]
 }
