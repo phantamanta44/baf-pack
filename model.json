@@ -80,10 +80,10 @@
       "author": "phantamanta44",
       "license": "MIT"
     },
-    "version": "1.12.2-2.0.7",
-    "file_id": 2738353,
+    "version": "1.12.2-2.0.9",
+    "file_id": 2767975,
     "game_version": "V1_12_2",
-    "timestamp": 1562707686,
+    "timestamp": 1566529189,
     "dependencies": ["mekanism"]
   }, {
     "mod": {
