@@ -1042,10 +1042,10 @@
       "author": "phantamanta44",
       "license": "UNKNOWN"
     },
-    "version": "1.12.2-1.0.1",
-    "file_id": 2766622,
+    "version": "1.12.2-1.0.2",
+    "file_id": 2772695,
     "game_version": "V1_12_2",
-    "timestamp": 1566364650,
+    "timestamp": 1566956,
     "dependencies": ["libnine"]
   }, {
     "mod": {
