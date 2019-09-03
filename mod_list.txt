@@ -159,3 +159,6 @@ crafttweaker
 modtweaker
 mtlib
 stuff-a-sock-in-it
+shut-up-model-loader
+psi
+psio

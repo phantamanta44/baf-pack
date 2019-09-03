@@ -1705,10 +1705,10 @@
       "author": "phantamanta44",
       "license": "MIT"
     },
-    "version": "1.12.2-1.1.1",
-    "file_id": 2752325,
+    "version": "1.12.2-1.1.2",
+    "file_id": 2774954,
     "game_version": "V1_12_2",
-    "timestamp": 1564620699,
+    "timestamp": 1567220,
     "dependencies": []
   }, {
     "mod": {
@@ -2113,5 +2113,31 @@
     "game_version": "V1_12_2",
     "timestamp": 1566535829,
     "dependencies": []
+  }, {
+    "mod": {
+      "slug": "psi",
+      "name": "Psi",
+      "project_id": 241665,
+      "author": "Vazkii_",
+      "license": "UNKNOWN"
+    },
+    "version": "Psi-r1.1-77.jar",
+    "file_id": 2724967,
+    "game_version": "V1_12_2",
+    "timestamp": 1560607,
+    "dependencies": ["autoreglib"]
+  }, {
+    "mod": {
+      "slug": "psio",
+      "name": "Psio",
+      "project_id": 339394,
+      "author": "phantamanta44",
+      "license": "UNKNOWN"
+    },
+    "version": "1.12.2-1.0.0",
+    "file_id": 2774965,
+    "game_version": "V1_12_2",
+    "timestamp": 1567221,
+    "dependencies": ["libnine", "psi"]
   }]
 }
