@@ -2139,5 +2139,18 @@
     "game_version": "V1_12_2",
     "timestamp": 1567221,
     "dependencies": ["libnine", "psi"]
+  }, {
+    "mod": {
+      "slug": "random-psideas",
+      "name": "Random PSIdeas",
+      "project_id": 302313,
+      "author": "kamefrede123",
+      "license": "MIT"
+    },
+    "version": "Random PSIdeas-2.4.2",
+    "file_id": 2725942,
+    "game_version": "V1_12_2",
+    "timestamp": 1560794,
+    "dependencies": ["autoreglib", "librarianlib", "psi", "shadowfacts-forgelin"]
   }]
 }

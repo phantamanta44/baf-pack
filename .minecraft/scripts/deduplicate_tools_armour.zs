@@ -1,22 +1,25 @@
-import mods.jei.JEI;
+function banItem(item as crafttweaker.item.IItemStack) {
+  mods.jei.JEI.removeAndHide(item);
+  recipes.remove(item);
+}
 
 function rmBasicTools(namespace as string, name as string) {
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ name ~ "_axe"));
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ name ~ "_shovel"));
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ name ~ "_pickaxe"));
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ name ~ "_sword"));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ name ~ "_axe"));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ name ~ "_shovel"));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ name ~ "_pickaxe"));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ name ~ "_sword"));
 }
 
 function rmTools(namespace as string, name as string) {
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ name ~ "_hoe"));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ name ~ "_hoe"));
   rmBasicTools(namespace, name);
 }
 
 function rmArmour(namespace as string, name as string) {
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ name ~ "_helmet"));
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ name ~ "_chestplate"));
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ name ~ "_leggings"));
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ name ~ "_boots"));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ name ~ "_helmet"));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ name ~ "_chestplate"));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ name ~ "_leggings"));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ name ~ "_boots"));
 }
 
 function rmAll(namespace as string, name as string) {
@@ -25,22 +28,22 @@ function rmAll(namespace as string, name as string) {
 }
 
 function rmBasicToolsZ(namespace as string, name as string) {
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ "axe_" ~ name));
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ "shovel_" ~ name));
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ "pickaxe_" ~ name));
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ "sword_" ~ name));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ "axe_" ~ name));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ "shovel_" ~ name));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ "pickaxe_" ~ name));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ "sword_" ~ name));
 }
 
 function rmToolsZ(namespace as string, name as string) {
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ "hoe_" ~ name));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ "hoe_" ~ name));
   rmBasicToolsZ(namespace, name);
 }
 
 function rmArmourZ(namespace as string, name as string) {
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ "helmet_" ~ name));
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ "chestplate_" ~ name));
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ "leggings_" ~ name));
-  JEI.removeAndHide(itemUtils.getItem(namespace ~ ":" ~ "boots_" ~ name));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ "helmet_" ~ name));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ "chestplate_" ~ name));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ "leggings_" ~ name));
+  banItem(itemUtils.getItem(namespace ~ ":" ~ "boots_" ~ name));
 }
 
 function rmAllZ(namespace as string, name as string) {
