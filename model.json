@@ -2134,10 +2134,10 @@
       "author": "phantamanta44",
       "license": "UNKNOWN"
     },
-    "version": "1.12.2-1.0.0",
-    "file_id": 2774965,
+    "version": "1.12.2-1.0.1",
+    "file_id": 2778670,
     "game_version": "V1_12_2",
-    "timestamp": 1567221,
+    "timestamp": 1567656,
     "dependencies": ["libnine", "psi"]
   }, {
     "mod": {
