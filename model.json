@@ -5,7 +5,7 @@
   "game_version": "V1_12_2",
   "mod_loaders": [{
     "loader": "FORGE",
-    "version": "14.23.5.2838"
+    "version": "14.23.5.2847"
   }],
   "mods": [{
     "mod": {
@@ -13,25 +13,25 @@
       "name": "Advanced Solar Panels",
       "project_id": 252714,
       "author": "Chocohead",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
-    "version": "Advanced Solar Panels-4.2.1",
+    "version": " Advanced Solar Panels-4.2.1",
     "file_id": 2652182,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1545703475,
-    "dependencies": ["industrial-craft"]
+    "dependencies": ["#242638"]
   }, {
     "mod": {
       "slug": "industrial-craft",
       "name": "Industrial Craft",
       "project_id": 242638,
       "author": "sfPlayer1",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
-    "version": "industrialcraft-2-2.8.170-ex112.jar",
-    "file_id": 2746892,
+    "version": "industrialcraft-2-2.8.196-ex112.jar",
+    "file_id": 2902679,
     "game_version": "V1_12_2",
-    "timestamp": 1563892829,
+    "timestamp": 1584306716,
     "dependencies": []
   }, {
     "mod": {
@@ -39,25 +39,25 @@
       "name": "Gravitation Suite",
       "project_id": 253590,
       "author": "Chocohead",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "Gravitation Suite-3.1.1",
     "file_id": 2700845,
     "game_version": "V1_12_2",
     "timestamp": 1555612179,
-    "dependencies": ["industrial-craft"]
+    "dependencies": ["#242638"]
   }, {
     "mod": {
       "slug": "mekanism",
       "name": "Mekanism",
       "project_id": 268560,
       "author": "bradyaidanc",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "Mekanism-1.12.2-9.8.1.383.jar",
-    "file_id": 2755008,
+    "version": "Mekanism-1.12.2-9.8.3.390.jar",
+    "file_id": 2835175,
     "game_version": "V1_12_2",
-    "timestamp": 1564965417,
+    "timestamp": 1575186978,
     "dependencies": []
   }, {
     "mod": {
@@ -71,45 +71,45 @@
     "file_id": 2753569,
     "game_version": "V1_12_2",
     "timestamp": 1564786664,
-    "dependencies": ["libnine", "mekanism"]
+    "dependencies": ["#322344", "#268560"]
   }, {
     "mod": {
       "slug": "mekanismores",
       "name": "MekanismOres",
       "project_id": 313340,
       "author": "phantamanta44",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "1.12.2-2.0.9",
-    "file_id": 2767975,
+    "version": "1.12.2-2.0.13",
+    "file_id": 2884937,
     "game_version": "V1_12_2",
-    "timestamp": 1566529189,
-    "dependencies": ["mekanism"]
+    "timestamp": 1582129388,
+    "dependencies": ["#268560"]
   }, {
     "mod": {
       "slug": "ender-io",
       "name": "Ender IO",
       "project_id": 64578,
       "author": "CrazyPants_MC",
-      "license": "PUBLIC_DOMAIN"
+      "license": "UNKNOWN"
     },
-    "version": "Ender IO - 5.0.50",
-    "file_id": 2754866,
+    "version": "Ender IO - 5.1.55",
+    "file_id": 2858816,
     "game_version": "V1_12_2",
-    "timestamp": 1564949799,
-    "dependencies": ["endercore"]
+    "timestamp": 1578812706,
+    "dependencies": ["#231868"]
   }, {
     "mod": {
       "slug": "ender-io-endergy",
       "name": "Ender IO Endergy",
       "project_id": 304346,
       "author": "tterrag1098",
-      "license": "PUBLIC_DOMAIN"
+      "license": "UNKNOWN"
     },
-    "version": "Ender IO endergy - 5.0.50",
-    "file_id": 2754865,
+    "version": "Ender IO endergy - 5.1.55",
+    "file_id": 2858815,
     "game_version": "V1_12_2",
-    "timestamp": 1564949797,
+    "timestamp": 1578812701,
     "dependencies": []
   }, {
     "mod": {
@@ -117,39 +117,39 @@
       "name": "Gas Conduits",
       "project_id": 309756,
       "author": "pupnewfster",
-      "license": "PUBLIC_DOMAIN"
+      "license": "UNKNOWN"
     },
     "version": "GasConduits-1.12.2-1.2.2.jar",
     "file_id": 2755340,
     "game_version": "V1_12_2",
     "timestamp": 1565022633,
-    "dependencies": ["mekanism"]
+    "dependencies": ["#268560"]
   }, {
     "mod": {
       "slug": "stellar-fluid-conduits",
       "name": "Stellar Fluid Conduits",
       "project_id": 321506,
       "author": "tfarecnim",
-      "license": "PUBLIC_DOMAIN"
+      "license": "UNKNOWN"
     },
     "version": "stellarfluidconduit-1.12.2-1.0.2a.jar",
     "file_id": 2762956,
     "game_version": "V1_12_2",
     "timestamp": 1565923238,
-    "dependencies": ["ender-io", "ender-io-endergy"]
+    "dependencies": ["#304346", "#64578"]
   }, {
     "mod": {
       "slug": "advanced-machines",
       "name": "Advanced Machines",
       "project_id": 251205,
       "author": "Chocohead",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "Advanced Machines-61.0.1",
     "file_id": 2667002,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1548892351,
-    "dependencies": ["industrial-craft"]
+    "dependencies": ["#242638"]
   }, {
     "mod": {
       "slug": "immersive-engineering",
@@ -158,10 +158,10 @@
       "author": "BluSunrize",
       "license": "UNKNOWN"
     },
-    "version": "Immersive Engineering 0.12 - 89",
-    "file_id": 2676501,
+    "version": "Immersive Engineering 0.12 - 92",
+    "file_id": 2799143,
     "game_version": "V1_12_2",
-    "timestamp": 1550512638,
+    "timestamp": 1569867957,
     "dependencies": []
   }, {
     "mod": {
@@ -169,7 +169,7 @@
       "name": "Immersive Tech",
       "project_id": 274159,
       "author": "FerroO2000",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "immersivetech-1.12-1.3.10.jar",
     "file_id": 2568579,
@@ -182,13 +182,13 @@
       "name": "Industrial Wires",
       "project_id": 251121,
       "author": "malte0811",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "1.7-36 (MC 1.12.x)",
     "file_id": 2664750,
     "game_version": "V1_12_2",
     "timestamp": 1548438368,
-    "dependencies": ["immersive-engineering"]
+    "dependencies": ["#231951"]
   }, {
     "mod": {
       "slug": "immersive-cables",
@@ -201,7 +201,7 @@
     "file_id": 2595013,
     "game_version": "V1_12_2",
     "timestamp": 1532955927,
-    "dependencies": ["immersive-engineering"]
+    "dependencies": ["#231951"]
   }, {
     "mod": {
       "slug": "engineers-doors",
@@ -214,105 +214,105 @@
     "file_id": 2625854,
     "game_version": "V1_12_2",
     "timestamp": 1539030605,
-    "dependencies": ["immersive-engineering"]
+    "dependencies": ["#231951"]
   }, {
     "mod": {
       "slug": "thermal-foundation",
       "name": "Thermal Foundation",
       "project_id": 222880,
       "author": "TeamCoFH",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "ThermalFoundation-1.12.2-2.6.3.27-universal.jar",
     "file_id": 2715788,
     "game_version": "V1_12_2",
     "timestamp": 1558824099,
-    "dependencies": ["cofh-core", "cofh-world"]
+    "dependencies": ["#69162", "#271384"]
   }, {
     "mod": {
       "slug": "thermal-expansion",
       "name": "Thermal Expansion",
       "project_id": 69163,
       "author": "TeamCoFH",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "ThermalExpansion-1.12.2-5.5.4.43-universal.jar",
     "file_id": 2715789,
     "game_version": "V1_12_2",
     "timestamp": 1558824129,
-    "dependencies": ["codechicken-lib-1-8", "thermal-foundation"]
+    "dependencies": ["#222880", "#242818"]
   }, {
     "mod": {
       "slug": "thermal-dynamics",
       "name": "Thermal Dynamics",
       "project_id": 227443,
       "author": "TeamCoFH",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "ThermalDynamics-1.12.2-2.5.5.21-universal.jar",
     "file_id": 2716138,
     "game_version": "V1_12_2",
     "timestamp": 1558895434,
-    "dependencies": ["codechicken-lib-1-8", "thermal-foundation"]
+    "dependencies": ["#242818", "#222880"]
   }, {
     "mod": {
       "slug": "virtual-machines",
       "name": "Virtual Machines",
       "project_id": 286269,
       "author": "Arcaratus",
-      "license": "CDDL"
+      "license": "UNKNOWN"
     },
     "version": "VirtualMachines-1.12.2-1.0.0.5.jar",
     "file_id": 2625381,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1538938199,
-    "dependencies": ["cofh-core", "thermal-expansion", "thermal-foundation"]
+    "dependencies": ["#69162", "#69163", "#222880"]
   }, {
     "mod": {
       "slug": "redstone-arsenal",
       "name": "Redstone Arsenal",
       "project_id": 70631,
       "author": "TeamCoFH",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "RedstoneArsenal-1.12.2-2.6.3.18-universal.jar",
     "file_id": 2715786,
     "game_version": "V1_12_2",
     "timestamp": 1558824044,
-    "dependencies": ["cofh-core"]
+    "dependencies": ["#69162"]
   }, {
     "mod": {
       "slug": "redstone-repository-revolved",
       "name": "Redstone Repository Revolved",
       "project_id": 300750,
       "author": "EpicSquid319",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "RedstoneRepository-1.12.2-1.4.0-dev-universal.jar",
     "file_id": 2695517,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1554411922,
-    "dependencies": ["baubles", "redstone-arsenal", "thermal-expansion"]
+    "dependencies": ["#69163", "#227083", "#70631"]
   }, {
     "mod": {
       "slug": "alchemistry",
       "name": "Alchemistry",
       "project_id": 293425,
       "author": "al132",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "alchemistry-1.0.33.jar",
-    "file_id": 2761707,
+    "version": "alchemistry-1.12.2-41.jar",
+    "file_id": 2889940,
     "game_version": "V1_12_2",
-    "timestamp": 1565778951,
-    "dependencies": ["a-lib", "shadowfacts-forgelin"]
+    "timestamp": 1582833215,
+    "dependencies": ["#293426", "#248453"]
   }, {
     "mod": {
       "slug": "applied-energistics-2",
       "name": "Applied Energistics 2",
       "project_id": 223794,
       "author": "AlgorithmX2",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "appliedenergistics2-rv6-stable-7.jar",
     "file_id": 2747063,
@@ -325,143 +325,143 @@
       "name": "Wireless Crafting Terminal",
       "project_id": 244559,
       "author": "TheRealp455w0rd",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "WirelessCraftingTerminal-1.12.2-3.12.93.jar",
-    "file_id": 2725872,
+    "version": "WirelessCraftingTerminal-1.12.2-3.12.97.jar",
+    "file_id": 2830252,
     "game_version": "V1_12_2",
-    "timestamp": 1560787230,
-    "dependencies": ["ae2wtlib", "applied-energistics-2", "p455w0rds-library"]
+    "timestamp": 1574305377,
+    "dependencies": ["#304024", "#255232", "#223794"]
   }, {
     "mod": {
       "slug": "lazy-ae2",
       "name": "Lazy AE2",
       "project_id": 322347,
       "author": "phantamanta44",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "1.12.2-1.1.1",
-    "file_id": 2743864,
+    "version": "1.12.2-1.1.13",
+    "file_id": 2905120,
     "game_version": "V1_12_2",
-    "timestamp": 1563488155,
-    "dependencies": ["applied-energistics-2", "libnine"]
+    "timestamp": 1584589083,
+    "dependencies": ["#322344", "#223794"]
   }, {
     "mod": {
       "slug": "thaumic-energistics",
       "name": "Thaumic Energistics",
       "project_id": 223666,
       "author": "nividica",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "(AE2-RV6) Thaumic Energistics 2.2.3",
     "file_id": 2750063,
     "game_version": "V1_12_2",
     "timestamp": 1564308254,
-    "dependencies": ["applied-energistics-2", "thaumcraft"]
+    "dependencies": ["#223794", "#223628"]
   }, {
     "mod": {
       "slug": "simply-jetpacks-2",
       "name": "Simply Jetpacks 2",
       "project_id": 251792,
       "author": "Tomson124",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "SimplyJetpacks2-1.12.2-2.2.13.66.jar",
-    "file_id": 2761294,
+    "version": "SimplyJetpacks2-1.12.2-2.2.14.67.jar",
+    "file_id": 2789696,
     "game_version": "V1_12_2",
-    "timestamp": 1565725488,
-    "dependencies": ["redstone-flux"]
+    "timestamp": 1568929074,
+    "dependencies": ["#270789"]
   }, {
     "mod": {
       "slug": "integrated-dynamics",
       "name": "Integrated Dynamics",
       "project_id": 236307,
       "author": "kroeser",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "IntegratedDynamics-1.12.2-1.0.18.jar",
-    "file_id": 2753307,
+    "version": "IntegratedDynamics-1.12.2-1.1.2.jar",
+    "file_id": 2880446,
     "game_version": "V1_12_2",
-    "timestamp": 1564752248,
-    "dependencies": ["common-capabilities", "cyclops-core"]
+    "timestamp": 1581535634,
+    "dependencies": ["#232758", "#247007"]
   }, {
     "mod": {
       "slug": "integrated-tunnels",
       "name": "Integrated Tunnels",
       "project_id": 251389,
       "author": "kroeser",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "IntegratedTunnels-1.12.2-1.6.10.jar",
     "file_id": 2732756,
     "game_version": "V1_12_2",
     "timestamp": 1561820927,
-    "dependencies": ["cyclops-core", "integrated-dynamics"]
+    "dependencies": ["#232758", "#236307"]
   }, {
     "mod": {
       "slug": "integrated-crafting",
       "name": "Integrated Crafting",
       "project_id": 287357,
       "author": "kroeser",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "IntegratedCrafting-1.12.2-1.0.8.jar",
     "file_id": 2732760,
     "game_version": "V1_12_2",
     "timestamp": 1561821006,
-    "dependencies": ["cyclops-core", "integrated-dynamics", "integrated-tunnels"]
+    "dependencies": ["#232758", "#236307", "#251389"]
   }, {
     "mod": {
       "slug": "industrial-foregoing",
       "name": "Industrial Foregoing",
       "project_id": 266515,
       "author": "Buuz135",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "industrialforegoing-1.12.2-1.12.13-237.jar",
     "file_id": 2745321,
     "game_version": "V1_12_2",
     "timestamp": 1563702784,
-    "dependencies": ["tesla-core-lib"]
+    "dependencies": ["#254602"]
   }, {
     "mod": {
       "slug": "integration-foregoing",
       "name": "Integration Foregoing",
       "project_id": 277938,
       "author": "Jackyy",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "IntegrationForegoing-1.12.2-1.9.jar",
-    "file_id": 2676458,
-    "game_version": "V1_12_2",
-    "timestamp": 1550507599,
-    "dependencies": ["industrial-foregoing"]
+    "version": "IntegrationForegoing-1.12.2-1.10.jar",
+    "file_id": 2904594,
+    "game_version": "V1_12",
+    "timestamp": 1584542861,
+    "dependencies": ["#356646", "#266515"]
   }, {
     "mod": {
       "slug": "rftools",
       "name": "RFTools",
       "project_id": 224641,
       "author": "McJty",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "RFTools - 1.12-7.72",
-    "file_id": 2745848,
+    "version": "RFTools - 1.12-7.73",
+    "file_id": 2861573,
     "game_version": "V1_12_2",
-    "timestamp": 1563766272,
-    "dependencies": ["mcjtylib"]
+    "timestamp": 1579148591,
+    "dependencies": ["#233105"]
   }, {
     "mod": {
       "slug": "rftools-power",
       "name": "RFTools Power",
       "project_id": 290209,
       "author": "McJty",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "RFToolsPower - 1.12-1.2.0",
     "file_id": 2704404,
     "game_version": "V1_12_2",
     "timestamp": 1556389257,
-    "dependencies": ["mcjtylib"]
+    "dependencies": ["#233105"]
   }, {
     "mod": {
       "slug": "draconic-evolution",
@@ -470,11 +470,11 @@
       "author": "brandon3055",
       "license": "UNKNOWN"
     },
-    "version": "Draconic-Evolution-1.12.2-2.3.24.349-universal",
-    "file_id": 2753317,
+    "version": "Draconic-Evolution-1.12.2-2.3.25.351-universal",
+    "file_id": 2867186,
     "game_version": "V1_12_2",
-    "timestamp": 1564752639,
-    "dependencies": ["brandons-core", "codechicken-lib-1-8", "redstone-flux"]
+    "timestamp": 1579875850,
+    "dependencies": ["#242818", "#270789", "#231382"]
   }, {
     "mod": {
       "slug": "advanced-generators",
@@ -485,35 +485,35 @@
     },
     "version": "Advanced Generators 0.9.20.12 (MC 1.12.2)",
     "file_id": 2516219,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1514929175,
-    "dependencies": ["bdlib"]
+    "dependencies": ["#70496"]
   }, {
     "mod": {
       "slug": "environmental-tech",
       "name": "Environmental Tech",
       "project_id": 245453,
       "author": "ValkyrieofNight",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "environmentaltech-1.12.2-2.0.20.1.jar",
     "file_id": 2691536,
     "game_version": "V1_12_2",
     "timestamp": 1553496858,
-    "dependencies": ["valkyrielib"]
+    "dependencies": ["#245480"]
   }, {
     "mod": {
-      "slug": "et-lunar-environmental-tech-addon",
+      "slug": "environmental-lunartech",
       "name": "ET Lunar [Environmental Tech Addon]",
       "project_id": 253565,
       "author": "ValkyrieofNight",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "etlunar-1.12.2-2.0.20.1.jar",
     "file_id": 2691537,
     "game_version": "V1_12_2",
     "timestamp": 1553496901,
-    "dependencies": ["environmental-tech", "valkyrielib"]
+    "dependencies": ["#245453", "#245480"]
   }, {
     "mod": {
       "slug": "actually-additions",
@@ -522,10 +522,10 @@
       "author": "Ellpeck",
       "license": "UNKNOWN"
     },
-    "version": "ActuallyAdditions-1.12.2-r149.jar",
-    "file_id": 2748483,
+    "version": "ActuallyAdditions-1.12.2-r151-2.jar",
+    "file_id": 2844115,
     "game_version": "V1_12_2",
-    "timestamp": 1564096562,
+    "timestamp": 1576565389,
     "dependencies": []
   }, {
     "mod": {
@@ -537,35 +537,35 @@
     },
     "version": "ActuallyBaubles-1.12-1.1.jar",
     "file_id": 2459131,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1501666914,
-    "dependencies": ["actually-additions", "baubles"]
+    "dependencies": ["#228404", "#227083"]
   }, {
     "mod": {
       "slug": "astral-sorcery",
       "name": "Astral Sorcery",
       "project_id": 241721,
       "author": "HellFirePvP",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
-    "version": "AstralSorcery-1.12.2-1.10.20.jar",
-    "file_id": 2757379,
+    "version": "AstralSorcery-1.12.2-1.10.22.jar",
+    "file_id": 2872629,
     "game_version": "V1_12_2",
-    "timestamp": 1565297803,
-    "dependencies": ["baubles"]
+    "timestamp": 1580503110,
+    "dependencies": ["#227083"]
   }, {
     "mod": {
       "slug": "botania",
       "name": "Botania",
       "project_id": 225643,
-      "author": "Vazkii_",
+      "author": "Vazkii",
       "license": "UNKNOWN"
     },
-    "version": "Botania r1.10-361.jar",
-    "file_id": 2698039,
+    "version": "Botania r1.10-363.jar",
+    "file_id": 2846950,
     "game_version": "V1_12_2",
-    "timestamp": 1555015981,
-    "dependencies": ["baubles"]
+    "timestamp": 1577040054,
+    "dependencies": ["#227083"]
   }, {
     "mod": {
       "slug": "natural-pledge",
@@ -578,20 +578,20 @@
     "file_id": 2740703,
     "game_version": "V1_12_2",
     "timestamp": 1563047083,
-    "dependencies": ["baubles", "botania", "librarianlib"]
+    "dependencies": ["#225643", "#252910", "#227083"]
   }, {
     "mod": {
       "slug": "blood-magic",
-      "name": "Blood Magic",
+      "name": "Blood Magic ",
       "project_id": 224791,
       "author": "WayofTime",
       "license": "UNKNOWN"
     },
-    "version": "BloodMagic-1.12.2-2.4.1-103.jar",
-    "file_id": 2713291,
+    "version": "BloodMagic-1.12.2-2.4.3-105.jar",
+    "file_id": 2822288,
     "game_version": "V1_12_2",
-    "timestamp": 1558285944,
-    "dependencies": []
+    "timestamp": 1572922645,
+    "dependencies": ["#228832"]
   }, {
     "mod": {
       "slug": "blood-arsenal",
@@ -600,35 +600,35 @@
       "author": "Arcaratus",
       "license": "UNKNOWN"
     },
-    "version": "BloodArsenal-1.12.2-2.2.0-28.jar",
-    "file_id": 2701933,
-    "game_version": "V1_12_2",
-    "timestamp": 1555864900,
-    "dependencies": ["baubles", "blood-magic"]
+    "version": "BloodArsenal-1.12.2-2.2.2-31.jar",
+    "file_id": 2904183,
+    "game_version": "V1_12",
+    "timestamp": 1584484789,
+    "dependencies": ["#227083", "#224791"]
   }, {
     "mod": {
       "slug": "wizardry-mod",
       "name": "Wizardry Mod",
       "project_id": 278155,
       "author": "Demoniaque1",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "wizardry-0.10.8.jar",
     "file_id": 2726334,
     "game_version": "V1_12_2",
     "timestamp": 1560861376,
-    "dependencies": ["librarianlib", "shadowfacts-forgelin"]
+    "dependencies": ["#248453", "#252910"]
   }, {
     "mod": {
       "slug": "embers-rekindled",
       "name": "Embers Rekindled",
       "project_id": 300777,
       "author": "BordListian",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "EmbersRekindled-1.13-hotfix2.jar",
     "file_id": 2697221,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1554802726,
     "dependencies": []
   }, {
@@ -637,20 +637,20 @@
       "name": "Soot",
       "project_id": 281528,
       "author": "BordListian",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Soot-1.6.jar",
     "file_id": 2697925,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1554989202,
-    "dependencies": ["embers-rekindled"]
+    "dependencies": ["#300777"]
   }, {
     "mod": {
       "slug": "totemic",
       "name": "Totemic",
       "project_id": 237541,
       "author": "ljfa2",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Totemic-1.12.2-0.11.6.jar",
     "file_id": 2700798,
@@ -663,13 +663,13 @@
       "name": "Roots",
       "project_id": 246183,
       "author": "EpicSquid319",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "Roots-1.12.2-3.0.7.jar",
-    "file_id": 2765389,
+    "version": "Roots-1.12.2-3.0.25.jar",
+    "file_id": 2882804,
     "game_version": "V1_12_2",
-    "timestamp": 1566219785,
-    "dependencies": ["mystic-world", "mysticallib", "patchouli"]
+    "timestamp": 1581842929,
+    "dependencies": ["#277064", "#306770", "#282940"]
   }, {
     "mod": {
       "slug": "thaumcraft",
@@ -682,136 +682,136 @@
     "file_id": 2629023,
     "game_version": "V1_12_2",
     "timestamp": 1539847866,
-    "dependencies": ["baubles"]
+    "dependencies": ["#227083"]
   }, {
     "mod": {
       "slug": "thaumcraft-inventory-scanning",
       "name": "Thaumic Inventory Scanning (Thaumcraft Addon)",
       "project_id": 238003,
       "author": "BlayTheNinth",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "ThaumicInventoryScanning_1.12.2-2.0.10.jar",
     "file_id": 2559089,
     "game_version": "V1_12_2",
     "timestamp": 1525618575,
-    "dependencies": ["thaumcraft"]
+    "dependencies": ["#223628"]
   }, {
     "mod": {
       "slug": "thaumic-tinkerer",
       "name": "Thaumic Tinkerer",
       "project_id": 75598,
       "author": "Nekosune",
-      "license": "CREATIVE_COMMONS"
+      "license": "UNKNOWN"
     },
     "version": "Thaumic Tinkerer 1.12.2 5.0 ALPHA1.4.2",
     "file_id": 2596484,
     "game_version": "V1_12_2",
     "timestamp": 1533164743,
-    "dependencies": ["codechickencore", "thaumcraft"]
+    "dependencies": ["#223628"]
   }, {
     "mod": {
       "slug": "tinkers-construct",
       "name": "Tinkers Construct",
       "project_id": 74072,
       "author": "mDiyo",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "TConstruct-1.12.2-2.12.0.157.jar",
-    "file_id": 2731543,
+    "version": "TConstruct-1.12.2-2.13.0.183.jar",
+    "file_id": 2902483,
     "game_version": "V1_12_2",
-    "timestamp": 1561656300,
-    "dependencies": ["mantle"]
+    "timestamp": 1584291757,
+    "dependencies": ["#74924"]
   }, {
     "mod": {
       "slug": "constructs-armory",
       "name": "Construct's Armory",
       "project_id": 287683,
       "author": "TheIllusiveC4",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "conarm-1.12.2-1.2.4.jar",
-    "file_id": 2718520,
+    "version": "conarm-1.12.2-1.2.5.4.jar",
+    "file_id": 2882794,
     "game_version": "V1_12_2",
-    "timestamp": 1559371572,
-    "dependencies": ["mantle", "tinkers-construct"]
+    "timestamp": 1581841080,
+    "dependencies": ["#74924", "#74072"]
   }, {
     "mod": {
       "slug": "tinkers-tool-leveling",
       "name": "Tinkers' Tool Leveling",
       "project_id": 250957,
       "author": "bonusboni",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "TinkerToolLeveling-1.12.2-1.1.0.jar",
     "file_id": 2630860,
     "game_version": "V1_12_2",
     "timestamp": 1540316620,
-    "dependencies": ["mantle", "tinkers-construct"]
+    "dependencies": ["#74924", "#74072"]
   }, {
     "mod": {
       "slug": "tinkers-memes",
       "name": "Tinkers' MEMES",
       "project_id": 322345,
       "author": "phantamanta44",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "1.12.2-1.0.5",
-    "file_id": 2742601,
+    "version": "1.12.2-1.0.9",
+    "file_id": 2826019,
     "game_version": "V1_12_2",
-    "timestamp": 1563308534,
-    "dependencies": ["mekanism", "tinkers-construct"]
+    "timestamp": 1573504367,
+    "dependencies": ["#268560", "#74072"]
   }, {
     "mod": {
       "slug": "taiga-tinkers-alloying-addon",
       "name": "TAIGA (Tinkers alloying addon)",
       "project_id": 247661,
       "author": "zkafaceTV",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "taiga-1.3.4",
     "file_id": 2626416,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1539179856,
-    "dependencies": ["tinkers-construct"]
+    "dependencies": ["#74072"]
   }, {
     "mod": {
       "slug": "plustic",
       "name": "PlusTiC",
       "project_id": 260327,
       "author": "landmaster_phuong0429",
-      "license": "APACHE"
+      "license": "UNKNOWN"
     },
-    "version": "plustic-7.1.1.2.jar",
-    "file_id": 2763587,
+    "version": "plustic-7.1.6.1.jar",
+    "file_id": 2789626,
     "game_version": "V1_12_2",
-    "timestamp": 1566002210,
-    "dependencies": ["mantle", "tinkers-construct"]
+    "timestamp": 1568920951,
+    "dependencies": ["#74072", "#74924"]
   }, {
     "mod": {
       "slug": "tinkering-with-blood-magic",
       "name": "Tinkering with Blood Magic",
       "project_id": 306851,
       "author": "terrapin47",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "bloodtinker-1.0.5",
     "file_id": 2638208,
     "game_version": "V1_12_2",
     "timestamp": 1542258672,
-    "dependencies": ["baubles", "blood-magic", "tinkers-construct"]
+    "dependencies": ["#74072", "#227083", "#224791"]
   }, {
     "mod": {
       "slug": "metallurgy-4-reforged",
       "name": "Metallurgy 4: Reforged",
       "project_id": 300890,
-      "author": "Th3_Equalizer",
-      "license": "GPL_V3"
+      "author": "ItHurtsLikeHell_",
+      "license": "UNKNOWN"
     },
-    "version": "Metallurgy-4-Reforged-0.2.2",
-    "file_id": 2735580,
+    "version": "Metallurgy-4-Reforged-0.3.3",
+    "file_id": 2894502,
     "game_version": "V1_12_2",
-    "timestamp": 1562270950,
+    "timestamp": 1583360574,
     "dependencies": []
   }, {
     "mod": {
@@ -819,33 +819,33 @@
       "name": "Waystones",
       "project_id": 245755,
       "author": "BlayTheNinth",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "Waystones_1.12.2-4.0.72.jar",
-    "file_id": 2734498,
+    "version": "Waystones_1.12.2-4.1.0.jar",
+    "file_id": 2859589,
     "game_version": "V1_12_2",
-    "timestamp": 1562096818,
+    "timestamp": 1578931692,
     "dependencies": []
   }, {
     "mod": {
       "slug": "baubley-heart-canisters",
       "name": "Baubley Heart Canisters",
       "project_id": 282947,
-      "author": "Radient_Sora",
-      "license": "MIT"
+      "author": "traverse_joe",
+      "license": "UNKNOWN"
     },
-    "version": "baubley-heart-canisters-1.12.2-1.2.3.jar",
-    "file_id": 2682612,
+    "version": "baubley-heart-canisters-1.12.2-2.0.3.jar",
+    "file_id": 2721067,
     "game_version": "V1_12_2",
-    "timestamp": 1551594084,
-    "dependencies": ["baubles", "mantle"]
+    "timestamp": 1559857773,
+    "dependencies": ["#227083", "#74924"]
   }, {
     "mod": {
       "slug": "reliquary-v1-3",
       "name": "Reliquary v1.3",
       "project_id": 241319,
       "author": "P3pp3rF1y",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "Reliquary-1.12.2-1.3.4.796.jar",
     "file_id": 2761319,
@@ -858,11 +858,11 @@
       "name": "Extra Utilities",
       "project_id": 225561,
       "author": "RWTema",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "Extra Utilities 2 - 1.12 - 1.9.9",
     "file_id": 2678374,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1550787097,
     "dependencies": []
   }, {
@@ -871,11 +871,11 @@
       "name": "Angel Ring To Bauble",
       "project_id": 256224,
       "author": "Portablejim",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "Fly Ring Bauble 0.3.1 [MC1.12,1.12.1,1.12.2; rev 50]",
     "file_id": 2518561,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1515540725,
     "dependencies": []
   }, {
@@ -884,7 +884,7 @@
       "name": "The Weirding Gadget",
       "project_id": 258914,
       "author": "AtomicBlom",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "weirdinggadget-1.12.2-2.1.16-universal.jar",
     "file_id": 2708729,
@@ -897,50 +897,50 @@
       "name": "Storage Drawers",
       "project_id": 223852,
       "author": "Texelsaur",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "StorageDrawers-1.12.2-5.3.8.jar",
-    "file_id": 2642386,
-    "game_version": "V1_12_2",
-    "timestamp": 1543470723,
-    "dependencies": ["chameleon"]
+    "version": "StorageDrawers-1.12.2-5.4.1.jar",
+    "file_id": 2887858,
+    "game_version": "V1_12",
+    "timestamp": 1582524780,
+    "dependencies": ["#230497"]
   }, {
     "mod": {
       "slug": "storage-drawers-extras",
       "name": "Storage Drawers Extras",
       "project_id": 254879,
       "author": "Texelsaur",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "StorageDrawersExtras-1.12-3.1.0.jar",
     "file_id": 2443623,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1498788828,
-    "dependencies": ["chameleon", "storage-drawers"]
+    "dependencies": ["#230497", "#223852"]
   }, {
     "mod": {
       "slug": "metalchests",
       "name": "Metal Chests",
       "project_id": 290145,
       "author": "t145_irl",
-      "license": "APACHE"
+      "license": "UNKNOWN"
     },
     "version": "Release v6.1.0",
     "file_id": 2751488,
     "game_version": "V1_12_2",
     "timestamp": 1564499696,
-    "dependencies": ["tbone"]
+    "dependencies": ["#323527"]
   }, {
     "mod": {
       "slug": "chest-transporter",
       "name": "Chest Transporter",
       "project_id": 78778,
       "author": "cubex2",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "ChestTransporter-1.12.2-2.8.8.jar",
     "file_id": 2524058,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1516888948,
     "dependencies": []
   }, {
@@ -949,33 +949,33 @@
       "name": "Ender Storage 1.8.+",
       "project_id": 245174,
       "author": "covers1624",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Ender Storage 1.12.2-2.4.6.137-universal",
     "file_id": 2755787,
     "game_version": "V1_12_2",
     "timestamp": 1565081204,
-    "dependencies": ["codechicken-lib-1-8"]
+    "dependencies": ["#242818"]
   }, {
     "mod": {
       "slug": "natura",
       "name": "Natura",
       "project_id": 74120,
       "author": "mDiyo",
-      "license": "CREATIVE_COMMONS"
+      "license": "UNKNOWN"
     },
     "version": "natura-1.12.2-4.3.2.69.jar",
     "file_id": 2711439,
     "game_version": "V1_12_2",
     "timestamp": 1557923534,
-    "dependencies": ["mantle"]
+    "dependencies": ["#74924"]
   }, {
     "mod": {
-      "slug": "traverse-legacy",
-      "name": "Traverse Legacy (1.12.2)",
+      "slug": "traverse-legacy-continued",
+      "name": "Traverse: Legacy Continued",
       "project_id": 267769,
       "author": "ProspectorDev",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Traverse v1.6.0 build69 for 1.12.2",
     "file_id": 2613657,
@@ -988,11 +988,11 @@
       "name": "Oreberries",
       "project_id": 275408,
       "author": "josephcsible",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "0.5.0 for 1.12.x",
     "file_id": 2578045,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1530386860,
     "dependencies": []
   }, {
@@ -1003,10 +1003,10 @@
       "author": "ic_trab",
       "license": "UNKNOWN"
     },
-    "version": "Netherending Ores 1.3",
-    "file_id": 2674427,
+    "version": "Netherending Ores 1.3 - Hotfix 1",
+    "file_id": 2687072,
     "game_version": "V1_12_2",
-    "timestamp": 1550138591,
+    "timestamp": 1552567603,
     "dependencies": []
   }, {
     "mod": {
@@ -1014,25 +1014,25 @@
       "name": "Pam's HarvestCraft",
       "project_id": 221857,
       "author": "pamharvestcraft",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
-    "version": "Pam's HarvestCraft 1.12.2ze.jar",
-    "file_id": 2751199,
+    "version": "Pam's HarvestCraft 1.12.2zg.jar",
+    "file_id": 2904825,
     "game_version": "V1_12_2",
-    "timestamp": 1564447095,
+    "timestamp": 1584563541,
     "dependencies": []
   }, {
     "mod": {
       "slug": "bonsai-trees",
-      "name": "Bonsai Trees",
+      "name": "Bonsai Trees 2",
       "project_id": 278993,
       "author": "davenonymous",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "bonsaitrees-1.1.3-b156.jar",
-    "file_id": 2719654,
-    "game_version": "V1_12_2",
-    "timestamp": 1559582509,
+    "version": "bonsaitrees-1.1.4-b170.jar",
+    "file_id": 2846217,
+    "game_version": "V1_12",
+    "timestamp": 1576924667,
     "dependencies": []
   }, {
     "mod": {
@@ -1042,31 +1042,31 @@
       "author": "phantamanta44",
       "license": "UNKNOWN"
     },
-    "version": "1.12.2-1.0.2",
-    "file_id": 2772695,
+    "version": "1.12.2-1.0.3",
+    "file_id": 2879458,
     "game_version": "V1_12_2",
-    "timestamp": 1566956,
-    "dependencies": ["libnine"]
+    "timestamp": 1581399770,
+    "dependencies": ["#322344"]
   }, {
     "mod": {
       "slug": "unidict",
       "name": "UniDict",
       "project_id": 244258,
       "author": "WanionCane",
-      "license": "MOZILLA"
+      "license": "UNKNOWN"
     },
-    "version": "UniDict-1.12.2-2.9.2.jar",
-    "file_id": 2652588,
+    "version": "UniDict-1.12.2-2.9.6.jar",
+    "file_id": 2880863,
     "game_version": "V1_12_2",
-    "timestamp": 1545830829,
-    "dependencies": ["wanionlib"]
+    "timestamp": 1581598106,
+    "dependencies": ["#253043"]
   }, {
     "mod": {
       "slug": "tomb-many-graves-2",
       "name": "Tomb Many Graves 2",
       "project_id": 262823,
       "author": "M4thG33k",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "TombManyGraves2-1.12-4.2.0",
     "file_id": 2619249,
@@ -1079,11 +1079,11 @@
       "name": "Pam's Get All the Seeds!",
       "project_id": 221914,
       "author": "pamharvestcraft",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "Pam's Get all the Seeds! 1.12a.jar",
     "file_id": 2445431,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1499102955,
     "dependencies": []
   }, {
@@ -1092,7 +1092,7 @@
       "name": "Morpheus",
       "project_id": 69118,
       "author": "Quetzi",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "Morpheus-1.12.2-3.5.106.jar",
     "file_id": 2664449,
@@ -1102,10 +1102,10 @@
   }, {
     "mod": {
       "slug": "dirt2path",
-      "name": "Dirt2Path",
+      "name": "Dirt2Path [FORGE]",
       "project_id": 264684,
       "author": "mallrat208",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Dirt2Path - 1.12.2 - 1.8.0",
     "file_id": 2606175,
@@ -1118,7 +1118,7 @@
       "name": "Clumps",
       "project_id": 256717,
       "author": "Jaredlll08",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Clumps-3.1.2",
     "file_id": 2666198,
@@ -1131,11 +1131,11 @@
       "name": "Diet Hoppers",
       "project_id": 278385,
       "author": "RWTema",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "Diet Hoppers 1.1",
     "file_id": 2482543,
-    "game_version": "V1_11_2",
+    "game_version": "V1_12",
     "timestamp": 1506014605,
     "dependencies": []
   }, {
@@ -1144,7 +1144,7 @@
       "name": "Bad Wither No Cookie - Reloaded",
       "project_id": 261251,
       "author": "Kreezxil",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "badwithernocookiereloaded-1.12.2-3.3.16.jar",
     "file_id": 2638317,
@@ -1157,12 +1157,12 @@
       "name": "AttributeFix",
       "project_id": 280510,
       "author": "DarkhaxDev",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "AttributeFix-1.12.2-1.0.4.jar",
-    "file_id": 2643711,
+    "version": "AttributeFix-1.12.2-1.0.10.jar",
+    "file_id": 2810157,
     "game_version": "V1_12_2",
-    "timestamp": 1543835031,
+    "timestamp": 1571187652,
     "dependencies": []
   }, {
     "mod": {
@@ -1170,37 +1170,37 @@
       "name": "Chisel",
       "project_id": 235279,
       "author": "tterrag1098",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "Chisel - MC1.12.2-0.2.1.35",
-    "file_id": 2619468,
+    "version": "Chisel - MC1.12.2-1.0.1.44",
+    "file_id": 2813538,
     "game_version": "V1_12_2",
-    "timestamp": 1537554567,
-    "dependencies": []
+    "timestamp": 1571629903,
+    "dependencies": ["#267602"]
   }, {
     "mod": {
       "slug": "power-chisels",
       "name": "Power Chisels",
       "project_id": 311201,
       "author": "trinsdar",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "powerchisels-1.0.0-beta-3.jar",
     "file_id": 2663543,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1548180876,
-    "dependencies": ["chisel"]
+    "dependencies": ["#235279"]
   }, {
     "mod": {
       "slug": "xtones",
       "name": "Xtones",
       "project_id": 257573,
       "author": "TehNut",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Xtones-1.12-1.0.8-11.jar",
     "file_id": 2531411,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1518663744,
     "dependencies": []
   }, {
@@ -1209,11 +1209,11 @@
       "name": "Chisels & Bits",
       "project_id": 231095,
       "author": "AlgorithmX2",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "chiselsandbits-14.33.jar",
     "file_id": 2720655,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1559784728,
     "dependencies": []
   }, {
@@ -1222,12 +1222,12 @@
       "name": "Better Builder's Wands",
       "project_id": 238403,
       "author": "Portablejim",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
-    "version": "Better Builder's Wands 0.11.1 [MC1.12; rev 245]",
-    "file_id": 2443194,
-    "game_version": "V1_12_2",
-    "timestamp": 1498735000,
+    "version": "Better Builder's Wands 0.13.2 [MC1.12; rev 271]",
+    "file_id": 2691084,
+    "game_version": "V1_12",
+    "timestamp": 1553411091,
     "dependencies": []
   }, {
     "mod": {
@@ -1235,20 +1235,20 @@
       "name": "Exchangers",
       "project_id": 270183,
       "author": "Jackyy",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "Exchangers-1.12.2-2.8.jar",
-    "file_id": 2621277,
-    "game_version": "V1_12_2",
-    "timestamp": 1537985027,
-    "dependencies": []
+    "version": "Exchangers-1.12.2-2.9.jar",
+    "file_id": 2903998,
+    "game_version": "V1_12",
+    "timestamp": 1584469309,
+    "dependencies": ["#356646"]
   }, {
     "mod": {
       "slug": "bibliocraft",
       "name": "BiblioCraft",
       "project_id": 228027,
       "author": "Nuchaz",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "BiblioCraft v2.4.5",
     "file_id": 2574880,
@@ -1261,12 +1261,12 @@
       "name": "Just Enough Items (JEI)",
       "project_id": 238222,
       "author": "mezz",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "jei_1.12.2-4.15.0.268.jar",
-    "file_id": 2682936,
+    "version": "jei_1.12.2-4.15.0.293.jar",
+    "file_id": 2847112,
     "game_version": "V1_12_2",
-    "timestamp": 1551652367,
+    "timestamp": 1577056048,
     "dependencies": []
   }, {
     "mod": {
@@ -1280,66 +1280,66 @@
     "file_id": 2728585,
     "game_version": "V1_12_2",
     "timestamp": 1561288654,
-    "dependencies": ["jei"]
+    "dependencies": ["#238222"]
   }, {
     "mod": {
       "slug": "jei-integration",
       "name": "JEI Integration",
       "project_id": 265917,
       "author": "SnowShock35",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "jeiintegration_1.12.2-1.5.1.36",
     "file_id": 2491927,
     "game_version": "V1_12_2",
     "timestamp": 1508338718,
-    "dependencies": ["jei"]
+    "dependencies": ["#238222"]
   }, {
     "mod": {
       "slug": "tinkers-jei",
       "name": "Tinker's JEI",
       "project_id": 291786,
       "author": "Possible_triangle",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "tinkersjei-1.2.jar",
     "file_id": 2701203,
     "game_version": "V1_12_2",
     "timestamp": 1555701110,
-    "dependencies": ["jei", "tinkers-construct"]
+    "dependencies": ["#74072", "#238222"]
   }, {
     "mod": {
       "slug": "just-enough-energistics-jee",
       "name": "Just Enough Energistics (JEE)",
       "project_id": 310812,
       "author": "TheRealp455w0rd",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "JustEnoughEnergistics-1.12.2-1.0.7.jar",
-    "file_id": 2726897,
+    "version": "JustEnoughEnergistics-1.12.2-1.0.8.jar",
+    "file_id": 2783832,
     "game_version": "V1_12_2",
-    "timestamp": 1560970124,
-    "dependencies": ["applied-energistics-2", "jei"]
+    "timestamp": 1568315463,
+    "dependencies": ["#223794", "#238222"]
   }, {
     "mod": {
       "slug": "thaumic-jei",
       "name": "Thaumic JEI",
       "project_id": 285492,
       "author": "Buuz135",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "ThaumicJEI-1.12.2-1.6.0-27.jar",
     "file_id": 2705304,
     "game_version": "V1_12_2",
     "timestamp": 1556566603,
-    "dependencies": ["jei", "thaumcraft"]
+    "dependencies": ["#223628", "#238222"]
   }, {
     "mod": {
       "slug": "the-one-probe",
       "name": "The One Probe",
       "project_id": 245211,
       "author": "McJty",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "TheOneProbe - 1.12-1.4.28",
     "file_id": 2667280,
@@ -1352,24 +1352,24 @@
       "name": "TOP Addons",
       "project_id": 247111,
       "author": "DrManganese",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "topaddons-1.12.2-1.11.0.jar",
-    "file_id": 2698796,
+    "version": "topaddons-1.12.2-1.13.0.jar",
+    "file_id": 2887479,
     "game_version": "V1_12_2",
-    "timestamp": 1555190790,
-    "dependencies": ["the-one-probe"]
+    "timestamp": 1582482260,
+    "dependencies": ["#245211"]
   }, {
     "mod": {
       "slug": "appleskin",
       "name": "AppleSkin",
       "project_id": 248787,
       "author": "squeek502",
-      "license": "PUBLIC_DOMAIN"
+      "license": "UNKNOWN"
     },
     "version": "AppleSkin-mc1.12-1.0.9.jar",
     "file_id": 2496585,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1509667673,
     "dependencies": []
   }, {
@@ -1378,7 +1378,7 @@
       "name": "More Overlays",
       "project_id": 243478,
       "author": "FeldiM245",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "moreoverlays-1.15.1-mc1.12.2.jar",
     "file_id": 2745657,
@@ -1391,12 +1391,12 @@
       "name": "Enchantment Descriptions",
       "project_id": 250419,
       "author": "DarkhaxDev",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
-    "version": "EnchantmentDescriptions-1.12.2-1.1.15.jar",
-    "file_id": 2689502,
+    "version": "EnchantmentDescriptions-1.12.2-1.1.20.jar",
+    "file_id": 2898966,
     "game_version": "V1_12_2",
-    "timestamp": 1553052601,
+    "timestamp": 1583956886,
     "dependencies": []
   }, {
     "mod": {
@@ -1408,7 +1408,7 @@
     },
     "version": "Fullscreen Windowed 1.6.0, MC 1.12 and up",
     "file_id": 2456007,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1501020497,
     "dependencies": []
   }, {
@@ -1417,12 +1417,12 @@
       "name": "Ding",
       "project_id": 231275,
       "author": "ohaiiChun",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "Ding-1.12.1-1.0.1.jar",
-    "file_id": 2476271,
-    "game_version": "V1_12_2",
-    "timestamp": 1504652256,
+    "version": "Ding-1.12.2-1.0.2.jar",
+    "file_id": 2801170,
+    "game_version": "V1_12",
+    "timestamp": 1570140675,
     "dependencies": []
   }, {
     "mod": {
@@ -1430,11 +1430,11 @@
       "name": "Custom Backgrounds",
       "project_id": 225928,
       "author": "Lumien231",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "CustomBackgrounds-MC1.12-1.1.1.jar",
     "file_id": 2445809,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1499179918,
     "dependencies": []
   }, {
@@ -1443,11 +1443,11 @@
       "name": "TipTheScales",
       "project_id": 282313,
       "author": "Jaredlll08",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "TipTheScales-1.12.2-1.0.4",
     "file_id": 2689835,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1553126238,
     "dependencies": []
   }, {
@@ -1456,25 +1456,25 @@
       "name": "Toast Control",
       "project_id": 271740,
       "author": "Shadows_of_Fire",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Toast Control-1.12.2-1.8.1.jar",
     "file_id": 2707353,
     "game_version": "V1_12_2",
     "timestamp": 1557023686,
-    "dependencies": ["placebo"]
+    "dependencies": ["#283644"]
   }, {
     "mod": {
-      "slug": "foamfix-for-minecraft",
-      "name": "FoamFix for Minecraft",
+      "slug": "foamfix-optimization-mod",
+      "name": "FoamFix\u200b",
       "project_id": 278494,
       "author": "asiekierka",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "FoamFix 0.10.5 (1.12.2)",
-    "file_id": 2695388,
+    "version": "FoamFix 0.10.10 (1.12.2)",
+    "file_id": 2845668,
     "game_version": "V1_12_2",
-    "timestamp": 1554381387,
+    "timestamp": 1576833241,
     "dependencies": []
   }, {
     "mod": {
@@ -1482,7 +1482,7 @@
       "name": "BetterFps",
       "project_id": 229876,
       "author": "Guichaguri",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "v1.4.8",
     "file_id": 2483393,
@@ -1495,24 +1495,24 @@
       "name": "FastWorkbench",
       "project_id": 288885,
       "author": "Shadows_of_Fire",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "FastWorkbench-1.12.2-1.7.2.jar",
-    "file_id": 2716379,
+    "version": "FastWorkbench-1.12.2-1.7.3.jar",
+    "file_id": 2838777,
     "game_version": "V1_12_2",
-    "timestamp": 1558945799,
-    "dependencies": ["placebo"]
+    "timestamp": 1575850454,
+    "dependencies": ["#283644"]
   }, {
     "mod": {
       "slug": "vanillafix",
       "name": "VanillaFix",
       "project_id": 292785,
       "author": "Runemoro",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "VanillaFix-1.0.10-99.jar",
     "file_id": 2639533,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1542653097,
     "dependencies": []
   }, {
@@ -1521,7 +1521,7 @@
       "name": "Surge",
       "project_id": 250290,
       "author": "DarkhaxDev",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "Surge-1.12.2-2.0.77.jar",
     "file_id": 2665849,
@@ -1534,25 +1534,12 @@
       "name": "Phosphor",
       "project_id": 318255,
       "author": "jellysquid_",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "Phosphor 0.2.6",
+    "version": "0.2.6 (Forge/1.12.x)",
     "file_id": 2747710,
     "game_version": "V1_12_2",
     "timestamp": 1563993253,
-    "dependencies": []
-  }, {
-    "mod": {
-      "slug": "calm-down-zombie-guy",
-      "name": "Calm Down Zombie Guy",
-      "project_id": 319382,
-      "author": "bloodnbonesgaming",
-      "license": "ALL_RIGHTS_RESERVED"
-    },
-    "version": "CalmDownZombieGuy 1.12-1.0.0",
-    "file_id": 2698789,
-    "game_version": "V1_12_2",
-    "timestamp": 1555189394,
     "dependencies": []
   }, {
     "mod": {
@@ -1562,17 +1549,17 @@
       "author": "TheRandomLabs",
       "license": "UNKNOWN"
     },
-    "version": "RandomPatches 1.12.2-1.17.2.1",
-    "file_id": 2742950,
-    "game_version": "V1_12_2",
-    "timestamp": 1563364965,
+    "version": "RandomPatches 1.12.2-1.21.0.0",
+    "file_id": 2863699,
+    "game_version": "V1_12",
+    "timestamp": 1579421613,
     "dependencies": []
   }, {
     "mod": {
       "slug": "patchouli",
       "name": "Patchouli",
       "project_id": 306770,
-      "author": "Vazkii_",
+      "author": "Vazkii",
       "license": "UNKNOWN"
     },
     "version": "Patchouli-1.0-20.jar",
@@ -1586,7 +1573,7 @@
       "name": "CoFH World",
       "project_id": 271384,
       "author": "TeamCoFH",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "CoFHWorld-1.12.2-1.3.1.7-universal.jar",
     "file_id": 2715784,
@@ -1599,12 +1586,12 @@
       "name": "ConnectedTexturesMod",
       "project_id": 267602,
       "author": "tterrag1098",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "CTM - MC1.12.2-0.3.3.22",
-    "file_id": 2642375,
+    "version": "CTM - MC1.12.2-1.0.1.30",
+    "file_id": 2832564,
     "game_version": "V1_12_2",
-    "timestamp": 1543467831,
+    "timestamp": 1574726827,
     "dependencies": []
   }, {
     "mod": {
@@ -1612,11 +1599,11 @@
       "name": "Mantle",
       "project_id": 74924,
       "author": "mDiyo",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Mantle-1.12-1.3.3.55.jar",
     "file_id": 2713386,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1558297303,
     "dependencies": []
   }, {
@@ -1638,25 +1625,25 @@
       "name": "CoFH Core",
       "project_id": 69162,
       "author": "TeamCoFH",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "CoFHCore-1.12.2-4.6.3.27-universal.jar",
     "file_id": 2716100,
     "game_version": "V1_12_2",
     "timestamp": 1558891587,
-    "dependencies": ["redstone-flux"]
+    "dependencies": ["#270789"]
   }, {
     "mod": {
       "slug": "endercore",
       "name": "EnderCore",
       "project_id": 231868,
       "author": "tterrag1098",
-      "license": "PUBLIC_DOMAIN"
+      "license": "UNKNOWN"
     },
-    "version": "EnderCore - 1.12.2-0.5.65",
-    "file_id": 2744056,
+    "version": "EnderCore - 1.12.2-0.5.74",
+    "file_id": 2861615,
     "game_version": "V1_12_2",
-    "timestamp": 1563514340,
+    "timestamp": 1579156602,
     "dependencies": []
   }, {
     "mod": {
@@ -1664,7 +1651,7 @@
       "name": "McJtyLib",
       "project_id": 233105,
       "author": "McJty",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "McJtyLib - 1.12-3.5.4",
     "file_id": 2745846,
@@ -1676,7 +1663,7 @@
       "slug": "autoreglib",
       "name": "AutoRegLib",
       "project_id": 250363,
-      "author": "Vazkii_",
+      "author": "Vazkii",
       "license": "UNKNOWN"
     },
     "version": "AutoRegLib-1.3-32.jar",
@@ -1692,23 +1679,23 @@
       "author": "brandon3055",
       "license": "UNKNOWN"
     },
-    "version": "BrandonsCore-1.12.2-2.4.17.208-universal",
-    "file_id": 2744222,
+    "version": "BrandonsCore-1.12.2-2.4.18.210-universal",
+    "file_id": 2867147,
     "game_version": "V1_12_2",
-    "timestamp": 1563545082,
-    "dependencies": ["codechicken-lib-1-8", "redstone-flux"]
+    "timestamp": 1579872386,
+    "dependencies": ["#242818", "#270789"]
   }, {
     "mod": {
       "slug": "libnine",
       "name": "LibNine",
       "project_id": 322344,
       "author": "phantamanta44",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "1.12.2-1.1.2",
-    "file_id": 2774954,
+    "version": "1.12.2-1.1.6",
+    "file_id": 2865041,
     "game_version": "V1_12_2",
-    "timestamp": 1567220,
+    "timestamp": 1579583229,
     "dependencies": []
   }, {
     "mod": {
@@ -1716,7 +1703,7 @@
       "name": "TESLA",
       "project_id": 244651,
       "author": "DarkhaxDev",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Tesla-1.12.2-1.0.63.jar",
     "file_id": 2487959,
@@ -1729,7 +1716,7 @@
       "name": "ValkyrieLib",
       "project_id": 245480,
       "author": "ValkyrieofNight",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "valkyrielib-1.12.2-2.0.20.1.jar",
     "file_id": 2691542,
@@ -1742,12 +1729,12 @@
       "name": "Shadowfacts' Forgelin",
       "project_id": 248453,
       "author": "ShadowfactsDev",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "Forgelin-1.8.3.jar",
-    "file_id": 2727070,
-    "game_version": "V1_12_2",
-    "timestamp": 1560994621,
+    "version": "Forgelin-1.8.4.jar",
+    "file_id": 2785465,
+    "game_version": "V1_9_4",
+    "timestamp": 1568406319,
     "dependencies": []
   }, {
     "mod": {
@@ -1755,38 +1742,38 @@
       "name": "LibrarianLib",
       "project_id": 252910,
       "author": "wiresegal",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "librarianlib-1.12.2-4.19.2",
-    "file_id": 2725449,
+    "version": "librarianlib-1.12.2-4.20.jar",
+    "file_id": 2836225,
     "game_version": "V1_12_2",
-    "timestamp": 1560699358,
-    "dependencies": ["shadowfacts-forgelin"]
+    "timestamp": 1575387513,
+    "dependencies": ["#248453"]
   }, {
     "mod": {
       "slug": "a-lib",
       "name": "A Lib",
       "project_id": 293426,
       "author": "al132",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "alib-1.0.12.jar",
     "file_id": 2761706,
     "game_version": "V1_12_2",
     "timestamp": 1565778742,
-    "dependencies": ["shadowfacts-forgelin"]
+    "dependencies": ["#248453"]
   }, {
     "mod": {
       "slug": "codechicken-lib-1-8",
       "name": "CodeChicken Lib 1.8.+",
       "project_id": 242818,
       "author": "covers1624",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "CodeChicken Lib 1.12.2-3.2.3.357-universal",
-    "file_id": 2755781,
+    "version": "CodeChicken Lib 1.12.2-3.2.3.358-universal",
+    "file_id": 2779848,
     "game_version": "V1_12_2",
-    "timestamp": 1565080934,
+    "timestamp": 1567810803,
     "dependencies": []
   }, {
     "mod": {
@@ -1794,12 +1781,12 @@
       "name": "p455w0rd's Library",
       "project_id": 255232,
       "author": "TheRealp455w0rd",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "p455w0rdslib-1.12.2-2.2.156.jar",
-    "file_id": 2745046,
+    "version": "p455w0rdslib-1.12.2-2.3.161.jar",
+    "file_id": 2830265,
     "game_version": "V1_12_2",
-    "timestamp": 1563657748,
+    "timestamp": 1574308375,
     "dependencies": []
   }, {
     "mod": {
@@ -1811,7 +1798,7 @@
     },
     "version": "BDLib 1.14.3.12 (MC 1.12.2)",
     "file_id": 2518031,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1515393916,
     "dependencies": []
   }, {
@@ -1820,25 +1807,25 @@
       "name": "Tesla Core Lib",
       "project_id": 254602,
       "author": "face_of_cat",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "Tesla Core Lib : 1.0.15.13",
-    "file_id": 2580052,
+    "version": "Tesla Core Lib : 1.0.17.25",
+    "file_id": 2891841,
     "game_version": "V1_12_2",
-    "timestamp": 1530884450,
-    "dependencies": ["tesla"]
+    "timestamp": 1582973136,
+    "dependencies": ["#248453"]
   }, {
     "mod": {
       "slug": "cyclops-core",
       "name": "Cyclops Core",
       "project_id": 232758,
       "author": "kroeser",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "CyclopsCore-1.12.2-1.5.0.jar",
-    "file_id": 2753297,
+    "version": "CyclopsCore-1.12.2-1.6.1.jar",
+    "file_id": 2880441,
     "game_version": "V1_12_2",
-    "timestamp": 1564751665,
+    "timestamp": 1581535571,
     "dependencies": []
   }, {
     "mod": {
@@ -1846,7 +1833,7 @@
       "name": "TBone",
       "project_id": 323527,
       "author": "t145_irl",
-      "license": "APACHE"
+      "license": "UNKNOWN"
     },
     "version": "Release v1.6.8",
     "file_id": 2748902,
@@ -1859,12 +1846,12 @@
       "name": "MysticalLib",
       "project_id": 277064,
       "author": "EpicSquid319",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
-    "version": "mysticallib-1.12.2-1.3.3.jar",
-    "file_id": 2765390,
+    "version": "mysticallib-1.12.2-1.6.0.jar",
+    "file_id": 2865499,
     "game_version": "V1_12_2",
-    "timestamp": 1566219871,
+    "timestamp": 1579653245,
     "dependencies": []
   }, {
     "mod": {
@@ -1872,11 +1859,11 @@
       "name": "Chameleon",
       "project_id": 230497,
       "author": "Texelsaur",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Chameleon-1.12-4.1.3.jar",
     "file_id": 2450900,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1500097176,
     "dependencies": []
   }, {
@@ -1885,7 +1872,7 @@
       "name": "Placebo",
       "project_id": 283644,
       "author": "Shadows_of_Fire",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Placebo-1.12.2-1.6.0.jar",
     "file_id": 2694382,
@@ -1898,12 +1885,12 @@
       "name": "WanionLib",
       "project_id": 253043,
       "author": "WanionCane",
-      "license": "MOZILLA"
+      "license": "UNKNOWN"
     },
-    "version": "WanionLib-1.12.2-2.2.jar",
-    "file_id": 2651482,
+    "version": "WanionLib-1.12.2-2.4.jar",
+    "file_id": 2807433,
     "game_version": "V1_12_2",
-    "timestamp": 1545527502,
+    "timestamp": 1570839933,
     "dependencies": []
   }, {
     "mod": {
@@ -1911,20 +1898,20 @@
       "name": "AE2 Wireless Terminal Library",
       "project_id": 304024,
       "author": "TheRealp455w0rd",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "AE2WTLib-1.12.2-1.0.30.jar",
-    "file_id": 2726967,
+    "version": "AE2WTLib-1.12.2-1.0.34.jar",
+    "file_id": 2830114,
     "game_version": "V1_12_2",
-    "timestamp": 1560979994,
-    "dependencies": ["applied-energistics-2", "p455w0rds-library"]
+    "timestamp": 1574278931,
+    "dependencies": ["#223794", "#255232"]
   }, {
     "mod": {
       "slug": "applecore",
       "name": "AppleCore",
       "project_id": 224472,
       "author": "squeek502",
-      "license": "PUBLIC_DOMAIN"
+      "license": "UNKNOWN"
     },
     "version": "AppleCore-mc1.12.2-3.2.0.jar",
     "file_id": 2679415,
@@ -1937,11 +1924,11 @@
       "name": "Guide-API",
       "project_id": 228832,
       "author": "TehNut",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Guide-API-1.12-2.1.8-63.jar",
     "file_id": 2645992,
-    "game_version": "V1_12_2",
+    "game_version": "V1_12",
     "timestamp": 1544413802,
     "dependencies": []
   }, {
@@ -1950,7 +1937,7 @@
       "name": "Redstone Flux",
       "project_id": 270789,
       "author": "TeamCoFH",
-      "license": "ALL_RIGHTS_RESERVED"
+      "license": "UNKNOWN"
     },
     "version": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
     "file_id": 2623090,
@@ -1963,59 +1950,59 @@
       "name": "Common Capabilities",
       "project_id": 247007,
       "author": "kroeser",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "CommonCapabilities-1.12.2-2.4.4.jar",
-    "file_id": 2739226,
+    "version": "CommonCapabilities-1.12.2-2.4.5.jar",
+    "file_id": 2831253,
     "game_version": "V1_12_2",
-    "timestamp": 1562830525,
-    "dependencies": ["cyclops-core"]
+    "timestamp": 1574505086,
+    "dependencies": ["#232758"]
   }, {
     "mod": {
-      "slug": "mystic-world",
-      "name": "Mystic World",
+      "slug": "mystical-world",
+      "name": "Mystical World",
       "project_id": 282940,
       "author": "EpicSquid319",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "MysticWorld-1.12.2-1.4.2.jar",
-    "file_id": 2765394,
+    "version": "mysticalworld-1.12.2-1.7.1.jar",
+    "file_id": 2865502,
     "game_version": "V1_12_2",
-    "timestamp": 1566220074,
-    "dependencies": ["mysticallib"]
+    "timestamp": 1579653358,
+    "dependencies": ["#277064", "#306770"]
   }, {
     "mod": {
       "slug": "mekanism-tools",
       "name": "Mekanism Tools",
       "project_id": 268567,
       "author": "bradyaidanc",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "MekanismTools-1.12.2-9.8.1.383.jar",
-    "file_id": 2755011,
+    "version": "MekanismTools-1.12.2-9.8.3.390.jar",
+    "file_id": 2835178,
     "game_version": "V1_12_2",
-    "timestamp": 1564965420,
-    "dependencies": ["mekanism"]
+    "timestamp": 1575186982,
+    "dependencies": ["#268560"]
   }, {
     "mod": {
       "slug": "mekanism-generators",
       "name": "Mekanism Generators",
       "project_id": 268566,
       "author": "bradyaidanc",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "MekanismGenerators-1.12.2-9.8.1.383.jar",
-    "file_id": 2755010,
+    "version": "MekanismGenerators-1.12.2-9.8.3.390.jar",
+    "file_id": 2835177,
     "game_version": "V1_12_2",
-    "timestamp": 1564965419,
-    "dependencies": ["mekanism"]
+    "timestamp": 1575186980,
+    "dependencies": ["#268560"]
   }, {
     "mod": {
       "slug": "useful-nullifiers",
       "name": "Useful Nullifiers",
       "project_id": 247408,
       "author": "Bartz24",
-      "license": "GPL_V3"
+      "license": "UNKNOWN"
     },
     "version": "usefulnullifiers-1.5.0.jar",
     "file_id": 2588336,
@@ -2028,7 +2015,7 @@
       "name": "Mod Name Tooltip",
       "project_id": 238747,
       "author": "mezz",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "1.10.1",
     "file_id": 2739582,
@@ -2041,12 +2028,12 @@
       "name": "CraftTweaker",
       "project_id": 239197,
       "author": "Jaredlll08",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "CraftTweaker2-1.12-4.1.19",
-    "file_id": 2724129,
+    "version": "CraftTweaker2-1.12-4.1.20",
+    "file_id": 2838090,
     "game_version": "V1_12_2",
-    "timestamp": 1560423046,
+    "timestamp": 1575755586,
     "dependencies": []
   }, {
     "mod": {
@@ -2054,38 +2041,38 @@
       "name": "ModTweaker",
       "project_id": 220954,
       "author": "Jaredlll08",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "modtweaker-4.0.17",
-    "file_id": 2693544,
+    "version": "modtweaker-4.0.18",
+    "file_id": 2881277,
     "game_version": "V1_12_2",
-    "timestamp": 1553992608,
-    "dependencies": ["mtlib"]
+    "timestamp": 1581643023,
+    "dependencies": ["#253211"]
   }, {
     "mod": {
       "slug": "mtlib",
       "name": "MTLib",
       "project_id": 253211,
       "author": "Jaredlll08",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "MTLib-3.0.6",
     "file_id": 2684561,
     "game_version": "V1_12_2",
     "timestamp": 1551999748,
-    "dependencies": ["crafttweaker"]
+    "dependencies": ["#239197"]
   }, {
     "mod": {
       "slug": "controlling",
       "name": "Controlling",
       "project_id": 250398,
       "author": "Jaredlll08",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
-    "version": "Controlling-3.0.7",
-    "file_id": 2731319,
+    "version": "Controlling-3.0.8",
+    "file_id": 2857064,
     "game_version": "V1_12_2",
-    "timestamp": 1561627529,
+    "timestamp": 1578533067,
     "dependencies": []
   }, {
     "mod": {
@@ -2093,12 +2080,12 @@
       "name": "Stuff A Sock In It",
       "project_id": 262137,
       "author": "DarkhaxDev",
-      "license": "LGPL_V3"
+      "license": "UNKNOWN"
     },
-    "version": "StuffASockInIt-1.12.2-1.1.30.jar",
-    "file_id": 2751155,
+    "version": "StuffASockInIt-1.12.2-1.1.32.jar",
+    "file_id": 2810142,
     "game_version": "V1_12_2",
-    "timestamp": 1564442561,
+    "timestamp": 1571187441,
     "dependencies": []
   }, {
     "mod": {
@@ -2118,14 +2105,14 @@
       "slug": "psi",
       "name": "Psi",
       "project_id": 241665,
-      "author": "Vazkii_",
+      "author": "Vazkii",
       "license": "UNKNOWN"
     },
     "version": "Psi-r1.1-77.jar",
     "file_id": 2724967,
     "game_version": "V1_12_2",
-    "timestamp": 1560607,
-    "dependencies": ["autoreglib"]
+    "timestamp": 1560607161,
+    "dependencies": ["#250363"]
   }, {
     "mod": {
       "slug": "psio",
@@ -2137,20 +2124,33 @@
     "version": "1.12.2-1.0.1",
     "file_id": 2778670,
     "game_version": "V1_12_2",
-    "timestamp": 1567656,
-    "dependencies": ["libnine", "psi"]
+    "timestamp": 1567656425,
+    "dependencies": ["#241665", "#322344"]
   }, {
     "mod": {
       "slug": "random-psideas",
       "name": "Random PSIdeas",
       "project_id": 302313,
       "author": "kamefrede123",
-      "license": "MIT"
+      "license": "UNKNOWN"
     },
     "version": "Random PSIdeas-2.4.2",
     "file_id": 2725942,
-    "game_version": "V1_12_2",
-    "timestamp": 1560794,
-    "dependencies": ["autoreglib", "librarianlib", "psi", "shadowfacts-forgelin"]
+    "game_version": "V1_12",
+    "timestamp": 1560794944,
+    "dependencies": ["#252910", "#241665", "#250363", "#248453"]
+  }, {
+    "mod": {
+      "slug": "gunpowderlib",
+      "name": "GunpowderLib",
+      "project_id": 356646,
+      "author": "Jackyy",
+      "license": "UNKNOWN"
+    },
+    "version": "GunpowderLib-1.12.2-1.0.jar",
+    "file_id": 2852431,
+    "game_version": "V1_12",
+    "timestamp": 1577812181,
+    "dependencies": []
   }]
 }
