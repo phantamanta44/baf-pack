@@ -2152,5 +2152,44 @@
     "game_version": "V1_12",
     "timestamp": 1577812181,
     "dependencies": []
+  }, {
+    "mod": {
+      "slug": "armory-expansion",
+      "name": "Armory Expansion",
+      "project_id": 293602,
+      "author": "AshuraNoYami",
+      "license": "UNKNOWN"
+    },
+    "version": "Armory Expansion 1.4.1",
+    "file_id": 2815771,
+    "game_version": "V1_12_2",
+    "timestamp": 1571947688,
+    "dependencies": ["#74924", "#287683", "#74072"]
+  }, {
+    "mod": {
+      "slug": "openblocks-elevator",
+      "name": "OpenBlocks Elevator",
+      "project_id": 250832,
+      "author": "vsngarcia",
+      "license": "UNKNOWN"
+    },
+    "version": "ElevatorMod-1.12.2-1.3.14.jar",
+    "file_id": 2845365,
+    "game_version": "V1_12_2",
+    "timestamp": 1576776456,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "roguelike-dungeons",
+      "name": "Roguelike Dungeons",
+      "project_id": 221585,
+      "author": "greymerktv",
+      "license": "UNKNOWN"
+    },
+    "version": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+    "file_id": 2492586,
+    "game_version": "V1_12_2",
+    "timestamp": 1508526435,
+    "dependencies": []
   }]
 }
