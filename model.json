@@ -2191,5 +2191,18 @@
     "game_version": "V1_12_2",
     "timestamp": 1508526435,
     "dependencies": []
+  }, {
+    "mod": {
+      "slug": "filing-cabinets-refurbished",
+      "name": "Filing Cabinets Refurbished",
+      "project_id": 355909,
+      "author": "phantamanta44",
+      "license": "UNKNOWN"
+    },
+    "version": "1.12.2-1.0.0",
+    "file_id": 2849149,
+    "game_version": "V1_12_2",
+    "timestamp": 1577243153,
+    "dependencies": ["#322344"]
   }]
 }
