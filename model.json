@@ -295,19 +295,6 @@
     "dependencies": ["#69163", "#227083", "#70631"]
   }, {
     "mod": {
-      "slug": "alchemistry",
-      "name": "Alchemistry",
-      "project_id": 293425,
-      "author": "al132",
-      "license": "UNKNOWN"
-    },
-    "version": "alchemistry-1.12.2-41.jar",
-    "file_id": 2889940,
-    "game_version": "V1_12_2",
-    "timestamp": 1582833215,
-    "dependencies": ["#293426", "#248453"]
-  }, {
-    "mod": {
       "slug": "applied-energistics-2",
       "name": "Applied Energistics 2",
       "project_id": 223794,
@@ -399,19 +386,6 @@
     "dependencies": ["#232758", "#236307"]
   }, {
     "mod": {
-      "slug": "integrated-crafting",
-      "name": "Integrated Crafting",
-      "project_id": 287357,
-      "author": "kroeser",
-      "license": "UNKNOWN"
-    },
-    "version": "IntegratedCrafting-1.12.2-1.0.8.jar",
-    "file_id": 2732760,
-    "game_version": "V1_12_2",
-    "timestamp": 1561821006,
-    "dependencies": ["#232758", "#236307", "#251389"]
-  }, {
-    "mod": {
       "slug": "industrial-foregoing",
       "name": "Industrial Foregoing",
       "project_id": 266515,
@@ -448,19 +422,6 @@
     "file_id": 2861573,
     "game_version": "V1_12_2",
     "timestamp": 1579148591,
-    "dependencies": ["#233105"]
-  }, {
-    "mod": {
-      "slug": "rftools-power",
-      "name": "RFTools Power",
-      "project_id": 290209,
-      "author": "McJty",
-      "license": "UNKNOWN"
-    },
-    "version": "RFToolsPower - 1.12-1.2.0",
-    "file_id": 2704404,
-    "game_version": "V1_12_2",
-    "timestamp": 1556389257,
     "dependencies": ["#233105"]
   }, {
     "mod": {
@@ -932,19 +893,6 @@
     "dependencies": ["#323527"]
   }, {
     "mod": {
-      "slug": "chest-transporter",
-      "name": "Chest Transporter",
-      "project_id": 78778,
-      "author": "cubex2",
-      "license": "UNKNOWN"
-    },
-    "version": "ChestTransporter-1.12.2-2.8.8.jar",
-    "file_id": 2524058,
-    "game_version": "V1_12",
-    "timestamp": 1516888948,
-    "dependencies": []
-  }, {
-    "mod": {
       "slug": "ender-storage-1-8",
       "name": "Ender Storage 1.8.+",
       "project_id": 245174,
@@ -1242,19 +1190,6 @@
     "game_version": "V1_12",
     "timestamp": 1584469309,
     "dependencies": ["#356646"]
-  }, {
-    "mod": {
-      "slug": "bibliocraft",
-      "name": "BiblioCraft",
-      "project_id": 228027,
-      "author": "Nuchaz",
-      "license": "UNKNOWN"
-    },
-    "version": "BiblioCraft v2.4.5",
-    "file_id": 2574880,
-    "game_version": "V1_12_2",
-    "timestamp": 1529559420,
-    "dependencies": []
   }, {
     "mod": {
       "slug": "jei",
@@ -1748,19 +1683,6 @@
     "file_id": 2836225,
     "game_version": "V1_12_2",
     "timestamp": 1575387513,
-    "dependencies": ["#248453"]
-  }, {
-    "mod": {
-      "slug": "a-lib",
-      "name": "A Lib",
-      "project_id": 293426,
-      "author": "al132",
-      "license": "UNKNOWN"
-    },
-    "version": "alib-1.0.12.jar",
-    "file_id": 2761706,
-    "game_version": "V1_12_2",
-    "timestamp": 1565778742,
     "dependencies": ["#248453"]
   }, {
     "mod": {
