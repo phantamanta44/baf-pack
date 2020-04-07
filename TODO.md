@@ -10,7 +10,6 @@
 * remove inscription stamping recipe
 * fix mekores sometimes marking various ores as invalid
 * comprehensive alchemistry recipes
-* recipe for ic2 iridium
 * more advgen turbine materials
 * add all shears to bonsai tree cutting tools
 * unify recipes for common components
