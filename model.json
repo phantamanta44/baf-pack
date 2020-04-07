@@ -2204,5 +2204,135 @@
     "game_version": "V1_12_2",
     "timestamp": 1577243153,
     "dependencies": ["#322344"]
+  }, {
+    "mod": {
+      "slug": "yungs-better-caves",
+      "name": "YUNG's Better Caves",
+      "project_id": 340583,
+      "author": "YUNGNICKYOUNG",
+      "license": "UNKNOWN"
+    },
+    "version": "bettercaves-1.12.2-1.6.0.jar",
+    "file_id": 2836918,
+    "game_version": "V1_12_2",
+    "timestamp": 1575521835,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "realistic-terrain-generation",
+      "name": "Realistic Terrain Generation",
+      "project_id": 237989,
+      "author": "WhichOnesPink",
+      "license": "UNKNOWN"
+    },
+    "version": "RTG-1.12.2-6.1.0.0-snapshot.1",
+    "file_id": 2782568,
+    "game_version": "V1_12_2",
+    "timestamp": 1568148348,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "blockcraftery",
+      "name": "Blockcraftery",
+      "project_id": 278882,
+      "author": "EpicSquid319",
+      "license": "UNKNOWN"
+    },
+    "version": "blockcraftery-1.12.2-1.3.1.jar",
+    "file_id": 2716712,
+    "game_version": "V1_12_2",
+    "timestamp": 1559002003,
+    "dependencies": ["#277064"]
+  }, {
+    "mod": {
+      "slug": "loot-capacitor-tooltips",
+      "name": "Loot Capacitor Tooltips",
+      "project_id": 316304,
+      "author": "tfarecnim",
+      "license": "UNKNOWN"
+    },
+    "version": "lootcapacitortooltips-1.3.jar",
+    "file_id": 2687139,
+    "game_version": "V1_12_2",
+    "timestamp": 1552585058,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "classic-bars",
+      "name": "Classic Bars",
+      "project_id": 317642,
+      "author": "tfarecnim",
+      "license": "UNKNOWN"
+    },
+    "version": "classicbar-0.5.4.jar",
+    "file_id": 2861996,
+    "game_version": "V1_12_2",
+    "timestamp": 1579211154,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "dynamic-surroundings",
+      "name": "Dynamic Surroundings",
+      "project_id": 238891,
+      "author": "OreCruncher",
+      "license": "UNKNOWN"
+    },
+    "version": "DynamicSurroundings-1.12.2-3.6.1.0.jar",
+    "file_id": 2922489,
+    "game_version": "V1_12_2",
+    "timestamp": 1586171492,
+    "dependencies": ["#307806"]
+  }, {
+    "mod": {
+      "slug": "orelib",
+      "name": "OreLib",
+      "project_id": 307806,
+      "author": "OreCruncher",
+      "license": "UNKNOWN"
+    },
+    "version": "OreLib-1.12.2-3.6.0.1.jar",
+    "file_id": 2820815,
+    "game_version": "V1_12_2",
+    "timestamp": 1572716009,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "nuclearcraft-mod",
+      "name": "NuclearCraft",
+      "project_id": 226254,
+      "author": "tomdodd4598",
+      "license": "UNKNOWN"
+    },
+    "version": "NuclearCraft-2.18r-1.12.2",
+    "file_id": 2921192,
+    "game_version": "V1_12_2",
+    "timestamp": 1586031645,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "journeymap",
+      "name": "JourneyMap",
+      "project_id": 32274,
+      "author": "techbrew",
+      "license": "UNKNOWN"
+    },
+    "version": "journeymap-1.12.2-5.7.1",
+    "file_id": 2916002,
+    "game_version": "V1_12_2",
+    "timestamp": 1585516162,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "project-vibrant-journeys",
+      "name": "Project: Vibrant Journeys",
+      "project_id": 300297,
+      "author": "solis_nova123",
+      "license": "UNKNOWN"
+    },
+    "version": "ProjectVibrantJourneys-1.12.2-1.6.4.jar",
+    "file_id": 2775566,
+    "game_version": "V1_12_2",
+    "timestamp": 1567282276,
+    "dependencies": []
   }]
 }
