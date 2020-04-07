@@ -2256,5 +2256,44 @@
     "game_version": "V1_12_2",
     "timestamp": 1567282276,
     "dependencies": []
+  }, {
+    "mod": {
+      "slug": "ftb-utilities",
+      "name": "FTB Utilities",
+      "project_id": 237102,
+      "author": "LatvianModder",
+      "license": "UNKNOWN"
+    },
+    "version": "FTBUtilities-5.4.0.124.jar",
+    "file_id": 2835289,
+    "game_version": "V1_12_2",
+    "timestamp": 1575205213,
+    "dependencies": ["#237167", "#314904"]
+  }, {
+    "mod": {
+      "slug": "ftblib",
+      "name": "FTB Library",
+      "project_id": 237167,
+      "author": "LatvianModder",
+      "license": "UNKNOWN"
+    },
+    "version": "FTBLib-5.4.7.0.jar",
+    "file_id": 2891572,
+    "game_version": "V1_12_2",
+    "timestamp": 1582932569,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "ftb-backups",
+      "name": "FTB Backups",
+      "project_id": 314904,
+      "author": "LatvianModder",
+      "license": "UNKNOWN"
+    },
+    "version": "FTBBackups-1.1.0.1.jar",
+    "file_id": 2819669,
+    "game_version": "V1_12_2",
+    "timestamp": 1572553508,
+    "dependencies": []
   }]
 }
