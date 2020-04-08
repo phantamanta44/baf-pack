@@ -841,19 +841,6 @@
     "dependencies": []
   }, {
     "mod": {
-      "slug": "the-weirding-gadget",
-      "name": "The Weirding Gadget",
-      "project_id": 258914,
-      "author": "AtomicBlom",
-      "license": "UNKNOWN"
-    },
-    "version": "weirdinggadget-1.12.2-2.1.16-universal.jar",
-    "file_id": 2708729,
-    "game_version": "V1_12_2",
-    "timestamp": 1557352055,
-    "dependencies": []
-  }, {
-    "mod": {
       "slug": "storage-drawers",
       "name": "Storage Drawers",
       "project_id": 223852,
