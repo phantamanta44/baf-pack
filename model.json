@@ -2282,5 +2282,18 @@
     "game_version": "V1_12",
     "timestamp": 1585878104,
     "dependencies": []
+  }, {
+    "mod": {
+      "slug": "mouse-tweaks",
+      "name": "Mouse Tweaks",
+      "project_id": 60089,
+      "author": "YaLTeR",
+      "license": "UNKNOWN"
+    },
+    "version": "[1.12.2] Mouse Tweaks 2.10",
+    "file_id": 2671937,
+    "game_version": "V1_12_2",
+    "timestamp": 1549884820,
+    "dependencies": []
   }]
 }
