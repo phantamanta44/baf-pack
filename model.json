@@ -223,10 +223,10 @@
       "author": "TeamCoFH",
       "license": "UNKNOWN"
     },
-    "version": "ThermalFoundation-1.12.2-2.6.3.27-universal.jar",
-    "file_id": 2715788,
+    "version": "ThermalFoundation-1.12.2-2.6.6.1-universal.jar",
+    "file_id": 2920504,
     "game_version": "V1_12_2",
-    "timestamp": 1558824099,
+    "timestamp": 1585964447,
     "dependencies": ["#69162", "#271384"]
   }, {
     "mod": {
@@ -236,11 +236,11 @@
       "author": "TeamCoFH",
       "license": "UNKNOWN"
     },
-    "version": "ThermalExpansion-1.12.2-5.5.4.43-universal.jar",
-    "file_id": 2715789,
+    "version": "ThermalExpansion-1.12.2-5.5.6.1-universal.jar",
+    "file_id": 2920438,
     "game_version": "V1_12_2",
-    "timestamp": 1558824129,
-    "dependencies": ["#222880", "#242818"]
+    "timestamp": 1585958035,
+    "dependencies": ["#242818", "#222880"]
   }, {
     "mod": {
       "slug": "thermal-dynamics",
@@ -249,10 +249,10 @@
       "author": "TeamCoFH",
       "license": "UNKNOWN"
     },
-    "version": "ThermalDynamics-1.12.2-2.5.5.21-universal.jar",
-    "file_id": 2716138,
+    "version": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+    "file_id": 2920505,
     "game_version": "V1_12_2",
-    "timestamp": 1558895434,
+    "timestamp": 1585964498,
     "dependencies": ["#242818", "#222880"]
   }, {
     "mod": {
@@ -275,10 +275,10 @@
       "author": "TeamCoFH",
       "license": "UNKNOWN"
     },
-    "version": "RedstoneArsenal-1.12.2-2.6.3.18-universal.jar",
-    "file_id": 2715786,
+    "version": "RedstoneArsenal-1.12.2-2.6.4.1-universal.jar",
+    "file_id": 2920435,
     "game_version": "V1_12_2",
-    "timestamp": 1558824044,
+    "timestamp": 1585957946,
     "dependencies": ["#69162"]
   }, {
     "mod": {
@@ -340,10 +340,10 @@
       "author": "nividica",
       "license": "UNKNOWN"
     },
-    "version": "(AE2-RV6) Thaumic Energistics 2.2.3",
-    "file_id": 2750063,
+    "version": "(AE2-RV6) Thaumic Energistics 2.2.4",
+    "file_id": 2915506,
     "game_version": "V1_12_2",
-    "timestamp": 1564308254,
+    "timestamp": 1585461654,
     "dependencies": ["#223794", "#223628"]
   }, {
     "mod": {
@@ -366,11 +366,11 @@
       "author": "kroeser",
       "license": "UNKNOWN"
     },
-    "version": "IntegratedDynamics-1.12.2-1.1.2.jar",
-    "file_id": 2880446,
+    "version": "IntegratedDynamics-1.12.2-1.1.4.jar",
+    "file_id": 2921576,
     "game_version": "V1_12_2",
-    "timestamp": 1581535634,
-    "dependencies": ["#232758", "#247007"]
+    "timestamp": 1586066714,
+    "dependencies": ["#247007", "#232758"]
   }, {
     "mod": {
       "slug": "integrated-tunnels",
@@ -379,11 +379,11 @@
       "author": "kroeser",
       "license": "UNKNOWN"
     },
-    "version": "IntegratedTunnels-1.12.2-1.6.10.jar",
-    "file_id": 2732756,
+    "version": "IntegratedTunnels-1.12.2-1.6.11.jar",
+    "file_id": 2920817,
     "game_version": "V1_12_2",
-    "timestamp": 1561820927,
-    "dependencies": ["#232758", "#236307"]
+    "timestamp": 1586005741,
+    "dependencies": ["#236307", "#232758"]
   }, {
     "mod": {
       "slug": "industrial-foregoing",
@@ -509,10 +509,10 @@
       "author": "HellFirePvP",
       "license": "UNKNOWN"
     },
-    "version": "AstralSorcery-1.12.2-1.10.22.jar",
-    "file_id": 2872629,
+    "version": "AstralSorcery-1.12.2-1.10.23.jar",
+    "file_id": 2920254,
     "game_version": "V1_12_2",
-    "timestamp": 1580503110,
+    "timestamp": 1585940256,
     "dependencies": ["#227083"]
   }, {
     "mod": {
@@ -626,11 +626,11 @@
       "author": "EpicSquid319",
       "license": "UNKNOWN"
     },
-    "version": "Roots-1.12.2-3.0.25.jar",
-    "file_id": 2882804,
+    "version": "Roots-1.12.2-3.0.26.jar",
+    "file_id": 2912862,
     "game_version": "V1_12_2",
-    "timestamp": 1581842929,
-    "dependencies": ["#277064", "#306770", "#282940"]
+    "timestamp": 1585185188,
+    "dependencies": ["#282940", "#306770", "#277064"]
   }, {
     "mod": {
       "slug": "thaumcraft",
@@ -743,11 +743,11 @@
       "author": "landmaster_phuong0429",
       "license": "UNKNOWN"
     },
-    "version": "plustic-7.1.6.1.jar",
-    "file_id": 2789626,
+    "version": "plustic-8.0.0.1.jar",
+    "file_id": 2920858,
     "game_version": "V1_12_2",
-    "timestamp": 1568920951,
-    "dependencies": ["#74072", "#74924"]
+    "timestamp": 1586008821,
+    "dependencies": ["#74924", "#74072"]
   }, {
     "mod": {
       "slug": "tinkering-with-blood-magic",
@@ -951,10 +951,10 @@
       "author": "ic_trab",
       "license": "UNKNOWN"
     },
-    "version": "Netherending Ores 1.3 - Hotfix 1",
-    "file_id": 2687072,
-    "game_version": "V1_12_2",
-    "timestamp": 1552567603,
+    "version": "Netherending Ores 1.4",
+    "file_id": 2922337,
+    "game_version": "V1_12",
+    "timestamp": 1586144269,
     "dependencies": []
   }, {
     "mod": {
@@ -1120,10 +1120,10 @@
       "author": "tterrag1098",
       "license": "UNKNOWN"
     },
-    "version": "Chisel - MC1.12.2-1.0.1.44",
-    "file_id": 2813538,
+    "version": "Chisel - MC1.12.2-1.0.2.45",
+    "file_id": 2915375,
     "game_version": "V1_12_2",
-    "timestamp": 1571629903,
+    "timestamp": 1585441818,
     "dependencies": ["#267602"]
   }, {
     "mod": {
@@ -1348,19 +1348,6 @@
     "dependencies": []
   }, {
     "mod": {
-      "slug": "ding",
-      "name": "Ding",
-      "project_id": 231275,
-      "author": "ohaiiChun",
-      "license": "UNKNOWN"
-    },
-    "version": "Ding-1.12.2-1.0.2.jar",
-    "file_id": 2801170,
-    "game_version": "V1_12",
-    "timestamp": 1570140675,
-    "dependencies": []
-  }, {
-    "mod": {
       "slug": "custom-backgrounds",
       "name": "Custom Backgrounds",
       "project_id": 225928,
@@ -1445,10 +1432,10 @@
       "author": "Runemoro",
       "license": "UNKNOWN"
     },
-    "version": "VanillaFix-1.0.10-99.jar",
-    "file_id": 2639533,
+    "version": "VanillaFix 1.0.10-150",
+    "file_id": 2915154,
     "game_version": "V1_12",
-    "timestamp": 1542653097,
+    "timestamp": 1585426264,
     "dependencies": []
   }, {
     "mod": {
@@ -1458,23 +1445,23 @@
       "author": "DarkhaxDev",
       "license": "UNKNOWN"
     },
-    "version": "Surge-1.12.2-2.0.77.jar",
-    "file_id": 2665849,
+    "version": "Surge-1.12.2-2.0.79.jar",
+    "file_id": 2916357,
     "game_version": "V1_12_2",
-    "timestamp": 1548629192,
+    "timestamp": 1585559049,
     "dependencies": []
   }, {
     "mod": {
-      "slug": "phosphor",
-      "name": "Phosphor",
+      "slug": "phosphor-forge",
+      "name": "Phosphor (Forge)",
       "project_id": 318255,
       "author": "jellysquid_",
       "license": "UNKNOWN"
     },
-    "version": "0.2.6 (Forge/1.12.x)",
-    "file_id": 2747710,
+    "version": "Phosphor mc1.12.2-0.2.7",
+    "file_id": 2919497,
     "game_version": "V1_12_2",
-    "timestamp": 1563993253,
+    "timestamp": 1585855834,
     "dependencies": []
   }, {
     "mod": {
@@ -1484,10 +1471,10 @@
       "author": "TheRandomLabs",
       "license": "UNKNOWN"
     },
-    "version": "RandomPatches 1.12.2-1.21.0.0",
-    "file_id": 2863699,
+    "version": "RandomPatches 1.21.0.1",
+    "file_id": 2921432,
     "game_version": "V1_12",
-    "timestamp": 1579421613,
+    "timestamp": 1586051556,
     "dependencies": []
   }, {
     "mod": {
@@ -1510,10 +1497,10 @@
       "author": "TeamCoFH",
       "license": "UNKNOWN"
     },
-    "version": "CoFHWorld-1.12.2-1.3.1.7-universal.jar",
-    "file_id": 2715784,
+    "version": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+    "file_id": 2920434,
     "game_version": "V1_12_2",
-    "timestamp": 1558823998,
+    "timestamp": 1585957923,
     "dependencies": []
   }, {
     "mod": {
@@ -1523,10 +1510,10 @@
       "author": "tterrag1098",
       "license": "UNKNOWN"
     },
-    "version": "CTM - MC1.12.2-1.0.1.30",
-    "file_id": 2832564,
+    "version": "CTM - MC1.12.2-1.0.2.31",
+    "file_id": 2915363,
     "game_version": "V1_12_2",
-    "timestamp": 1574726827,
+    "timestamp": 1585441175,
     "dependencies": []
   }, {
     "mod": {
@@ -1562,11 +1549,11 @@
       "author": "TeamCoFH",
       "license": "UNKNOWN"
     },
-    "version": "CoFHCore-1.12.2-4.6.3.27-universal.jar",
-    "file_id": 2716100,
+    "version": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "file_id": 2920433,
     "game_version": "V1_12_2",
-    "timestamp": 1558891587,
-    "dependencies": ["#270789"]
+    "timestamp": 1585957907,
+    "dependencies": []
   }, {
     "mod": {
       "slug": "endercore",
@@ -1575,10 +1562,10 @@
       "author": "tterrag1098",
       "license": "UNKNOWN"
     },
-    "version": "EnderCore - 1.12.2-0.5.74",
-    "file_id": 2861615,
+    "version": "EnderCore - 1.12.2-0.5.75",
+    "file_id": 2922886,
     "game_version": "V1_12_2",
-    "timestamp": 1579156602,
+    "timestamp": 1586204514,
     "dependencies": []
   }, {
     "mod": {
@@ -1744,10 +1731,10 @@
       "author": "kroeser",
       "license": "UNKNOWN"
     },
-    "version": "CyclopsCore-1.12.2-1.6.1.jar",
-    "file_id": 2880441,
+    "version": "CyclopsCore-1.12.2-1.6.2.jar",
+    "file_id": 2920796,
     "game_version": "V1_12_2",
-    "timestamp": 1581535571,
+    "timestamp": 1586005358,
     "dependencies": []
   }, {
     "mod": {
@@ -1770,10 +1757,10 @@
       "author": "EpicSquid319",
       "license": "UNKNOWN"
     },
-    "version": "mysticallib-1.12.2-1.6.0.jar",
-    "file_id": 2865499,
+    "version": "mysticallib-1.12.2-1.7.0.jar",
+    "file_id": 2912859,
     "game_version": "V1_12_2",
-    "timestamp": 1579653245,
+    "timestamp": 1585185008,
     "dependencies": []
   }, {
     "mod": {
@@ -1861,10 +1848,10 @@
       "author": "TeamCoFH",
       "license": "UNKNOWN"
     },
-    "version": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
-    "file_id": 2623090,
+    "version": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+    "file_id": 2920436,
     "game_version": "V1_12_2",
-    "timestamp": 1538427790,
+    "timestamp": 1585957961,
     "dependencies": []
   }, {
     "mod": {
@@ -1874,10 +1861,10 @@
       "author": "kroeser",
       "license": "UNKNOWN"
     },
-    "version": "CommonCapabilities-1.12.2-2.4.5.jar",
-    "file_id": 2831253,
+    "version": "CommonCapabilities-1.12.2-2.4.6.jar",
+    "file_id": 2920804,
     "game_version": "V1_12_2",
-    "timestamp": 1574505086,
+    "timestamp": 1586005579,
     "dependencies": ["#232758"]
   }, {
     "mod": {
@@ -1887,10 +1874,10 @@
       "author": "EpicSquid319",
       "license": "UNKNOWN"
     },
-    "version": "mysticalworld-1.12.2-1.7.1.jar",
-    "file_id": 2865502,
+    "version": "mysticalworld-1.12.2-1.8.3.jar",
+    "file_id": 2918177,
     "game_version": "V1_12_2",
-    "timestamp": 1579653358,
+    "timestamp": 1585728908,
     "dependencies": ["#277064", "#306770"]
   }, {
     "mod": {
@@ -2294,6 +2281,19 @@
     "file_id": 2819669,
     "game_version": "V1_12_2",
     "timestamp": 1572553508,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "jeid",
+      "name": "JustEnoughIDs",
+      "project_id": 296289,
+      "author": "Runemoro",
+      "license": "UNKNOWN"
+    },
+    "version": "JustEnoughIDs 1.0.3-55",
+    "file_id": 2919737,
+    "game_version": "V1_12",
+    "timestamp": 1585878104,
     "dependencies": []
   }]
 }
