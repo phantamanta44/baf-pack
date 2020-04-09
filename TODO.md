@@ -6,7 +6,6 @@
 * add all flora to void botanical miner
 * more blood magic meteors
 * add glowing items to librarianlib config
-* replace oregen
 * remove inscription stamping recipe
 * fix mekores sometimes marking various ores as invalid
 * comprehensive alchemistry recipes
