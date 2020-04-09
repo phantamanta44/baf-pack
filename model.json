@@ -2102,19 +2102,6 @@
     "dependencies": ["#322344"]
   }, {
     "mod": {
-      "slug": "yungs-better-caves",
-      "name": "YUNG's Better Caves",
-      "project_id": 340583,
-      "author": "YUNGNICKYOUNG",
-      "license": "UNKNOWN"
-    },
-    "version": "bettercaves-1.12.2-1.6.0.jar",
-    "file_id": 2836918,
-    "game_version": "V1_12_2",
-    "timestamp": 1575521835,
-    "dependencies": []
-  }, {
-    "mod": {
       "slug": "realistic-terrain-generation",
       "name": "Realistic Terrain Generation",
       "project_id": 237989,
