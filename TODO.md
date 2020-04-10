@@ -7,4 +7,3 @@
 * more advgen turbine materials
 * add all shears to bonsai tree cutting tools
 * unify recipes for common components
-* work out semantics for TAIGA basalt
