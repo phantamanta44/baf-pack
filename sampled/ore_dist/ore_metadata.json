@@ -1,0 +1,581 @@
+{
+  "Abyssum": {
+    "primary_dim": "end",
+    "rep": "taiga:abyssum_ore",
+    "colour": "cyan",
+    "tier": 4
+  },
+  "Adamantine": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:adamantine_ore",
+    "colour": "red",
+    "tier": 5
+  },
+  "Alduorite": {
+    "primary_dim": "nether",
+    "rep": "metallurgy:alduorite_ore",
+    "colour": "light_blue",
+    "tier": 3
+  },
+  "Aluminum": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "thermalfoundation:ore",
+      "data": 4
+    },
+    "colour": "white",
+    "tier": 0
+  },
+  "Amber": {
+    "primary_dim": "overworld",
+    "rep": "thaumcraft:ore_amber",
+    "colour": "orange",
+    "tier": 1
+  },
+  "Amethyst": {
+    "primary_dim": "overworld",
+    "rep": "mysticalworld:amethyst_ore",
+    "colour": "purple",
+    "tier": 2
+  },
+  "Aquamarine": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "astralsorcery:blockcustomsandore",
+      "data": 0
+    },
+    "colour": "light_blue",
+    "tier": 2
+  },
+  "Ardite": {
+    "primary_dim": "nether",
+    "rep": {
+      "item": "tconstruct:ore",
+      "data": 1
+    },
+    "colour": "yellow",
+    "tier": 3
+  },
+  "AstralSilver": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:astral_silver_ore",
+    "colour": "light_grey",
+    "tier": 1
+  },
+  "AstralStarmetal": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "astralsorcery:blockcustomore",
+      "data": 1
+    },
+    "colour": "blue",
+    "tier": 2
+  },
+  "Atlarus": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:atlarus_ore",
+    "colour": "yellow",
+    "tier": 4
+  },
+  "Aurorium": {
+    "primary_dim": "end",
+    "rep": "taiga:aurorium_ore",
+    "colour": "pink",
+    "tier": 3
+  },
+  "Boron": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "nuclearcraft:ore",
+      "data": 5
+    },
+    "colour": "dark_grey",
+    "tier": 2
+  },
+  "Carmot": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:carmot_ore",
+    "colour": "brown",
+    "tier": 3
+  },
+  "CertusQuartz": {
+    "primary_dim": "overworld",
+    "rep": "appliedenergistics2:quartz_ore",
+    "colour": "light_blue",
+    "tier": 1
+  },
+  "Ceruclase": {
+    "primary_dim": "nether",
+    "rep": "metallurgy:ceruclase_ore",
+    "colour": "cyan",
+    "tier": 3
+  },
+  "ChargedCertusQuartz": {
+    "primary_dim": "overworld",
+    "rep": "appliedenergistics2:charged_quartz_ore",
+    "colour": "light_blue",
+    "tier": 2
+  },
+  "Cinnabar": {
+    "primary_dim": "overworld",
+    "rep": "thaumcraft:ore_cinnabar",
+    "colour": "red",
+    "tier": 2
+  },
+  "ClathrateEnder": {
+    "primary_dim": "end",
+    "rep": {
+      "item": "thermalfoundation:ore_fluid",
+      "data": 4
+    },
+    "colour": "green",
+    "tier": 4
+  },
+  "ClathrateGlowstone": {
+    "primary_dim": "nether",
+    "rep": {
+      "item": "thermalfoundation:ore_fluid",
+      "data": 3
+    },
+    "colour": "yellow",
+    "tier": 3
+  },
+  "ClathrateOilSand": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "thermalfoundation:ore_fluid",
+      "data": 0
+    },
+    "colour": "black",
+    "tier": 2
+  },
+  "ClathrateOilShale": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "thermalfoundation:ore_fluid",
+      "data": 1
+    },
+    "colour": "black",
+    "tier": 2
+  },
+  "ClathrateRedstone": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "thermalfoundation:ore_fluid",
+      "data": 2
+    },
+    "colour": "red",
+    "tier": 3
+  },
+  "Coal": {
+    "primary_dim": "overworld",
+    "rep": "minecraft:coal_ore",
+    "colour": "black",
+    "tier": 0
+  },
+  "Cobalt": {
+    "primary_dim": "nether",
+    "rep": {
+      "item": "tconstruct:ore",
+      "data": 0
+    },
+    "colour": "blue",
+    "tier": 3
+  },
+  "Copper": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "thermalfoundation:ore",
+      "data": 0
+    },
+    "colour": "orange",
+    "tier": 0
+  },
+  "DeepIron": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:deep_iron_ore",
+    "colour": "dark_grey",
+    "tier": 3 
+  },
+  "Diamond": {
+    "primary_dim": "overworld",
+    "rep": "minecraft:diamond_ore",
+    "colour": "light_blue",
+    "tier": 2
+  },
+  "Dilithium": {
+    "primary_dim": "overworld",
+    "rep": "taiga:dilithium_ore",
+    "colour": "cyan",
+    "tier": 2
+  },
+  "DimensionalShard": {
+    "primary_dim": "end",
+    "rep": {
+      "item": "rftools:dimensional_shard_ore",
+      "data": 2
+    },
+    "colour": "white",
+    "tier": 4
+  },
+  "Draconium": {
+    "primary_dim": "end",
+    "rep": {
+      "item": "draconicevolution:draconium_ore",
+      "data": 2
+    },
+    "colour": "purple",
+    "tier": 5
+  },
+  "Duranite": {
+    "primary_dim": "overworld",
+    "rep": "taiga:duranite_ore",
+    "colour": "light_grey",
+    "tier": 4
+  },
+  "Eezo": {
+    "primary_dim": "overworld",
+    "rep": "taiga:eezo_ore",
+    "colour": "black",
+    "tier": 5
+  },
+  "Emerald": {
+    "primary_dim": "overworld",
+    "rep": "minecraft:emerald_ore",
+    "colour": "lime",
+    "tier": 2
+  },
+  "Eximite": {
+    "primary_dim": "end",
+    "rep": "metallurgy:eximite_ore",
+    "colour": "purple",
+    "tier": 4
+  },
+  "Gold": {
+    "primary_dim": "overworld",
+    "rep": "minecraft:gold_ore",
+    "colour": "yellow",
+    "tier": 1
+  },
+  "Ignatius": {
+    "primary_dim": "nether",
+    "rep": "metallurgy:ignatius_ore",
+    "colour": "orange",
+    "tier": 1
+  },
+  "Infuscolium": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:infuscolium_ore",
+    "colour": "magenta",
+    "tier": 1
+  },
+  "Iridium": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "thermalfoundation:ore",
+      "data": 7
+    },
+    "colour": "light_grey",
+    "tier": 4
+  },
+  "Iron": {
+    "primary_dim": "overworld",
+    "rep": "minecraft:iron_ore",
+    "colour": "brown",
+    "tier": 0
+  },
+  "Jauxum": {
+    "primary_dim": "overworld",
+    "rep": "taiga:jauxum_ore",
+    "colour": "lime",
+    "tier": 1
+  },
+  "Kalendrite": {
+    "primary_dim": "nether",
+    "rep": "metallurgy:kalendrite_ore",
+    "colour": "purple",
+    "tier": 3
+  },
+  "Karmesine": {
+    "primary_dim": "overworld",
+    "rep": "taiga:karmesine_ore",
+    "colour": "orange",
+    "tier": 1
+  },
+  "Lapis": {
+    "primary_dim": "overworld",
+    "rep": "minecraft:lapis_ore",
+    "colour": "blue",
+    "tier": 1
+  },
+  "Lead": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "thermalfoundation:ore",
+      "data": 3
+    },
+    "colour": "purple",
+    "tier": 1
+  },
+  "Lemurite": {
+    "primary_dim": "nether",
+    "rep": "metallurgy:lemurite_ore",
+    "colour": "dark_grey",
+    "tier": 2
+  },
+  "Lithium": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "nuclearcraft:ore",
+      "data": 6
+    },
+    "colour": "white",
+    "tier": 2
+  },
+  "Lutetium": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:lutetium_ore",
+    "colour": "yellow",
+    "tier": 4
+  },
+  "Magnesium": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "nuclearcraft:ore",
+      "data": 7
+    },
+    "colour": "pink",
+    "tier": 1
+  },
+  "Manganese": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:manganese_ore",
+    "colour": "pink",
+    "tier": 2
+  },
+  "Meutoite": {
+    "primary_dim": "end",
+    "rep": "metallurgy:meutoite_ore",
+    "colour": "dark_grey",
+    "tier": 4
+  },
+  "Midasium": {
+    "primary_dim": "nether",
+    "rep": "metallurgy:midasium_ore",
+    "colour": "orange",
+    "tier": 3
+  },
+  "Mithril": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "thermalfoundation:ore",
+      "data": 8
+    },
+    "colour": "light_blue",
+    "tier": 3
+  },
+  "Nickel": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "thermalfoundation:ore",
+      "data": 5
+    },
+    "colour": "yellow",
+    "tier": 3
+  },
+  "Orichalcum": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:orichalcum_ore",
+    "colour": "green",
+    "tier": 3
+  },
+  "Osmium": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "mekanism:oreblock",
+      "data": 0
+    },
+    "colour": "light_blue",
+    "tier": 2
+  },
+  "Osram": {
+    "primary_dim": "nether",
+    "rep": "taiga:osram_ore",
+    "colour": "yellow",
+    "tier": 3
+  },
+  "Oureclase": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:oureclase_ore",
+    "colour": "orange",
+    "tier": 2
+  },
+  "Ovium": {
+    "primary_dim": "overworld",
+    "rep": "taiga:jauxum_ore",
+    "colour": "lime",
+    "tier": 1
+  },
+  "Palladium": {
+    "primary_dim": "end",
+    "rep": "taiga:palladium_ore",
+    "colour": "yellow",
+    "tier": 3
+  },
+  "Phosphorite": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:phosphorite_ore",
+    "colour": "red",
+    "tier": 3
+  },
+  "Platinum": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "thermalfoundation:ore",
+      "data": 6
+    },
+    "colour": "light_blue",
+    "tier": 4
+  },
+  "Potash": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:potash_ore",
+    "colour": "orange",
+    "tier": 1
+  },
+  "Prometheum": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:prometheum_ore",
+    "colour": "green",
+    "tier": 2
+  },
+  "Quartz": {
+    "primary_dim": "nether",
+    "rep": "minecraft:quartz_ore",
+    "colour": "white",
+    "tier": 1
+  },
+  "QuartzBlack": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "actuallyadditions:block_misc",
+      "data": 3
+    },
+    "colour": "black",
+    "tier": 1
+  },
+  "Redstone": {
+    "primary_dim": "overworld",
+    "rep": "minecraft:redstone_ore",
+    "colour": "red",
+    "tier": 1
+  },
+  "Rubracium": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:rubracium_ore",
+    "colour": "red",
+    "tier": 3
+  },
+  "Sanguinite": {
+    "primary_dim": "nether",
+    "rep": "metallurgy:sanguinite_ore",
+    "colour": "brown",
+    "tier": 4
+  },
+  "ShadowIron": {
+    "primary_dim": "nether",
+    "rep": "metallurgy:shadow_iron_ore",
+    "colour": "dark_grey",
+    "tier": 3
+  },
+  "Silver": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "thermalfoundation:ore",
+      "data": 2
+    },
+    "colour": "white",
+    "tier": 1
+  },
+  "Sulfur": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:sulfur_ore",
+    "colour": "yellow",
+    "tier": 0
+  },
+  "Tar": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:tar_ore",
+    "colour": "black",
+    "tier": 0
+  },
+  "Thorium": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "nuclearcraft:ore",
+      "data": 3
+    },
+    "colour": "black",
+    "tier": 2
+  },
+  "Tiberium": {
+    "primary_dim": "nether",
+    "rep": "taiga:tiberium_ore",
+    "colour": "lime",
+    "tier": 1
+  },
+  "Tin": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "thermalfoundation:ore",
+      "data": 1
+    },
+    "colour": "light_grey",
+    "tier": 0
+  },
+  "Uranium": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "immersiveengineering:ore",
+      "data": 5
+    },
+    "colour": "green",
+    "tier": 2
+  },
+  "Uru": {
+    "primary_dim": "end",
+    "rep": "taiga:uru_ore",
+    "colour": "magenta",
+    "tier": 5
+  },
+  "Valyrium": {
+    "primary_dim": "nether",
+    "rep": "taiga:valyrium_ore",
+    "colour": "red",
+    "tier": 4
+  },
+  "Vibranium": {
+    "primary_dim": "overworld",
+    "rep": "taiga:vibranium_ore",
+    "colour": "light_grey",
+    "tier": 5
+  },
+  "Vulcanite": {
+    "primary_dim": "nether",
+    "rep": "metallurgy:vulcanite_ore",
+    "colour": "brown",
+    "tier": 2
+  },
+  "Vyroxeres": {
+    "primary_dim": "nether",
+    "rep": "metallurgy:vyroxeres_ore",
+    "colour": "lime",
+    "tier": 2
+  },
+  "Zinc": {
+    "primary_dim": "overworld",
+    "rep": "metallurgy:zinc_ore",
+    "colour": "yellow",
+    "tier": 0
+  }
+}

@@ -1,6 +1,11 @@
 {
   "outputs": [
     {
+      "target": "black",
+      "weight": 24,
+      "id": "environmentaltech:lonsdaleite_crystal"
+    },
+    {
       "target": "crystal",
       "weight": 200,
       "id": "environmentaltech:litherite_crystal"
@@ -32,488 +37,348 @@
     },
     {
       "target": "black",
-      "weight": 20,
-      "id": "environmentaltech:lonsdaleite_crystal"
+      "weight": 1000,
+      "id": "minecraft:coal_ore"
+    },
+    {
+      "target": "brown",
+      "weight": 934,
+      "id": "minecraft:iron_ore"
+    },
+    {
+      "target": "light_blue",
+      "weight": 864,
+      "id": "mekanism:oreblock:0"
+    },
+    {
+      "target": "orange",
+      "weight": 833,
+      "id": "thermalfoundation:ore:0"
+    },
+    {
+      "target": "light_grey",
+      "weight": 819,
+      "id": "thermalfoundation:ore:1"
     },
     {
       "target": "black",
-      "weight": 1000,
-      "id": "OD:oreCoal"
+      "weight": 819,
+      "id": "actuallyadditions:block_misc:3"
+    },
+    {
+      "target": "red",
+      "weight": 798,
+      "id": "minecraft:redstone_ore"
+    },
+    {
+      "target": "green",
+      "weight": 797,
+      "id": "metallurgy:prometheum_ore"
+    },
+    {
+      "target": "orange",
+      "weight": 789,
+      "id": "metallurgy:potash_ore"
+    },
+    {
+      "target": "pink",
+      "weight": 785,
+      "id": "metallurgy:manganese_ore"
+    },
+    {
+      "target": "red",
+      "weight": 776,
+      "id": "metallurgy:rubracium_ore"
+    },
+    {
+      "target": "white",
+      "weight": 774,
+      "id": "nuclearcraft:ore:6"
+    },
+    {
+      "target": "magenta",
+      "weight": 773,
+      "id": "metallurgy:infuscolium_ore"
+    },
+    {
+      "target": "dark_grey",
+      "weight": 772,
+      "id": "nuclearcraft:ore:5"
+    },
+    {
+      "target": "purple",
+      "weight": 771,
+      "id": "thermalfoundation:ore:3"
+    },
+    {
+      "target": "yellow",
+      "weight": 763,
+      "id": "metallurgy:zinc_ore"
+    },
+    {
+      "target": "yellow",
+      "weight": 760,
+      "id": "metallurgy:sulfur_ore"
+    },
+    {
+      "target": "brown",
+      "weight": 751,
+      "id": "metallurgy:carmot_ore"
     },
     {
       "target": "white",
       "weight": 750,
-      "id": "OD:oreIron"
-    },
-    {
-      "target": "white",
-      "weight": 560,
-      "id": "OD:oreQuartz"
-    },
-    {
-      "target": "red",
-      "weight": 515,
-      "id": "OD:oreRedstone"
-    },
-    {
-      "target": "blue",
-      "weight": 343,
-      "id": "OD:oreLapis"
-    },
-    {
-      "target": "yellow",
-      "weight": 311,
-      "id": "OD:oreGold"
-    },
-    {
-      "target": "cyan",
-      "weight": 218,
-      "id": "OD:oreDiamond"
-    },
-    {
-      "target": "lime",
-      "weight": 156,
-      "id": "OD:oreEmerald"
-    },
-    {
-      "target": "yellow",
-      "weight": 234,
-      "id": "OD:glowstone"
-    },
-    {
-      "target": "orange",
-      "weight": 584,
-      "id": "OD:oreCopper"
-    },
-    {
-      "target": "gray",
-      "weight": 602,
-      "id": "OD:oreTin"
-    },
-    {
-      "target": "silver",
-      "weight": 381,
-      "id": "OD:oreSilver"
-    },
-    {
-      "target": "purple",
-      "weight": 500,
-      "id": "OD:oreLead"
-    },
-    {
-      "target": "white",
-      "weight": 422,
-      "id": "OD:oreAluminum"
-    },
-    {
-      "target": "green",
-      "weight": 140,
-      "id": "OD:oreUranium"
-    },
-    {
-      "target": "yellow",
-      "weight": 156,
-      "id": "OD:oreYellorite"
-    },
-    {
-      "target": "light_blue",
-      "weight": 187,
-      "id": "OD:oreCertusQuartz"
-    },
-    {
-      "target": "light_blue",
-      "weight": 109,
-      "id": "OD:oreChargedCertusQuartz"
-    },
-    {
-      "target": "brown",
-      "weight": 190,
-      "id": "OD:oreCinnabar"
-    },
-    {
-      "target": "orange",
-      "weight": 184,
-      "id": "OD:oreAmber"
-    },
-    {
-      "target": "gray",
-      "weight": 232,
-      "id": "OD:oreNickel"
-    },
-    {
-      "target": "light_blue",
-      "weight": 150,
-      "id": "OD:orePlatinum"
-    },
-    {
-      "target": "light_blue",
-      "weight": 169,
-      "id": "OD:oreMithril"
-    },
-    {
-      "target": "black",
-      "weight": 128,
-      "id": "OD:oreClathrateOilSand"
-    },
-    {
-      "target": "black",
-      "weight": 120,
-      "id": "OD:oreClathrateOilShale"
-    },
-    {
-      "target": "green",
-      "weight": 118,
-      "id": "OD:oreClathrateEnder"
-    },
-    {
-      "target": "yellow",
-      "weight": 145,
-      "id": "OD:oreClathrateGlowstone"
-    },
-    {
-      "target": "red",
-      "weight": 137,
-      "id": "OD:oreClathrateRedstone"
-    },
-    {
-      "target": "yellow",
-      "weight": 222,
-      "id": "OD:oreSulfur"
-    },
-    {
-      "target": "white",
-      "weight": 244,
-      "id": "OD:oreNiter"
-    },
-    {
-      "target": "red",
-      "weight": 113,
-      "id": "OD:oreFirestone"
-    },
-    {
-      "target": "blue",
-      "weight": 163,
-      "id": "OD:oreCobalt"
-    },
-    {
-      "target": "orange",
-      "weight": 159,
-      "id": "OD:oreArdite"
-    },
-    {
-      "target": "light_blue",
-      "weight": 200,
-      "id": "OD:oreApatite"
-    },
-    {
-      "target": "purple",
-      "weight": 142,
-      "id": "draconicevolution:draconium_ore"
-    },
-    {
-      "target": "black",
-      "weight": 190,
-      "id": "OD:oreGraphite"
-    },
-    {
-      "target": "black",
-      "weight": 290,
-      "id": "OD:oreQuartzBlack"
-    },
-    {
-      "target": "white",
-      "weight": 233,
-      "id": "OD:oreMagnesium"
-    },
-    {
-      "target": "white",
-      "weight": 201,
-      "id": "OD:oreLithium"
-    },
-    {
-      "target": "black",
-      "weight": 222,
-      "id": "OD:oreThorium"
-    },
-    {
-      "target": "silver",
-      "weight": 199,
-      "id": "OD:oreBoron"
-    },
-    {
-      "target": "brown",
-      "weight": 177,
-      "id": "deepresonance:resonating_ore"
+      "id": "thermalfoundation:ore:2"
     },
     {
       "target": "pink",
-      "weight": 186,
-      "id": "OD:oreZinc"
+      "weight": 728,
+      "id": "nuclearcraft:ore:7"
     },
     {
-      "target": "white",
-      "weight": 157,
-      "id": "OD:oreIridium"
+      "target": "red",
+      "weight": 721,
+      "id": "thaumcraft:ore_cinnabar"
     },
     {
       "target": "black",
-      "weight": 192,
-      "id": "OD:oreTungsten"
+      "weight": 718,
+      "id": "nuclearcraft:ore:3"
+    },
+    {
+      "target": "green",
+      "weight": 716,
+      "id": "immersiveengineering:ore:5"
+    },
+    {
+      "target": "dark_grey",
+      "weight": 706,
+      "id": "metallurgy:deep_iron_ore"
     },
     {
       "target": "light_blue",
-      "weight": 251,
-      "id": "OD:oreOsmium"
-    },
-    {
-      "target": "white",
-      "weight": 160,
-      "id": "OD:oreSalt"
-    },
-    {
-      "target": "white",
-      "weight": 127,
-      "id": "rftools:dimensional_shard_ore"
-    },
-    {
-      "target": "green",
-      "weight": 190,
-      "id": "OD:oreInferium"
-    },
-    {
-      "target": "silver",
-      "weight": 155,
-      "id": "OD:oreProsperity"
-    },
-    {
-      "target": "blue",
-      "weight": 414,
-      "id": "OD:oreElectrotine"
-    },
-    {
-      "target": "lime",
-      "weight": 223,
-      "id": "OD:oreBrainstone"
-    },
-    {
-      "target": "white",
-      "weight": 111,
-      "id": "thaumcraft:crystal_ordo"
+      "weight": 701,
+      "id": "appliedenergistics2:quartz_ore"
     },
     {
       "target": "yellow",
-      "weight": 111,
-      "id": "thaumcraft:crystal_air"
-    },
-    {
-      "target": "orange",
-      "weight": 111,
-      "id": "thaumcraft:crystal_fire"
-    },
-    {
-      "target": "black",
-      "weight": 111,
-      "id": "thaumcraft:crystal_perditio"
-    },
-    {
-      "target": "purple",
-      "weight": 111,
-      "id": "thaumcraft:crystal_vitium"
-    },
-    {
-      "target": "blue",
-      "weight": 111,
-      "id": "thaumcraft:crystal_aqua"
+      "weight": 697,
+      "id": "minecraft:gold_ore"
     },
     {
       "target": "green",
-      "weight": 111,
-      "id": "thaumcraft:crystal_terra"
+      "weight": 687,
+      "id": "metallurgy:orichalcum_ore"
     },
     {
-      "target": "lime",
-      "weight": 223,
-      "id": "OD:oreBrainstone"
-    },
-    {
-      "target": "white",
-      "weight": 223,
-      "id": "OD:oreTitaniumIron"
-    },
-    {
-      "target": "purple",
-      "weight": 333,
-      "id": "OD:oreSilicon"
-    },
-    {
-      "target": "white",
-      "weight": 95,
-      "id": "astralsorcery:blockcustomore:0"
+      "target": "orange",
+      "weight": 686,
+      "id": "thaumcraft:ore_amber"
     },
     {
       "target": "red",
-      "weight": 200,
-      "id": "OD:oreRuby"
+      "weight": 685,
+      "id": "metallurgy:phosphorite_ore"
     },
     {
-      "target": "green",
-      "weight": 200,
-      "id": "OD:orePeridot"
+      "target": "light_grey",
+      "weight": 661,
+      "id": "metallurgy:astral_silver_ore"
     },
     {
       "target": "orange",
-      "weight": 200,
-      "id": "OD:oreTopaz"
+      "weight": 658,
+      "id": "metallurgy:oureclase_ore"
     },
     {
       "target": "purple",
-      "weight": 200,
-      "id": "OD:oreTanzanite"
-    },
-    {
-      "target": "cyan",
-      "weight": 200,
-      "id": "OD:oreMalachite"
-    },
-    {
-      "target": "blue",
-      "weight": 200,
-      "id": "OD:oreSapphire"
-    },
-    {
-      "target": "orange",
-      "weight": 200,
-      "id": "OD:oreGarnet"
+      "weight": 620,
+      "id": "mysticalworld:amethyst_ore"
     },
     {
       "target": "yellow",
-      "weight": 200,
-      "id": "OD:oreHeliodore"
-    },
-    {
-      "target": "green",
-      "weight": 200,
-      "id": "OD:oreBeryl"
-    },
-    {
-      "target": "green",
-      "weight": 200,
-      "id": "OD:oreIndicolite"
+      "weight": 615,
+      "id": "metallurgy:lutetium_ore"
     },
     {
       "target": "blue",
-      "weight": 200,
-      "id": "OD:oreAquamarine"
+      "weight": 604,
+      "id": "minecraft:lapis_ore"
     },
     {
-      "target": "purple",
-      "weight": 200,
-      "id": "OD:oreIolite"
+      "target": "yellow",
+      "weight": 598,
+      "id": "thermalfoundation:ore:5"
     },
     {
-      "target": "purple",
-      "weight": 200,
-      "id": "OD:oreAmethyst"
+      "target": "light_blue",
+      "weight": 581,
+      "id": "thermalfoundation:ore:6"
     },
     {
-      "target": "pink",
-      "weight": 200,
-      "id": "OD:oreAgate"
+      "target": "light_blue",
+      "weight": 577,
+      "id": "minecraft:diamond_ore"
     },
     {
-      "target": "pink",
-      "weight": 200,
-      "id": "OD:oreMorganite"
+      "target": "light_grey",
+      "weight": 510,
+      "id": "taiga:duranite_ore"
     },
     {
-      "target": "black",
-      "weight": 200,
-      "id": "OD:oreOnyx"
+      "target": "lime",
+      "weight": 477,
+      "id": "taiga:jauxum_ore"
     },
     {
-      "target": "white",
-      "weight": 200,
-      "id": "OD:oreOpal"
+      "target": "lime",
+      "weight": 474,
+      "id": "taiga:jauxum_ore"
     },
     {
       "target": "red",
-      "weight": 200,
-      "id": "OD:oreCarnelian"
+      "weight": 472,
+      "id": "thermalfoundation:ore_fluid:2"
     },
     {
-      "target": "brown",
-      "weight": 200,
-      "id": "OD:oreSpinel"
-    },
-    {
-      "target": "brown",
-      "weight": 200,
-      "id": "OD:oreCitrine"
+      "target": "orange",
+      "weight": 457,
+      "id": "taiga:karmesine_ore"
     },
     {
       "target": "yellow",
-      "weight": 200,
-      "id": "OD:oreJasper"
+      "weight": 425,
+      "id": "metallurgy:atlarus_ore"
     },
     {
-      "target": "yellow",
-      "weight": 200,
-      "id": "OD:oreGoldenBeryl"
+      "target": "light_blue",
+      "weight": 408,
+      "id": "thermalfoundation:ore:8"
     },
     {
-      "target": "green",
-      "weight": 200,
-      "id": "OD:oreMoldavite"
-    },
-    {
-      "target": "cyan",
-      "weight": 200,
-      "id": "OD:oreTurquoise"
-    },
-    {
-      "target": "cyan",
-      "weight": 200,
-      "id": "OD:oreMoonstone"
-    },
-    {
-      "target": "blue",
-      "weight": 200,
-      "id": "OD:oreBlueTopaz"
-    },
-    {
-      "target": "purple",
-      "weight": 200,
-      "id": "OD:oreVioletSapphire"
-    },
-    {
-      "target": "purple",
-      "weight": 200,
-      "id": "OD:oreLepidolite"
-    },
-    {
-      "target": "purple",
-      "weight": 200,
-      "id": "OD:oreAmetrine"
+      "target": "light_blue",
+      "weight": 406,
+      "id": "astralsorcery:blockcustomsandore:0"
     },
     {
       "target": "black",
-      "weight": 200,
-      "id": "OD:oreBlackDiamond"
+      "weight": 300,
+      "id": "thermalfoundation:ore_fluid:1"
     },
     {
       "target": "white",
-      "weight": 200,
-      "id": "OD:oreAlexandrite"
+      "weight": 930,
+      "id": "minecraft:quartz_ore"
     },
     {
-      "target": "white",
-      "weight": 200,
-      "id": "OD:oreChaos"
+      "target": "yellow",
+      "weight": 774,
+      "id": "tconstruct:ore:1"
+    },
+    {
+      "target": "blue",
+      "weight": 770,
+      "id": "tconstruct:ore:0"
+    },
+    {
+      "target": "dark_grey",
+      "weight": 756,
+      "id": "metallurgy:lemurite_ore"
+    },
+    {
+      "target": "orange",
+      "weight": 746,
+      "id": "metallurgy:ignatius_ore"
+    },
+    {
+      "target": "dark_grey",
+      "weight": 728,
+      "id": "metallurgy:shadow_iron_ore"
+    },
+    {
+      "target": "lime",
+      "weight": 700,
+      "id": "taiga:tiberium_ore"
+    },
+    {
+      "target": "brown",
+      "weight": 693,
+      "id": "metallurgy:vulcanite_ore"
+    },
+    {
+      "target": "lime",
+      "weight": 681,
+      "id": "metallurgy:vyroxeres_ore"
+    },
+    {
+      "target": "purple",
+      "weight": 656,
+      "id": "metallurgy:kalendrite_ore"
+    },
+    {
+      "target": "light_blue",
+      "weight": 636,
+      "id": "metallurgy:alduorite_ore"
+    },
+    {
+      "target": "orange",
+      "weight": 596,
+      "id": "metallurgy:midasium_ore"
+    },
+    {
+      "target": "cyan",
+      "weight": 577,
+      "id": "metallurgy:ceruclase_ore"
+    },
+    {
+      "target": "yellow",
+      "weight": 540,
+      "id": "thermalfoundation:ore_fluid:3"
+    },
+    {
+      "target": "brown",
+      "weight": 536,
+      "id": "metallurgy:sanguinite_ore"
+    },
+    {
+      "target": "red",
+      "weight": 430,
+      "id": "taiga:valyrium_ore"
+    },
+    {
+      "target": "yellow",
+      "weight": 74,
+      "id": "taiga:osram_ore"
     },
     {
       "target": "green",
-      "weight": 200,
-      "id": "OD:oreEnderEssence"
+      "weight": 864,
+      "id": "thermalfoundation:ore_fluid:4"
+    },
+    {
+      "target": "purple",
+      "weight": 733,
+      "id": "metallurgy:eximite_ore"
+    },
+    {
+      "target": "dark_grey",
+      "weight": 733,
+      "id": "metallurgy:meutoite_ore"
+    },
+    {
+      "target": "cyan",
+      "weight": 582,
+      "id": "taiga:abyssum_ore"
+    },
+    {
+      "target": "pink",
+      "weight": 498,
+      "id": "taiga:aurorium_ore"
+    },
+    {
+      "target": "yellow",
+      "weight": 497,
+      "id": "taiga:palladium_ore"
     }
   ]
 }

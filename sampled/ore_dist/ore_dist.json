@@ -1,0 +1,444 @@
+{
+  "overworld": {
+    "Coal": {
+      "name": "Coal",
+      "weight": 1000
+    },
+    "Iron": {
+      "name": "Iron",
+      "weight": 934
+    },
+    "Osmium": {
+      "name": "Osmium",
+      "weight": 864
+    },
+    "Quartz": {
+      "name": "Quartz",
+      "weight": 848
+    },
+    "Copper": {
+      "name": "Copper",
+      "weight": 833
+    },
+    "Tin": {
+      "name": "Tin",
+      "weight": 819
+    },
+    "QuartzBlack": {
+      "name": "QuartzBlack",
+      "weight": 819
+    },
+    "Redstone": {
+      "name": "Redstone",
+      "weight": 798
+    },
+    "Prometheum": {
+      "name": "Prometheum",
+      "weight": 797
+    },
+    "Potash": {
+      "name": "Potash",
+      "weight": 789
+    },
+    "Manganese": {
+      "name": "Manganese",
+      "weight": 785
+    },
+    "Rubracium": {
+      "name": "Rubracium",
+      "weight": 776
+    },
+    "Lithium": {
+      "name": "Lithium",
+      "weight": 774
+    },
+    "Infuscolium": {
+      "name": "Infuscolium",
+      "weight": 773
+    },
+    "Boron": {
+      "name": "Boron",
+      "weight": 772
+    },
+    "Lead": {
+      "name": "Lead",
+      "weight": 771
+    },
+    "Zinc": {
+      "name": "Zinc",
+      "weight": 763
+    },
+    "Sulfur": {
+      "name": "Sulfur",
+      "weight": 760
+    },
+    "Carmot": {
+      "name": "Carmot",
+      "weight": 751
+    },
+    "Silver": {
+      "name": "Silver",
+      "weight": 750
+    },
+    "Magnesium": {
+      "name": "Magnesium",
+      "weight": 728
+    },
+    "Cinnabar": {
+      "name": "Cinnabar",
+      "weight": 721
+    },
+    "Thorium": {
+      "name": "Thorium",
+      "weight": 718
+    },
+    "Uranium": {
+      "name": "Uranium",
+      "weight": 716
+    },
+    "DeepIron": {
+      "name": "DeepIron",
+      "weight": 706
+    },
+    "CertusQuartz": {
+      "name": "CertusQuartz",
+      "weight": 701
+    },
+    "Gold": {
+      "name": "Gold",
+      "weight": 697
+    },
+    "Orichalcum": {
+      "name": "Orichalcum",
+      "weight": 687
+    },
+    "Amber": {
+      "name": "Amber",
+      "weight": 686
+    },
+    "Phosphorite": {
+      "name": "Phosphorite",
+      "weight": 685
+    },
+    "Draconium": {
+      "name": "Draconium",
+      "weight": 665
+    },
+    "AstralSilver": {
+      "name": "AstralSilver",
+      "weight": 661
+    },
+    "Oureclase": {
+      "name": "Oureclase",
+      "weight": 658
+    },
+    "Amethyst": {
+      "name": "Amethyst",
+      "weight": 620
+    },
+    "Lutetium": {
+      "name": "Lutetium",
+      "weight": 615
+    },
+    "Lapis": {
+      "name": "Lapis",
+      "weight": 604
+    },
+    "Nickel": {
+      "name": "Nickel",
+      "weight": 598
+    },
+    "Platinum": {
+      "name": "Platinum",
+      "weight": 581
+    },
+    "Diamond": {
+      "name": "Diamond",
+      "weight": 577
+    },
+    "Eezo": {
+      "name": "Eezo",
+      "weight": 543
+    },
+    "Duranite": {
+      "name": "Duranite",
+      "weight": 510
+    },
+    "Jauxum": {
+      "name": "Jauxum",
+      "weight": 477
+    },
+    "Ovium": {
+      "name": "Ovium",
+      "weight": 474
+    },
+    "ClathrateRedstone": {
+      "name": "ClathrateRedstone",
+      "weight": 472
+    },
+    "Karmesine": {
+      "name": "Karmesine",
+      "weight": 457
+    },
+    "Adamantine": {
+      "name": "Adamantine",
+      "weight": 444
+    },
+    "Atlarus": {
+      "name": "Atlarus",
+      "weight": 425
+    },
+    "Mithril": {
+      "name": "Mithril",
+      "weight": 408
+    },
+    "Aquamarine": {
+      "name": "Aquamarine",
+      "weight": 406
+    },
+    "ClathrateOilShale": {
+      "name": "ClathrateOilShale",
+      "weight": 300
+    },
+    "Vibranium": {
+      "name": "Vibranium",
+      "weight": 74
+    }
+  },
+  "nether": {
+    "Quartz": {
+      "name": "Quartz",
+      "weight": 930
+    },
+    "Coal": {
+      "name": "NetherCoal",
+      "weight": 878
+    },
+    "Ardite": {
+      "name": "Ardite",
+      "weight": 774
+    },
+    "Cobalt": {
+      "name": "Cobalt",
+      "weight": 770
+    },
+    "Lemurite": {
+      "name": "Lemurite",
+      "weight": 756
+    },
+    "Copper": {
+      "name": "NetherCopper",
+      "weight": 753
+    },
+    "Iron": {
+      "name": "NetherIron",
+      "weight": 749
+    },
+    "Ignatius": {
+      "name": "Ignatius",
+      "weight": 746
+    },
+    "Tin": {
+      "name": "NetherTin",
+      "weight": 746
+    },
+    "Osmium": {
+      "name": "NetherOsmium",
+      "weight": 744
+    },
+    "Gold": {
+      "name": "NetherGold",
+      "weight": 732
+    },
+    "ShadowIron": {
+      "name": "ShadowIron",
+      "weight": 728
+    },
+    "Redstone": {
+      "name": "NetherRedstone",
+      "weight": 721
+    },
+    "Tiberium": {
+      "name": "Tiberium",
+      "weight": 700
+    },
+    "Lapis": {
+      "name": "NetherLapis",
+      "weight": 695
+    },
+    "Vulcanite": {
+      "name": "Vulcanite",
+      "weight": 693
+    },
+    "Lead": {
+      "name": "NetherLead",
+      "weight": 687
+    },
+    "Vyroxeres": {
+      "name": "Vyroxeres",
+      "weight": 681
+    },
+    "Draconium": {
+      "name": "Draconium",
+      "weight": 656
+    },
+    "Kalendrite": {
+      "name": "Kalendrite",
+      "weight": 656
+    },
+    "Nickel": {
+      "name": "NetherNickel",
+      "weight": 648
+    },
+    "Alduorite": {
+      "name": "Alduorite",
+      "weight": 636
+    },
+    "Aluminum": {
+      "name": "NetherAluminum",
+      "weight": 633
+    },
+    "Silver": {
+      "name": "NetherSilver",
+      "weight": 621
+    },
+    "Diamond": {
+      "name": "NetherDiamond",
+      "weight": 603
+    },
+    "Zinc": {
+      "name": "NetherZinc",
+      "weight": 601
+    },
+    "Midasium": {
+      "name": "Midasium",
+      "weight": 596
+    },
+    "CertusQuartz": {
+      "name": "NetherCertusQuartz",
+      "weight": 589
+    },
+    "Prometheum": {
+      "name": "Prometheum",
+      "weight": 577
+    },
+    "Ceruclase": {
+      "name": "Ceruclase",
+      "weight": 577
+    },
+    "Mithril": {
+      "name": "NetherMithril",
+      "weight": 563
+    },
+    "ClathrateGlowstone": {
+      "name": "ClathrateGlowstone",
+      "weight": 540
+    },
+    "Sanguinite": {
+      "name": "Sanguinite",
+      "weight": 536
+    },
+    "Dilithium": {
+      "name": "NetherDilithium",
+      "weight": 531
+    },
+    "Emerald": {
+      "name": "NetherEmerald",
+      "weight": 526
+    },
+    "Uranium": {
+      "name": "NetherUranium",
+      "weight": 520
+    },
+    "Platinum": {
+      "name": "NetherPlatinum",
+      "weight": 442
+    },
+    "Valyrium": {
+      "name": "Valyrium",
+      "weight": 430
+    },
+    "Iridium": {
+      "name": "NetherIridium",
+      "weight": 396
+    },
+    "ChargedCertusQuartz": {
+      "name": "NetherChargedCertusQuartz",
+      "weight": 287
+    },
+    "Osram": {
+      "name": "Osram",
+      "weight": 74
+    }
+  },
+  "end": {
+    "ClathrateEnder": {
+      "name": "ClathrateEnder",
+      "weight": 864
+    },
+    "Eximite": {
+      "name": "Eximite",
+      "weight": 733
+    },
+    "Meutoite": {
+      "name": "Meutoite",
+      "weight": 733
+    },
+    "Draconium": {
+      "name": "Draconium",
+      "weight": 701
+    },
+    "Gold": {
+      "name": "EndGold",
+      "weight": 671
+    },
+    "Silver": {
+      "name": "EndSilver",
+      "weight": 665
+    },
+    "Nickel": {
+      "name": "EndNickel",
+      "weight": 633
+    },
+    "Diamond": {
+      "name": "EndDiamond",
+      "weight": 603
+    },
+    "Abyssum": {
+      "name": "Abyssum",
+      "weight": 582
+    },
+    "Mithril": {
+      "name": "EndMithril",
+      "weight": 549
+    },
+    "Uranium": {
+      "name": "EndUranium",
+      "weight": 542
+    },
+    "Emerald": {
+      "name": "EndEmerald",
+      "weight": 533
+    },
+    "Iridium": {
+      "name": "EndIridium",
+      "weight": 525
+    },
+    "Aurorium": {
+      "name": "Aurorium",
+      "weight": 498
+    },
+    "Palladium": {
+      "name": "Palladium",
+      "weight": 497
+    },
+    "Platinum": {
+      "name": "EndPlatinum",
+      "weight": 426
+    },
+    "Uru": {
+      "name": "Uru",
+      "weight": 74
+    }
+  }
+}
