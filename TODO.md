@@ -5,5 +5,4 @@
 * add glowing items to librarianlib config
 * remove inscription stamping recipe
 * more advgen turbine materials
-* add all shears to bonsai tree cutting tools
 * unify recipes for common components
