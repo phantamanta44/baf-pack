@@ -224,6 +224,11 @@
       "target": "lime",
       "weight": 681,
       "id": "metallurgy:vyroxeres_ore"
+    },
+    {
+      "target": "orange",
+      "weight": 596,
+      "id": "metallurgy:midasium_ore"
     }
   ]
 }

@@ -363,7 +363,7 @@
     "primary_dim": "nether",
     "rep": "metallurgy:midasium_ore",
     "colour": "orange",
-    "tier": 3
+    "tier": 2
   },
   "Mithril": {
     "primary_dim": "overworld",
