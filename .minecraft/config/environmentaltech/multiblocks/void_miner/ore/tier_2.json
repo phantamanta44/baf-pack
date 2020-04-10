@@ -36,7 +36,7 @@
       "id": "thermalfoundation:ore:0"
     },
     {
-      "target": "light_grey",
+      "target": "light_gray",
       "weight": 819,
       "id": "thermalfoundation:ore:1"
     },
@@ -101,7 +101,7 @@
       "id": "thaumcraft:ore_amber"
     },
     {
-      "target": "light_grey",
+      "target": "light_gray",
       "weight": 661,
       "id": "metallurgy:astral_silver_ore"
     },

@@ -18,9 +18,13 @@ function serItem(item) {
   }
 }
 
+const COLOUR_MAP = {
+  light_grey: 'light_gray', dark_grey: 'gray'
+};
+
 function putEntry(item, weight, colour) {
   oreEntries.push({
-    target: colour, weight, id: serItem(item)
+    target: COLOUR_MAP[colour] || colour, weight, id: serItem(item)
   });
 }
 

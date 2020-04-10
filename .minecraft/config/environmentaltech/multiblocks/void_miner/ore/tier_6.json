@@ -56,7 +56,7 @@
       "id": "thermalfoundation:ore:0"
     },
     {
-      "target": "light_grey",
+      "target": "light_gray",
       "weight": 819,
       "id": "thermalfoundation:ore:1"
     },
@@ -101,7 +101,7 @@
       "id": "metallurgy:infuscolium_ore"
     },
     {
-      "target": "dark_grey",
+      "target": "gray",
       "weight": 772,
       "id": "nuclearcraft:ore:5"
     },
@@ -151,7 +151,7 @@
       "id": "immersiveengineering:ore:5"
     },
     {
-      "target": "dark_grey",
+      "target": "gray",
       "weight": 706,
       "id": "metallurgy:deep_iron_ore"
     },
@@ -181,7 +181,7 @@
       "id": "metallurgy:phosphorite_ore"
     },
     {
-      "target": "light_grey",
+      "target": "light_gray",
       "weight": 661,
       "id": "metallurgy:astral_silver_ore"
     },
@@ -226,7 +226,7 @@
       "id": "taiga:eezo_ore"
     },
     {
-      "target": "light_grey",
+      "target": "light_gray",
       "weight": 510,
       "id": "taiga:duranite_ore"
     },
@@ -276,7 +276,7 @@
       "id": "thermalfoundation:ore_fluid:1"
     },
     {
-      "target": "light_grey",
+      "target": "light_gray",
       "weight": 74,
       "id": "taiga:vibranium_ore"
     },
@@ -296,7 +296,7 @@
       "id": "tconstruct:ore:0"
     },
     {
-      "target": "dark_grey",
+      "target": "gray",
       "weight": 756,
       "id": "metallurgy:lemurite_ore"
     },
@@ -306,7 +306,7 @@
       "id": "metallurgy:ignatius_ore"
     },
     {
-      "target": "dark_grey",
+      "target": "gray",
       "weight": 728,
       "id": "metallurgy:shadow_iron_ore"
     },
@@ -376,7 +376,7 @@
       "id": "metallurgy:eximite_ore"
     },
     {
-      "target": "dark_grey",
+      "target": "gray",
       "weight": 733,
       "id": "metallurgy:meutoite_ore"
     },

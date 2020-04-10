@@ -46,7 +46,7 @@
       "id": "thermalfoundation:ore:0"
     },
     {
-      "target": "light_grey",
+      "target": "light_gray",
       "weight": 819,
       "id": "thermalfoundation:ore:1"
     },
@@ -86,7 +86,7 @@
       "id": "metallurgy:infuscolium_ore"
     },
     {
-      "target": "dark_grey",
+      "target": "gray",
       "weight": 772,
       "id": "nuclearcraft:ore:5"
     },
@@ -146,7 +146,7 @@
       "id": "thaumcraft:ore_amber"
     },
     {
-      "target": "light_grey",
+      "target": "light_gray",
       "weight": 661,
       "id": "metallurgy:astral_silver_ore"
     },
@@ -201,7 +201,7 @@
       "id": "minecraft:quartz_ore"
     },
     {
-      "target": "dark_grey",
+      "target": "gray",
       "weight": 756,
       "id": "metallurgy:lemurite_ore"
     },
