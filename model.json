@@ -2282,5 +2282,109 @@
     "game_version": "V1_12_2",
     "timestamp": 1549884820,
     "dependencies": []
+  }, {
+    "mod": {
+      "slug": "inventory-tweaks",
+      "name": "Inventory Tweaks",
+      "project_id": 223094,
+      "author": "JimeoWan",
+      "license": "UNKNOWN"
+    },
+    "version": "Inventory Tweaks 1.64+dev.151",
+    "file_id": 2923460,
+    "game_version": "V1_12_2",
+    "timestamp": 1586267418,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "forestry",
+      "name": "Forestry",
+      "project_id": 59751,
+      "author": "_ForgeUser7678633",
+      "license": "UNKNOWN"
+    },
+    "version": "forestry_1.12.2-5.8.2.422.jar",
+    "file_id": 2918418,
+    "game_version": "V1_12_2",
+    "timestamp": 1585754302,
+    "dependencies": []
+  }, {
+    "mod": {
+      "slug": "gendustry",
+      "name": "Gendustry",
+      "project_id": 70492,
+      "author": "bdew",
+      "license": "UNKNOWN"
+    },
+    "version": "Gendustry 1.6.5.8 (MC 1.12.2)",
+    "file_id": 2516215,
+    "game_version": "V1_12",
+    "timestamp": 1514929126,
+    "dependencies": ["#70496", "#59751"]
+  }, {
+    "mod": {
+      "slug": "jei-bees",
+      "name": "JEI Bees",
+      "project_id": 248370,
+      "author": "bdew",
+      "license": "UNKNOWN"
+    },
+    "version": "JEI Bees 0.9.0.5 (MC 1.12.2)",
+    "file_id": 2490058,
+    "game_version": "V1_12",
+    "timestamp": 1507833355,
+    "dependencies": ["#59751", "#238222"]
+  }, {
+    "mod": {
+      "slug": "magic-bees",
+      "name": "Magic Bees",
+      "project_id": 65764,
+      "author": "MysteriousAges",
+      "license": "UNKNOWN"
+    },
+    "version": "MagicBees-1.12.2-3.2.25.jar",
+    "file_id": 2855061,
+    "game_version": "V1_12_2",
+    "timestamp": 1578232815,
+    "dependencies": ["#59751"]
+  }, {
+    "mod": {
+      "slug": "binnies-mods",
+      "name": "Binnie's Mods",
+      "project_id": 223525,
+      "author": "_ForgeUser9116757",
+      "license": "UNKNOWN"
+    },
+    "version": "binnie-mods-1.12.2-2.5.1.203.jar",
+    "file_id": 2916129,
+    "game_version": "V1_12_2",
+    "timestamp": 1585527340,
+    "dependencies": ["#59751"]
+  }, {
+    "mod": {
+      "slug": "gendustry-jei-addon",
+      "name": "Gendustry JEI Addon",
+      "project_id": 301364,
+      "author": "ninjabrain1",
+      "license": "UNKNOWN"
+    },
+    "version": "gendustryjei-1.0.2.jar",
+    "file_id": 2609434,
+    "game_version": "V1_12_2",
+    "timestamp": 1535397262,
+    "dependencies": ["#70492", "#238222"]
+  }, {
+    "mod": {
+      "slug": "more-bees",
+      "name": "More Bees",
+      "project_id": 250226,
+      "author": "Tencao",
+      "license": "UNKNOWN"
+    },
+    "version": "morebees-1.12.2-2.0.1.jar",
+    "file_id": 2574459,
+    "game_version": "V1_12_2",
+    "timestamp": 1529444024,
+    "dependencies": ["#59751", "#248453"]
   }]
 }
