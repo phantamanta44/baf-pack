@@ -38,6 +38,15 @@
     "colour": "purple",
     "tier": 2
   },
+  "Apatite": {
+    "primary_dim": "overworld",
+    "rep": {
+      "item": "forestry:resources",
+      "data": 0
+    },
+    "colour": "light_blue",
+    "tier": 1
+  },
   "Aquamarine": {
     "primary_dim": "overworld",
     "rep": {

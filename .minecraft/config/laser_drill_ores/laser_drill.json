@@ -429,6 +429,19 @@
     ]
   },
   {
+    "item": "forestry:resources:0",
+    "color": 12,
+    "rarity": [
+      {
+        "whitelist": "",
+        "blacklist": "minecraft:hell, minecraft:sky",
+        "depth_min": 1,
+        "depth_max": 255,
+        "weight": 622
+      }
+    ]
+  },
+  {
     "item": "mysticalworld:amethyst_ore",
     "color": 5,
     "rarity": [

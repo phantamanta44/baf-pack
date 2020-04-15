@@ -191,6 +191,11 @@
       "id": "metallurgy:oureclase_ore"
     },
     {
+      "target": "light_blue",
+      "weight": 622,
+      "id": "forestry:resources:0"
+    },
+    {
       "target": "purple",
       "weight": 620,
       "id": "mysticalworld:amethyst_ore"

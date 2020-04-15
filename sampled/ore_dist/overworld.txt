@@ -31,6 +31,7 @@
 [16:31:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eDraconium§r - 533 (0.83%)
 [16:31:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eAstralSilver§r - 514 (0.80%)
 [16:31:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eOureclase§r - 499 (0.77%)
+[23:21:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eApatite§r - 354 (0.51%)
 [16:31:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eAmethyst§r - 347 (0.54%)
 [16:31:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eLutetium§r - 333 (0.52%)
 [16:31:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eLapis§r - 299 (0.46%)
