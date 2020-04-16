@@ -2399,5 +2399,31 @@
     "game_version": "V1_12",
     "timestamp": 1504907172,
     "dependencies": []
+  }, {
+    "mod": {
+      "slug": "ic2-tweaker",
+      "name": "IC2 Tweaker",
+      "project_id": 311846,
+      "author": "tttusk",
+      "license": "UNKNOWN"
+    },
+    "version": "IC2-Tweaker 0.2.0",
+    "file_id": 2666979,
+    "game_version": "V1_12_2",
+    "timestamp": 1548887879,
+    "dependencies": ["#242638", "#239197"]
+  }, {
+    "mod": {
+      "slug": "endertweaker",
+      "name": "Ender Tweaker",
+      "project_id": 312195,
+      "author": "Shadows_of_Fire",
+      "license": "UNKNOWN"
+    },
+    "version": "EnderTweaker-1.12.2-1.2.0.jar",
+    "file_id": 2858475,
+    "game_version": "V1_12_2",
+    "timestamp": 1578768963,
+    "dependencies": ["#239197", "#64578"]
   }]
 }
