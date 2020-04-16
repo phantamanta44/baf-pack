@@ -5,4 +5,3 @@
 * add glowing items to librarianlib config
 * remove inscription stamping recipe
 * unify recipes for common components
-* add forestry apatite to ore distribution
