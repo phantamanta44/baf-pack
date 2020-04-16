@@ -1,0 +1,1 @@
+{"forge_marker": 1, "defaults": {"textures": {"top": "advgenerators:blocks/turbine/adamant/top", "bottom": "advgenerators:blocks/turbine/adamant/main", "side": "advgenerators:blocks/turbine/adamant/main"}, "model": "advgenerators:sided_multiblock.extended"}, "variants": {"normal": [{}], "inventory": {"transform": "forge:default-block"}}}

@@ -1,0 +1,1 @@
+{"forge_marker": 1, "defaults": {"textures": {"top": "advgenerators:blocks/turbine/osgloglas/top", "bottom": "advgenerators:blocks/turbine/osgloglas/main", "side": "advgenerators:blocks/turbine/osgloglas/main"}, "model": "advgenerators:sided_multiblock.extended"}, "variants": {"normal": [{}], "inventory": {"transform": "forge:default-block"}}}

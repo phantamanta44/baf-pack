@@ -1,0 +1,1 @@
+{"forge_marker": 1, "defaults": {"textures": {"top": "advgenerators:blocks/turbine/sunnariumalloy/top", "bottom": "advgenerators:blocks/turbine/sunnariumalloy/main", "side": "advgenerators:blocks/turbine/sunnariumalloy/main"}, "model": "advgenerators:sided_multiblock.extended"}, "variants": {"normal": [{}], "inventory": {"transform": "forge:default-block"}}}

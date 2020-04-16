@@ -1,0 +1,160 @@
+{
+  "Iron": {
+    "name": "Iron",
+    "tier": 1,
+    "inertia": 1,
+    "power": 8,
+    "material": "OD:ingotIron",
+    "colour": "0"
+  },
+  
+  "Bronze": {
+    "name": "Bronze",
+    "tier": 2,
+    "inertia": 1,
+    "power": 16,
+    "material": "OD:ingotBronze",
+    "colour": "0"
+  },
+  "Gold": {
+    "name": "Gold",
+    "tier": 2,
+    "inertia": 1.1,
+    "power": 15,
+    "material": "OD:ingotGold",
+    "colour": "0"
+  },
+  "Steel": {
+    "name": "Steel",
+    "tier": 2,
+    "inertia": 0.9,
+    "power": 18,
+    "material": "OD:ingotSteel",
+    "colour": "0"
+  },
+  
+  "Osgloglas": {
+    "name": "Osgloglas",
+    "tier": 3,
+    "inertia": 1.1,
+    "power": 29,
+    "material": "OD:ingotOsgloglas",
+    "colour": "62db59"
+  },
+  "Adv_Alloy": {
+    "name": "Advanced Alloy",
+    "tier": 3,
+    "inertia": 1,
+    "power": 30,
+    "material": "OD:plateAdvancedAlloy",
+    "colour": "0"
+  },
+  "Tough_Alloy": {
+    "name": "Tough Alloy",
+    "tier": 3,
+    "inertia": 0.9,
+    "power": 32,
+    "material": "OD:ingotTough",
+    "colour": "171221"
+  },
+  
+  "Osmiridium": {
+    "name": "Osmiridium",
+    "tier": 4,
+    "inertia": 1.1,
+    "power": 45,
+    "material": "OD:ingotOsmiridium",
+    "colour": "585edb"
+  },
+  "Vibrant": {
+    "name": "Vibrant",
+    "tier": 4,
+    "inertia": 1,
+    "power": 46,
+    "material": "OD:ingotVibrantAlloy",
+    "colour": "0"
+  },
+  "Vivid": {
+    "name": "Vivid",
+    "tier": 4,
+    "inertia": 0.9,
+    "power": 48,
+    "material": "OD:ingotVividAlloy",
+    "colour": "44b9d7"
+  },
+  
+  "Enderium": {
+    "name": "Enderium",
+    "tier": 5,
+    "inertia": 0.9,
+    "power": 66,
+    "material": "OD:ingotEnderium",
+    "colour": "0"
+  },
+  "Thermoconducting_Alloy": {
+    "name": "Thermoconducting",
+    "tier": 5,
+    "inertia": 1,
+    "power": 64,
+    "material": "OD:ingotThermoconducting",
+    "colour": "6c7a57"
+  },
+  "Reinforced_Iridium": {
+    "name": "Reinforced Iridium",
+    "tier": 5,
+    "inertia": 1.1,
+    "power": 63,
+    "material": "I:ic2:crafting@4",
+    "colour": "717d7e"
+  },
+  
+  "Stellar": {
+    "name": "Stellar",
+    "tier": 6,
+    "inertia": 1.1,
+    "power": 108,
+    "material": "OD:ingotStellarAlloy",
+    "colour": "e6e9d8"
+  },
+  "Wyvern": {
+    "name": "Wyvern",
+    "tier": 6,
+    "inertia": 0.9,
+    "power": 128,
+    "material": "I:draconicevolution:wyvern_core",
+    "colour": "693491"
+  },
+  "Aethium": {
+    "name": "Aethium",
+    "tier": 6,
+    "inertia": 1,
+    "power": 148,
+    "material": "OD:crystalAethium",
+    "colour": "292929"
+  },
+  
+  "Awakened": {
+    "name": "Awakened",
+    "tier": 7,
+    "inertia": 1,
+    "power": 768,
+    "material": "I:draconicevolution:awakened_core",
+    "colour": "dc2800"
+  },
+  "Adamant": {
+    "name": "Adamant",
+    "tier": 7,
+    "inertia": 1.1,
+    "power": 640,
+    "material": "OD:ingotAdamant",
+    "colour": "ca70c9"
+  },
+  "Sunnarium_Alloy": {
+    "name": "Sunnarium Alloy",
+    "tier": 7,
+    "inertia": 0.9,
+    "power": 896,
+    "material": "I:advanced_solar_panels:crafting@5",
+    "colour": "a8ff63"
+  }
+}

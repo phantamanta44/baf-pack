@@ -2386,5 +2386,18 @@
     "game_version": "V1_12_2",
     "timestamp": 1529444024,
     "dependencies": ["#59751", "#248453"]
+  }, {
+    "mod": {
+      "slug": "resource-loader",
+      "name": "Resource Loader",
+      "project_id": 226447,
+      "author": "Lumien231",
+      "license": "UNKNOWN"
+    },
+    "version": "ResourceLoader-MC1.12.1-1.5.3.jar",
+    "file_id": 2477566,
+    "game_version": "V1_12",
+    "timestamp": 1504907172,
+    "dependencies": []
   }]
 }

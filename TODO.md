@@ -4,6 +4,5 @@
 * more blood magic meteors
 * add glowing items to librarianlib config
 * remove inscription stamping recipe
-* more advgen turbine materials
 * unify recipes for common components
 * add forestry apatite to ore distribution

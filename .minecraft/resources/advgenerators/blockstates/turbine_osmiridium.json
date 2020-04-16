@@ -1,0 +1,1 @@
+{"forge_marker": 1, "defaults": {"textures": {"top": "advgenerators:blocks/turbine/osmiridium/top", "bottom": "advgenerators:blocks/turbine/osmiridium/main", "side": "advgenerators:blocks/turbine/osmiridium/main"}, "model": "advgenerators:sided_multiblock.extended"}, "variants": {"normal": [{}], "inventory": {"transform": "forge:default-block"}}}

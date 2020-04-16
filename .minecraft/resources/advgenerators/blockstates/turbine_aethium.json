@@ -1,0 +1,1 @@
+{"forge_marker": 1, "defaults": {"textures": {"top": "advgenerators:blocks/turbine/aethium/top", "bottom": "advgenerators:blocks/turbine/aethium/main", "side": "advgenerators:blocks/turbine/aethium/main"}, "model": "advgenerators:sided_multiblock.extended"}, "variants": {"normal": [{}], "inventory": {"transform": "forge:default-block"}}}
