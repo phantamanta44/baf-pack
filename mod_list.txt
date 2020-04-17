@@ -1,164 +1,186 @@
-mekanism
-algane
-mekanismores
-ender-io
-ender-io-endergy
-gas-conduits
-stellar-fluid-conduits
-industrial-craft
-advanced-solar-panels
-gravitation-suite
-advanced-machines
-immersive-engineering
-immersive-tech
-industrial-wires
-immersive-cables
-engineers-doors
-thermal-foundation
-thermal-expansion
-thermal-dynamics
-virtual-machines
-redstone-arsenal
-redstone-repository-revolved
-alchemistry
-applied-energistics-2
-wireless-crafting-terminal
-lazy-ae2
-thaumic-energistics
-simply-jetpacks-2
-integrated-dynamics
-integrated-tunnels
-integrated-crafting
-industrial-foregoing
-integration-foregoing
-rftools
-rftools-power
-draconic-evolution
-advanced-generators
-environmental-tech
-et-lunar-environmental-tech-addon
-actually-additions
-actually-baubles
-astral-sorcery
-botania
-natural-pledge
-blood-magic
-blood-arsenal
-technomancy-2
-wizardry-mod
-embers-rekindled
-soot
-totemic
-roots
-thaumcraft
-thaumcraft-inventory-scanning
-thaumic-tinkerer
-tinkers-construct
-constructs-armory
-tinkers-tool-leveling
-tinkers-memes
-taiga-tinkers-alloying-addon
-plustic
-tinkering-with-blood-magic
-metallurgy-4-reforged
-waystones
-baubley-heart-canisters
-reliquary-v1-3
-extra-utilities
-angel-ring-to-bauble
-the-weirding-gadget
-storage-drawers
-storage-drawers-extras
-metalchests
-chest-transporter
-ender-storage-1-8
-natura
-traverse-legacy
-oreberries
-netherending-ores
-pams-harvestcraft
-bonsai-trees
-unclunkify
-unidict
-tomb-many-graves-2
-pams-get-all-the-seeds
-morpheus
-dirt2path
-clumps
-diet-hoppers
-bad-wither-no-cookie-reloaded
-attributefix
-chisel
-power-chisels
-xtones
-chisels-bits
-better-builders-wands
-exchangers
-bibliocraft
-jei
-just-enough-resources-jer
-jei-integration
-tinkers-jei
-just-enough-energistics-jee
-thaumic-jei
-the-one-probe
-top-addons
-appleskin
-more-overlays
-enchantment-descriptions
-fullscreen-windowed-borderless-for-minecraft
-ding
-custom-backgrounds
-tipthescales
-toast-control
-foamfix-for-minecraft
-betterfps
-fastworkbench
-vanillafix
-surge
-phosphor
-calm-down-zombie-guy
-randompatches
-thermal-foundation
-patchouli
-cofh-world
-ctm
-mantle
-baubles
-cofh-core
-endercore
-mcjtylib
-autoreglib
-brandons-core
-libnine
-tesla
-valkyrielib
-shadowfacts-forgelin
-librarianlib
-a-lib
-codechicken-lib-1-8
-p455w0rds-library
-bdlib
-tesla-core-lib
-cyclops-core
-tbone
-mysticallib
-chameleon
-placebo
-wanionlib
-ae2wtlib
-applecore
-guide-api
-redstone-flux
-common-capabilities
-mystic-world
-mekanism-tools
-mekanism-generators
-useful-nullifiers
-crafttweaker
-modtweaker
-mtlib
-stuff-a-sock-in-it
-shut-up-model-loader
-psi
-psio
+actually-additions (Actually Additions) @2844115 (ActuallyAdditions-1.12.2-r151-2.jar)
+actually-baubles (Actually Baubles) @2459131 (ActuallyBaubles-1.12-1.1.jar)
+advanced-generators (Advanced Generators) @2516219 (Advanced Generators 0.9.20.12 (MC 1.12.2))
+advanced-machines (Advanced Machines) @2667002 (Advanced Machines-61.0.1)
+advanced-solar-panels (Advanced Solar Panels) @2652182 ( Advanced Solar Panels-4.2.1)
+ae2wtlib (AE2 Wireless Terminal Library) @2830114 (AE2WTLib-1.12.2-1.0.34.jar)
+algane (Algane) @2930312 (1.12.2-1.0.1)
+angel-ring-to-bauble (Angel Ring To Bauble) @2518561 (Fly Ring Bauble 0.3.1 [MC1.12,1.12.1,1.12.2; rev 50])
+applecore (AppleCore) @2679415 (AppleCore-mc1.12.2-3.2.0.jar)
+appleskin (AppleSkin) @2496585 (AppleSkin-mc1.12-1.0.9.jar)
+applied-energistics-2 (Applied Energistics 2) @2747063 (appliedenergistics2-rv6-stable-7.jar)
+armory-expansion (Armory Expansion) @2815771 (Armory Expansion 1.4.1)
+astral-sorcery (Astral Sorcery) @2920254 (AstralSorcery-1.12.2-1.10.23.jar)
+attributefix (AttributeFix) @2810157 (AttributeFix-1.12.2-1.0.10.jar)
+autoreglib (AutoRegLib) @2746011 (AutoRegLib-1.3-32.jar)
+bad-wither-no-cookie-reloaded (Bad Wither No Cookie - Reloaded) @2638317 (badwithernocookiereloaded-1.12.2-3.3.16.jar)
+baubles (Baubles) @2518667 (Baubles-1.12-1.5.2.jar)
+baubley-heart-canisters (Baubley Heart Canisters) @2721067 (baubley-heart-canisters-1.12.2-2.0.3.jar)
+bdlib (BdLib) @2518031 (BDLib 1.14.3.12 (MC 1.12.2))
+better-builders-wands (Better Builder's Wands) @2691084 (Better Builder's Wands 0.13.2 [MC1.12; rev 271])
+betterfps (BetterFps) @2483393 (v1.4.8)
+binnies-mods (Binnie's Mods) @2916129 (binnie-mods-1.12.2-2.5.1.203.jar)
+blockcraftery (Blockcraftery) @2716712 (blockcraftery-1.12.2-1.3.1.jar)
+blood-arsenal (Blood Arsenal) @2904183 (BloodArsenal-1.12.2-2.2.2-31.jar)
+blood-magic (Blood Magic ) @2822288 (BloodMagic-1.12.2-2.4.3-105.jar)
+bonsai-trees (Bonsai Trees 2) @2846217 (bonsaitrees-1.1.4-b170.jar)
+botania (Botania) @2846950 (Botania r1.10-363.jar)
+brandons-core (Brandon's Core) @2867147 (BrandonsCore-1.12.2-2.4.18.210-universal)
+chameleon (Chameleon) @2450900 (Chameleon-1.12-4.1.3.jar)
+chisel (Chisel) @2915375 (Chisel - MC1.12.2-1.0.2.45)
+chisels-bits (Chisels & Bits) @2720655 (chiselsandbits-14.33.jar)
+classic-bars (Classic Bars) @2861996 (classicbar-0.5.4.jar)
+clumps (Clumps) @2666198 (Clumps-3.1.2)
+codechicken-lib-1-8 (CodeChicken Lib 1.8.+) @2779848 (CodeChicken Lib 1.12.2-3.2.3.358-universal)
+cofh-core (CoFH Core) @2920433 (CoFHCore-1.12.2-4.6.6.1-universal.jar)
+cofh-world (CoFH World) @2920434 (CoFHWorld-1.12.2-1.4.0.1-universal.jar)
+common-capabilities (Common Capabilities) @2920804 (CommonCapabilities-1.12.2-2.4.6.jar)
+constructs-armory (Construct's Armory) @2882794 (conarm-1.12.2-1.2.5.4.jar)
+controlling (Controlling) @2857064 (Controlling-3.0.8)
+crafttweaker (CraftTweaker) @2838090 (CraftTweaker2-1.12-4.1.20)
+ctm (ConnectedTexturesMod) @2915363 (CTM - MC1.12.2-1.0.2.31)
+custom-backgrounds (Custom Backgrounds) @2445809 (CustomBackgrounds-MC1.12-1.1.1.jar)
+cyclops-core (Cyclops Core) @2920796 (CyclopsCore-1.12.2-1.6.2.jar)
+diet-hoppers (Diet Hoppers) @2482543 (Diet Hoppers 1.1)
+dirt2path (Dirt2Path [FORGE]) @2606175 (Dirt2Path - 1.12.2 - 1.8.0)
+draconic-evolution (Draconic Evolution) @2867186 (Draconic-Evolution-1.12.2-2.3.25.351-universal)
+dynamic-surroundings (Dynamic Surroundings) @2922489 (DynamicSurroundings-1.12.2-3.6.1.0.jar)
+embers-rekindled (Embers Rekindled) @2697221 (EmbersRekindled-1.13-hotfix2.jar)
+enchantment-descriptions (Enchantment Descriptions) @2898966 (EnchantmentDescriptions-1.12.2-1.1.20.jar)
+ender-io (Ender IO) @2858816 (Ender IO - 5.1.55)
+ender-io-endergy (Ender IO Endergy) @2858815 (Ender IO endergy - 5.1.55)
+ender-storage-1-8 (Ender Storage 1.8.+) @2755787 (Ender Storage 1.12.2-2.4.6.137-universal)
+endercore (EnderCore) @2922886 (EnderCore - 1.12.2-0.5.75)
+endertweaker (Ender Tweaker) @2858475 (EnderTweaker-1.12.2-1.2.0.jar)
+engineers-doors (Engineer's Doors) @2625854 (engineers_doors-1.12.2-0.8.0.jar)
+environmental-lunartech (ET Lunar [Environmental Tech Addon]) @2691537 (etlunar-1.12.2-2.0.20.1.jar)
+environmental-tech (Environmental Tech) @2691536 (environmentaltech-1.12.2-2.0.20.1.jar)
+exchangers (Exchangers) @2903998 (Exchangers-1.12.2-2.9.jar)
+extra-utilities (Extra Utilities) @2678374 (Extra Utilities 2 - 1.12 - 1.9.9)
+fastworkbench (FastWorkbench) @2838777 (FastWorkbench-1.12.2-1.7.3.jar)
+filing-cabinets-refurbished (Filing Cabinets Refurbished) @2849149 (1.12.2-1.0.0)
+foamfix-optimization-mod (FoamFix?) @2845668 (FoamFix 0.10.10 (1.12.2))
+forestry (Forestry) @2918418 (forestry_1.12.2-5.8.2.422.jar)
+ftb-backups (FTB Backups) @2819669 (FTBBackups-1.1.0.1.jar)
+ftb-utilities (FTB Utilities) @2835289 (FTBUtilities-5.4.0.124.jar)
+ftblib (FTB Library) @2891572 (FTBLib-5.4.7.0.jar)
+fullscreen-windowed-borderless-for-minecraft (Fullscreen Windowed (Borderless) for Minecraft) @2456007 (Fullscreen Windowed 1.6.0, MC 1.12 and up)
+gas-conduits (Gas Conduits) @2755340 (GasConduits-1.12.2-1.2.2.jar)
+gendustry (Gendustry) @2516215 (Gendustry 1.6.5.8 (MC 1.12.2))
+gendustry-jei-addon (Gendustry JEI Addon) @2609434 (gendustryjei-1.0.2.jar)
+gravitation-suite (Gravitation Suite) @2700845 (Gravitation Suite-3.1.1)
+guide-api (Guide-API) @2645992 (Guide-API-1.12-2.1.8-63.jar)
+gunpowderlib (GunpowderLib) @2852431 (GunpowderLib-1.12.2-1.0.jar)
+ic2-tweaker (IC2 Tweaker) @2666979 (IC2-Tweaker 0.2.0)
+immersive-cables (Immersive Cables) @2595013 (ImmersiveCables-1.12.2-1.3.2.jar)
+immersive-engineering (Immersive Engineering) @2799143 (Immersive Engineering 0.12 - 92)
+immersive-tech (Immersive Tech) @2568579 (immersivetech-1.12-1.3.10.jar)
+industrial-craft (Industrial Craft) @2746892 (industrialcraft-2-2.8.170-ex112.jar)
+industrial-foregoing (Industrial Foregoing) @2745321 (industrialforegoing-1.12.2-1.12.13-237.jar)
+industrial-wires (Industrial Wires) @2664750 (1.7-36 (MC 1.12.x))
+integrated-dynamics (Integrated Dynamics) @2921576 (IntegratedDynamics-1.12.2-1.1.4.jar)
+integrated-tunnels (Integrated Tunnels) @2920817 (IntegratedTunnels-1.12.2-1.6.11.jar)
+integration-foregoing (Integration Foregoing) @2904594 (IntegrationForegoing-1.12.2-1.10.jar)
+inventory-tweaks (Inventory Tweaks) @2923460 (Inventory Tweaks 1.64+dev.151)
+jei (Just Enough Items (JEI)) @2847112 (jei_1.12.2-4.15.0.293.jar)
+jei-bees (JEI Bees) @2490058 (JEI Bees 0.9.0.5 (MC 1.12.2))
+jei-integration (JEI Integration) @2491927 (jeiintegration_1.12.2-1.5.1.36)
+jeid (JustEnoughIDs) @2919737 (JustEnoughIDs 1.0.3-55)
+journeymap (JourneyMap) @2916002 (journeymap-1.12.2-5.7.1)
+just-enough-energistics-jee (Just Enough Energistics (JEE)) @2783832 (JustEnoughEnergistics-1.12.2-1.0.8.jar)
+just-enough-resources-jer (Just Enough Resources (JER)) @2728585 (JustEnoughResources-1.12.2-0.9.2.60)
+lazy-ae2 (Lazy AE2) @2905120 (1.12.2-1.1.13)
+libnine (LibNine) @2930186 (1.12.2-1.1.7)
+librarianlib (LibrarianLib) @2836225 (librarianlib-1.12.2-4.20.jar)
+loot-capacitor-tooltips (Loot Capacitor Tooltips) @2687139 (lootcapacitortooltips-1.3.jar)
+magic-bees (Magic Bees) @2855061 (MagicBees-1.12.2-3.2.25.jar)
+mantle (Mantle) @2713386 (Mantle-1.12-1.3.3.55.jar)
+mcjtylib (McJtyLib) @2745846 (McJtyLib - 1.12-3.5.4)
+mekanism (Mekanism) @2835175 (Mekanism-1.12.2-9.8.3.390.jar)
+mekanism-generators (Mekanism Generators) @2835177 (MekanismGenerators-1.12.2-9.8.3.390.jar)
+mekanism-tools (Mekanism Tools) @2835178 (MekanismTools-1.12.2-9.8.3.390.jar)
+mekanismores (MekanismOres) @2884937 (1.12.2-2.0.13)
+metalchests (Metal Chests) @2751488 (Release v6.1.0)
+metallurgy-4-reforged (Metallurgy 4: Reforged) @2894502 (Metallurgy-4-Reforged-0.3.3)
+mod-name-tooltip (Mod Name Tooltip) @2739582 (1.10.1)
+modtweaker (ModTweaker) @2881277 (modtweaker-4.0.18)
+more-bees (More Bees) @2574459 (morebees-1.12.2-2.0.1.jar)
+more-overlays (More Overlays) @2745657 (moreoverlays-1.15.1-mc1.12.2.jar)
+morpheus (Morpheus) @2664449 (Morpheus-1.12.2-3.5.106.jar)
+mouse-tweaks (Mouse Tweaks) @2671937 ([1.12.2] Mouse Tweaks 2.10)
+mtlib (MTLib) @2684561 (MTLib-3.0.6)
+mystical-world (Mystical World) @2918177 (mysticalworld-1.12.2-1.8.3.jar)
+mysticallib (MysticalLib) @2912859 (mysticallib-1.12.2-1.7.0.jar)
+natura (Natura) @2711439 (natura-1.12.2-4.3.2.69.jar)
+natural-pledge (Natural Pledge) @2740703 (NaturalPledge-r3.1.2.jar)
+netherending-ores (Netherending Ores) @2922337 (Netherending Ores 1.4)
+nuclearcraft-mod (NuclearCraft) @2921192 (NuclearCraft-2.18r-1.12.2)
+openblocks-elevator (OpenBlocks Elevator) @2845365 (ElevatorMod-1.12.2-1.3.14.jar)
+oreberries (Oreberries) @2578045 (0.5.0 for 1.12.x)
+orelib (OreLib) @2820815 (OreLib-1.12.2-3.6.0.1.jar)
+p455w0rds-library (p455w0rd's Library) @2830265 (p455w0rdslib-1.12.2-2.3.161.jar)
+pams-get-all-the-seeds (Pam's Get All the Seeds!) @2445431 (Pam's Get all the Seeds! 1.12a.jar)
+pams-harvestcraft (Pam's HarvestCraft) @2904825 (Pam's HarvestCraft 1.12.2zg.jar)
+patchouli (Patchouli) @2731963 (Patchouli-1.0-20.jar)
+phosphor-forge (Phosphor (Forge)) @2919497 (Phosphor mc1.12.2-0.2.7)
+placebo (Placebo) @2694382 (Placebo-1.12.2-1.6.0.jar)
+plustic (PlusTiC) @2920858 (plustic-8.0.0.1.jar)
+power-chisels (Power Chisels) @2663543 (powerchisels-1.0.0-beta-3.jar)
+project-vibrant-journeys (Project: Vibrant Journeys) @2775566 (ProjectVibrantJourneys-1.12.2-1.6.4.jar)
+psi (Psi) @2724967 (Psi-r1.1-77.jar)
+psio (Psio) @2778670 (1.12.2-1.0.1)
+random-psideas (Random PSIdeas) @2725942 (Random PSIdeas-2.4.2)
+randompatches (RandomPatches) @2921432 (RandomPatches 1.21.0.1)
+realistic-terrain-generation (Realistic Terrain Generation) @2782568 (RTG-1.12.2-6.1.0.0-snapshot.1)
+redstone-arsenal (Redstone Arsenal) @2920435 (RedstoneArsenal-1.12.2-2.6.4.1-universal.jar)
+redstone-flux (Redstone Flux) @2920436 (RedstoneFlux-1.12-2.1.1.1-universal.jar)
+redstone-repository-revolved (Redstone Repository Revolved) @2695517 (RedstoneRepository-1.12.2-1.4.0-dev-universal.jar)
+reliquary-v1-3 (Reliquary v1.3) @2761319 (Reliquary-1.12.2-1.3.4.796.jar)
+resource-loader (Resource Loader) @2477566 (ResourceLoader-MC1.12.1-1.5.3.jar)
+rftools (RFTools) @2861573 (RFTools - 1.12-7.73)
+roguelike-dungeons (Roguelike Dungeons) @2492586 (RoguelikeDungeons-1.12.2-1.8.0.jar)
+roots (Roots) @2912862 (Roots-1.12.2-3.0.26.jar)
+shadowfacts-forgelin (Shadowfacts' Forgelin) @2785465 (Forgelin-1.8.4.jar)
+shut-up-model-loader (Shut Up, Model Loader!) @2768009 (1.12.2-1.0.0)
+simply-jetpacks-2 (Simply Jetpacks 2) @2789696 (SimplyJetpacks2-1.12.2-2.2.14.67.jar)
+soot (Soot) @2697925 (Soot-1.6.jar)
+stellar-fluid-conduits (Stellar Fluid Conduits) @2762956 (stellarfluidconduit-1.12.2-1.0.2a.jar)
+storage-drawers (Storage Drawers) @2887858 (StorageDrawers-1.12.2-5.4.1.jar)
+storage-drawers-extras (Storage Drawers Extras) @2443623 (StorageDrawersExtras-1.12-3.1.0.jar)
+stuff-a-sock-in-it (Stuff A Sock In It) @2810142 (StuffASockInIt-1.12.2-1.1.32.jar)
+surge (Surge) @2916357 (Surge-1.12.2-2.0.79.jar)
+taiga-tinkers-alloying-addon (TAIGA (Tinkers alloying addon)) @2626416 (taiga-1.3.4)
+tbone (TBone) @2748902 (Release v1.6.8)
+tesla (TESLA) @2487959 (Tesla-1.12.2-1.0.63.jar)
+tesla-core-lib (Tesla Core Lib) @2891841 (Tesla Core Lib : 1.0.17.25)
+thaumcraft (Thaumcraft) @2629023 (Thaumcraft-1.12.2-6.1.BETA26.jar)
+thaumcraft-inventory-scanning (Thaumic Inventory Scanning (Thaumcraft Addon)) @2559089 (ThaumicInventoryScanning_1.12.2-2.0.10.jar)
+thaumic-energistics (Thaumic Energistics) @2915506 ((AE2-RV6) Thaumic Energistics 2.2.4)
+thaumic-jei (Thaumic JEI) @2705304 (ThaumicJEI-1.12.2-1.6.0-27.jar)
+thaumic-tinkerer (Thaumic Tinkerer) @2596484 (Thaumic Tinkerer 1.12.2 5.0 ALPHA1.4.2)
+the-one-probe (The One Probe) @2667280 (TheOneProbe - 1.12-1.4.28)
+thermal-dynamics (Thermal Dynamics) @2920505 (ThermalDynamics-1.12.2-2.5.6.1-universal.jar)
+thermal-expansion (Thermal Expansion) @2920438 (ThermalExpansion-1.12.2-5.5.6.1-universal.jar)
+thermal-foundation (Thermal Foundation) @2920504 (ThermalFoundation-1.12.2-2.6.6.1-universal.jar)
+tinkering-with-blood-magic (Tinkering with Blood Magic) @2638208 (bloodtinker-1.0.5)
+tinkers-construct (Tinkers Construct) @2902483 (TConstruct-1.12.2-2.13.0.183.jar)
+tinkers-jei (Tinker's JEI) @2701203 (tinkersjei-1.2.jar)
+tinkers-memes (Tinkers' MEMES) @2826019 (1.12.2-1.0.9)
+tinkers-tool-leveling (Tinkers' Tool Leveling) @2630860 (TinkerToolLeveling-1.12.2-1.1.0.jar)
+tipthescales (TipTheScales) @2689835 (TipTheScales-1.12.2-1.0.4)
+toast-control (Toast Control) @2707353 (Toast Control-1.12.2-1.8.1.jar)
+tomb-many-graves-2 (Tomb Many Graves 2) @2619249 (TombManyGraves2-1.12-4.2.0)
+top-addons (TOP Addons) @2887479 (topaddons-1.12.2-1.13.0.jar)
+totemic (Totemic) @2700798 (Totemic-1.12.2-0.11.6.jar)
+traverse-legacy-continued (Traverse: Legacy Continued) @2613657 (Traverse v1.6.0 build69 for 1.12.2)
+unclunkify (Unclunkify) @2930189 (1.12.2-1.0.4)
+unidict (UniDict) @2880863 (UniDict-1.12.2-2.9.6.jar)
+useful-nullifiers (Useful Nullifiers) @2588336 (usefulnullifiers-1.5.0.jar)
+valkyrielib (ValkyrieLib) @2691542 (valkyrielib-1.12.2-2.0.20.1.jar)
+vanillafix (VanillaFix) @2915154 (VanillaFix 1.0.10-150)
+virtual-machines (Virtual Machines) @2625381 (VirtualMachines-1.12.2-1.0.0.5.jar)
+wanionlib (WanionLib) @2807433 (WanionLib-1.12.2-2.4.jar)
+waystones (Waystones) @2859589 (Waystones_1.12.2-4.1.0.jar)
+wireless-crafting-terminal (Wireless Crafting Terminal) @2830252 (WirelessCraftingTerminal-1.12.2-3.12.97.jar)
+wizardry-mod (Wizardry Mod) @2726334 (wizardry-0.10.8.jar)
+xtones (Xtones) @2531411 (Xtones-1.12-1.0.8-11.jar)
