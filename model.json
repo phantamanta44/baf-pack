@@ -67,10 +67,10 @@
       "author": "phantamanta44",
       "license": "UNKNOWN"
     },
-    "version": "1.12.2-1.0.1",
-    "file_id": 2930312,
+    "version": "1.12.2-1.0.2",
+    "file_id": 2934965,
     "game_version": "V1_12_2",
-    "timestamp": 1586901195,
+    "timestamp": 1587329274,
     "dependencies": ["#268560", "#322344"]
   }, {
     "mod": {
