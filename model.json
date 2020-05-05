@@ -223,10 +223,10 @@
       "author": "TeamCoFH",
       "license": "UNKNOWN"
     },
-    "version": "ThermalFoundation-1.12.2-2.6.6.1-universal.jar",
-    "file_id": 2920504,
+    "version": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+    "file_id": 2926428,
     "game_version": "V1_12_2",
-    "timestamp": 1585964447,
+    "timestamp": 1586543127,
     "dependencies": ["#69162", "#271384"]
   }, {
     "mod": {
@@ -236,10 +236,10 @@
       "author": "TeamCoFH",
       "license": "UNKNOWN"
     },
-    "version": "ThermalExpansion-1.12.2-5.5.6.1-universal.jar",
-    "file_id": 2920438,
+    "version": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+    "file_id": 2926431,
     "game_version": "V1_12_2",
-    "timestamp": 1585958035,
+    "timestamp": 1586543147,
     "dependencies": ["#242818", "#222880"]
   }, {
     "mod": {
@@ -275,10 +275,10 @@
       "author": "TeamCoFH",
       "license": "UNKNOWN"
     },
-    "version": "RedstoneArsenal-1.12.2-2.6.4.1-universal.jar",
-    "file_id": 2920435,
+    "version": "RedstoneArsenal-1.12.2-2.6.6.1-universal.jar",
+    "file_id": 2939416,
     "game_version": "V1_12_2",
-    "timestamp": 1585957946,
+    "timestamp": 1587747096,
     "dependencies": ["#69162"]
   }, {
     "mod": {
@@ -327,10 +327,10 @@
       "author": "phantamanta44",
       "license": "UNKNOWN"
     },
-    "version": "1.12.2-1.1.13",
-    "file_id": 2905120,
+    "version": "1.12.2-1.1.14",
+    "file_id": 2949251,
     "game_version": "V1_12_2",
-    "timestamp": 1584589083,
+    "timestamp": 1588710939,
     "dependencies": ["#322344", "#223794"]
   }, {
     "mod": {
@@ -366,10 +366,10 @@
       "author": "kroeser",
       "license": "UNKNOWN"
     },
-    "version": "IntegratedDynamics-1.12.2-1.1.4.jar",
-    "file_id": 2921576,
+    "version": "IntegratedDynamics-1.12.2-1.1.5.jar",
+    "file_id": 2929963,
     "game_version": "V1_12_2",
-    "timestamp": 1586066714,
+    "timestamp": 1586878993,
     "dependencies": ["#247007", "#232758"]
   }, {
     "mod": {
@@ -626,11 +626,11 @@
       "author": "EpicSquid319",
       "license": "UNKNOWN"
     },
-    "version": "Roots-1.12.2-3.0.26.jar",
-    "file_id": 2912862,
+    "version": "Roots-1.12.2-3.0.28.jar",
+    "file_id": 2948800,
     "game_version": "V1_12_2",
-    "timestamp": 1585185188,
-    "dependencies": ["#282940", "#306770", "#277064"]
+    "timestamp": 1588673271,
+    "dependencies": ["#306770", "#282940", "#277064"]
   }, {
     "mod": {
       "slug": "thaumcraft",
@@ -665,10 +665,10 @@
       "author": "Nekosune",
       "license": "UNKNOWN"
     },
-    "version": "Thaumic Tinkerer 1.12.2 5.0 ALPHA1.4.2",
-    "file_id": 2596484,
+    "version": "Thaumic Tinkerer 1.12.2 5.0 BETA1.1",
+    "file_id": 2944913,
     "game_version": "V1_12_2",
-    "timestamp": 1533164743,
+    "timestamp": 1588281320,
     "dependencies": ["#223628"]
   }, {
     "mod": {
@@ -691,11 +691,11 @@
       "author": "TheIllusiveC4",
       "license": "UNKNOWN"
     },
-    "version": "conarm-1.12.2-1.2.5.4.jar",
-    "file_id": 2882794,
+    "version": "conarm-1.12.2-1.2.5.8.jar",
+    "file_id": 2947740,
     "game_version": "V1_12_2",
-    "timestamp": 1581841080,
-    "dependencies": ["#74924", "#74072"]
+    "timestamp": 1588551352,
+    "dependencies": ["#74072", "#74924"]
   }, {
     "mod": {
       "slug": "tinkers-tool-leveling",
@@ -938,10 +938,10 @@
       "author": "ic_trab",
       "license": "UNKNOWN"
     },
-    "version": "Netherending Ores 1.4",
-    "file_id": 2922337,
-    "game_version": "V1_12",
-    "timestamp": 1586144269,
+    "version": "Netherending Ores 1.4.1",
+    "file_id": 2927239,
+    "game_version": "V1_12_2",
+    "timestamp": 1586619919,
     "dependencies": []
   }, {
     "mod": {
@@ -1458,10 +1458,10 @@
       "author": "TheRandomLabs",
       "license": "UNKNOWN"
     },
-    "version": "RandomPatches 1.21.0.1",
-    "file_id": 2921432,
+    "version": "RandomPatches 1.12.2-1.21.0.3",
+    "file_id": 2943191,
     "game_version": "V1_12",
-    "timestamp": 1586051556,
+    "timestamp": 1588131657,
     "dependencies": []
   }, {
     "mod": {
@@ -1601,10 +1601,10 @@
       "author": "phantamanta44",
       "license": "UNKNOWN"
     },
-    "version": "1.12.2-1.1.7",
-    "file_id": 2930186,
+    "version": "1.12.2-1.1.8",
+    "file_id": 2949243,
     "game_version": "V1_12_2",
-    "timestamp": 1586892807,
+    "timestamp": 1588710748,
     "dependencies": []
   }, {
     "mod": {
@@ -1718,10 +1718,10 @@
       "author": "kroeser",
       "license": "UNKNOWN"
     },
-    "version": "CyclopsCore-1.12.2-1.6.2.jar",
-    "file_id": 2920796,
+    "version": "CyclopsCore-1.12.2-1.6.3.jar",
+    "file_id": 2929967,
     "game_version": "V1_12_2",
-    "timestamp": 1586005358,
+    "timestamp": 1586879023,
     "dependencies": []
   }, {
     "mod": {
@@ -1861,11 +1861,11 @@
       "author": "EpicSquid319",
       "license": "UNKNOWN"
     },
-    "version": "mysticalworld-1.12.2-1.8.3.jar",
-    "file_id": 2918177,
+    "version": "mysticalworld-1.12.2-1.8.4.jar",
+    "file_id": 2924136,
     "game_version": "V1_12_2",
-    "timestamp": 1585728908,
-    "dependencies": ["#277064", "#306770"]
+    "timestamp": 1586327234,
+    "dependencies": ["#306770", "#277064"]
   }, {
     "mod": {
       "slug": "mekanism-tools",
@@ -1926,10 +1926,10 @@
       "author": "Jaredlll08",
       "license": "UNKNOWN"
     },
-    "version": "CraftTweaker2-1.12-4.1.20",
-    "file_id": 2838090,
+    "version": "CraftTweaker2-1.12-4.1.20.564.jar",
+    "file_id": 2928558,
     "game_version": "V1_12_2",
-    "timestamp": 1575755586,
+    "timestamp": 1586740470,
     "dependencies": []
   }, {
     "mod": {
@@ -1965,10 +1965,10 @@
       "author": "Jaredlll08",
       "license": "UNKNOWN"
     },
-    "version": "Controlling-3.0.8",
-    "file_id": 2857064,
+    "version": "Controlling-3.0.9",
+    "file_id": 2926366,
     "game_version": "V1_12_2",
-    "timestamp": 1578533067,
+    "timestamp": 1586537584,
     "dependencies": []
   }, {
     "mod": {
@@ -2004,10 +2004,10 @@
       "author": "Vazkii",
       "license": "UNKNOWN"
     },
-    "version": "Psi-r1.1-77.jar",
-    "file_id": 2724967,
+    "version": "Psi-r1.1-78.jar",
+    "file_id": 2946101,
     "game_version": "V1_12_2",
-    "timestamp": 1560607161,
+    "timestamp": 1588385819,
     "dependencies": ["#250363"]
   }, {
     "mod": {
@@ -2056,11 +2056,11 @@
       "author": "AshuraNoYami",
       "license": "UNKNOWN"
     },
-    "version": "Armory Expansion 1.4.1",
-    "file_id": 2815771,
+    "version": "Armory Expansion 1.4.2",
+    "file_id": 2925154,
     "game_version": "V1_12_2",
-    "timestamp": 1571947688,
-    "dependencies": ["#74924", "#287683", "#74072"]
+    "timestamp": 1586435413,
+    "dependencies": ["#287683", "#74072", "#74924"]
   }, {
     "mod": {
       "slug": "openblocks-elevator",
