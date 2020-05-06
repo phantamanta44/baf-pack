@@ -1,7 +1,7 @@
 {
   "name": "Bad and Free",
   "author": "phantamanta44",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "game_version": "V1_12_2",
   "mod_loaders": [{
     "loader": "FORGE",
