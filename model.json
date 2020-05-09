@@ -327,11 +327,11 @@
       "author": "phantamanta44",
       "license": "UNKNOWN"
     },
-    "version": "1.12.2-1.1.14",
-    "file_id": 2949251,
+    "version": "1.12.2-1.1.15",
+    "file_id": 2950352,
     "game_version": "V1_12_2",
-    "timestamp": 1588710939,
-    "dependencies": ["#322344", "#223794"]
+    "timestamp": 1588824866,
+    "dependencies": ["#223794", "#322344"]
   }, {
     "mod": {
       "slug": "thaumic-energistics",
