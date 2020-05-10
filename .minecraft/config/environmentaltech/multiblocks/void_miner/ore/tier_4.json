@@ -51,7 +51,7 @@
       "id": "thermalfoundation:ore:0"
     },
     {
-      "target": "light_gray",
+      "target": "silver",
       "weight": 819,
       "id": "thermalfoundation:ore:1"
     },
@@ -176,7 +176,7 @@
       "id": "metallurgy:phosphorite_ore"
     },
     {
-      "target": "light_gray",
+      "target": "silver",
       "weight": 661,
       "id": "metallurgy:astral_silver_ore"
     },
@@ -209,6 +209,11 @@
       "target": "light_blue",
       "weight": 577,
       "id": "minecraft:diamond_ore"
+    },
+    {
+      "target": "lime",
+      "weight": 488,
+      "id": "minecraft:emerald_ore"
     },
     {
       "target": "lime",

@@ -56,7 +56,7 @@
       "id": "thermalfoundation:ore:0"
     },
     {
-      "target": "light_gray",
+      "target": "silver",
       "weight": 819,
       "id": "thermalfoundation:ore:1"
     },
@@ -181,7 +181,7 @@
       "id": "metallurgy:phosphorite_ore"
     },
     {
-      "target": "light_gray",
+      "target": "silver",
       "weight": 661,
       "id": "metallurgy:astral_silver_ore"
     },
@@ -231,9 +231,14 @@
       "id": "taiga:eezo_ore"
     },
     {
-      "target": "light_gray",
+      "target": "silver",
       "weight": 510,
       "id": "taiga:duranite_ore"
+    },
+    {
+      "target": "lime",
+      "weight": 488,
+      "id": "minecraft:emerald_ore"
     },
     {
       "target": "lime",
@@ -281,7 +286,7 @@
       "id": "thermalfoundation:ore_fluid:1"
     },
     {
-      "target": "light_gray",
+      "target": "silver",
       "weight": 74,
       "id": "taiga:vibranium_ore"
     },

@@ -5,12 +5,11 @@ oreMeta = JSON.parse(fs.readFileSync('ore_metadata.json', { encoding: 'utf-8' })
 
 const oreEntries = [];
 
-const colours = {
-  black: 0, red: 1, green: 2, brown: 3,
-  blue: 4, purple: 5, cyan: 6, light_grey: 7,
-  dark_grey: 8, pink: 9, lime: 10, yellow: 11,
-  light_blue: 12, magenta: 13, orange: 14, white: 15
-};
+const colsArr = ['white', 'orange', 'magenta', 'light_blue', 'yellow', 'lime', 'pink', 'grey', 'light_grey', 'cyan', 'purple', 'blue', 'brown', 'green', 'red', 'black'];
+const colours = {};
+for (let i = 0; i < colsArr.length; i++) {
+  colours[colsArr[i]] = i;
+}
 
 function serItem(item) {
   if (typeof(item) === 'string') {

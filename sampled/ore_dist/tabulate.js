@@ -22,6 +22,9 @@ function parseDistribution(data, dim) {
           const count = parseInt(m[2].replace(/,/g, ''));
           if (!isNaN(count) && count > 0) {
             distr[oreKey] = { name: oreName, weight: Math.ceil(Math.log(count) * logScale) };
+          } else {
+            console.log(`Bad count for ${oreName}: ${m[2]}`);
+            errored = true;
           }
         } else {
           console.log(`Unknown ore: ${oreName}`);

@@ -40,6 +40,7 @@
 [16:31:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eDiamond§r - 232 (0.36%)
 [16:31:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eEezo§r - 168 (0.26%)
 [16:31:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eDuranite§r - 123 (0.19%)
+[00:00:00] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eEmerald§r - 100 (0.00%)
 [16:31:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eJauxum§r - 90 (0.14%)
 [16:31:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eOvium§r - 88 (0.14%)
 [16:31:25] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT]  * §eClathrateRedstone§r - 86 (0.13%)

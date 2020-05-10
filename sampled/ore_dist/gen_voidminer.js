@@ -19,7 +19,7 @@ function serItem(item) {
 }
 
 const COLOUR_MAP = {
-  light_grey: 'light_gray', dark_grey: 'gray'
+  light_grey: 'silver', dark_grey: 'gray'
 };
 
 function putEntry(item, weight, colour) {
